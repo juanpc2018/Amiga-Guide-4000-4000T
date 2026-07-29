@@ -107,6 +107,8 @@ New GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest 
 some PCI upgrade Riser cards like Mediator allow installing Voodoo PCI cards + Warp3D drivers. </br>
 There are 3D Voodoo Replica cards, and also FPGA replica FuryGPU card in development. </br>
 
+GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/driver/video/Picasso96).[emu](https://aminet.net/package/driver/video/P96Emu) or latest Paid [P96 v3.6.3](https://wiki.icomp.de/wiki/P96) version </br>
+
 ## HW 68K Alternatives: 
 [Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board replacement, with socket for a Real 68K CPU &/or compatible accelerator boards. </br>
 BFG, TF, Apollo Vampire, etc... </br>
@@ -121,7 +123,7 @@ there is also New developers like [Geezer games](https://mcgeezer.itch.io/) </br
 if you search youtube "New Amiga Games in 2020 / 2021 / [2022](https://www.youtube.com/watch?v=KK9zg2Vh7AI)" there are several [youtube channels](https://www.youtube.com/@retrogamingdino) with links to the developers. </br>
 Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards with More FastRAM </br>
 others Port old Arcade ROM games to Amiga </br>
-others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/) T2-Linux, etc... </br>
+others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/), [Vision](https://www.aros-vision.de/download.html), T2-Linux, etc... </br>
 
 ## DIY
 If you buy a Replica board from one of the many Amiga sellers / stores, </br>
