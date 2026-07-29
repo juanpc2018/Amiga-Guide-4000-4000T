@@ -59,7 +59,7 @@ Amiga has a software that allow to run macOS 8.1 designed for Motorola 68K CPU's
 "The fastest Mac is an Amiga" </br>
 Apple, Amiga & AtariST had Unix OS called: A/UX & AMIX </br>
 some claim that Classic Macs were locked in ROM Bios so it cannot be upgraded to 060 CPU's </br>
-because Mac was moving to PPC, did Not wanted a Fair comptetition. </br>
+because Mac was moving to PPC, did Not wanted comptetition. </br>
 
 Early 4000D "Desktop" (1992-1993) all had battery leak that damaged the boards </br>
 A4000-CR "Cost-Reduced" verson (1993-1994) battery was replaced with coin battery. </br>
@@ -68,15 +68,15 @@ some repairs are on several YouTube channels </br>
 4000D (1992-1994) has differet board revisions "was a work in progress" </br>
 some repairs were not feasible "too much damage" thats how Recreation Boards were born. </br>
 
-A4000T "Tower" has a different coin battery like -CR, but there is only 1 Rev4 board,  </br>
+A4000T "Tower" has a coin battery like -CR, there is only 1 Final Rev4 board,  </br>
 has built-in SCSI-2 NEC 53C710 controller, Desktop does Not have SCSI-2. </br>
 4000T Requires a different Rom Kickstart with SCSI-2 drivers. </br>
 A4000D has many optional 3rd party SCSI Cards available </br> 
 schematics were reverse eng. and recreation boards were made.  </br>
 
 Amiga 4000 series D/T have Zorro-3 Slots "faster" </br>
-AGA video chipset </br>
-All Amigas come with a "basic" GPU, that requires special 15KHz monitor, or scan converter  </br>
+AGA video chipset like A1200 </br>
+All Amigas come with a "basic" GPU, that requires special 15KHz monitor, &/or scan converter  </br>
 rare DB23 connector + adapter to DB15 VGA </br>
 The A/T had standard AT Power supply "low efficiency 68%"  </br>
 The "D" had a different custom PSU, with different connectors. </br>
