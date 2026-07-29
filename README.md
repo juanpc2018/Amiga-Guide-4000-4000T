@@ -189,16 +189,26 @@ older Blue version USB2.0 to IDE had closer to >5.2vdc PSU </br>
 Moderm Boards don't have IDE, but there are PCI IDE cards available, </br>
 and PCI to PCIe adapters, also with different IC controllers. </br>
 
+Fast SCSI-2 in theory can go up to 40 MB/s on 32-Bit [Zorro-3](https://en.wikipedia.org/wiki/Zorro_III) <= [USB2.0 Speeds](https://en.wikipedia.org/wiki/USB#USB_2.0) </br>
+if want to know how fast or slow is,
+install a modern Linux Ubuntu / Kubuntu 20.04 or 22.04 on a external USB3 SSD case, </br>
+connected to a USB2.0 port, hit F11 at Boot. </br>
+using Flash memory is much slower: CF, SD & microSD cards vs. SSD </br>
+microSD overheat very easy & enter in Thermal Throtling with sustained R/W. </br>
+Slow-to->Fast: Flash, eMMC, mSATA, SSD, M.2 SATA, M.2 NVMe PCIe v3 v4 v5 </br>
+Server: SAS U.2 U.3 </br>
+Smartphone: UFS 1.0 -> 5.0 </br>
+
 ## Floppy drives
-There is a list of compatible Floppy drives </br>
+There are severa lists of [compatible Floppy drives for Amiga](https://jope.fi/drives/computolio/).[PDF](http://www.pitsch.de/stuff/amiga/Amiga%20Drive%20Compatibility.pdf).[web](https://gamesx.com/wiki/doku.php?id=amiga:amiga_floppy_drive_compatibility).[links](https://amigaalive.blogspot.com/p/hardware-using.html) </br>
 and modification tutorials to convert standard PC 1.44MB drives to 880k drives, </br>
 most Amigas had SD 880k drives, but A4000 have HD 1.76MB. </br>
 with Gotek USB floppy emulators or similar HxC ¿is that necesary ? </br>
 IF you have Original installer discs on floppy, probably yes. </br>
 
-PC XP era when floppy controllers were removed from the boards, </br>
-XP required an USB1.1 Floppy drive </br>
-Amigas are Pre-USB era, but today there are several USB cards for Amiga. </br>
+PC era when floppy controllers were removed from the boards, </br>
+XP install.iso required an USB1.1 Floppy drive </br>
+Amigas are Pre-USB era, but today there are several USB cards for Amiga, some better than others. </br>
 
 ## PowerSupply
 
