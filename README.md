@@ -173,6 +173,24 @@ Moderm Boards don't have IDE, but there are PCI IDE cards available, </br>
 and PCI to PCIe adapters, also with different IC controllers. </br>
 
 ## Floppy drives
-There is a list of compatible Floppy drives, </br>
-and modification tutorials to convert standard PC 1.44MB drives to 880k drives, A4000 has HD 1.76MB. </br>
-with Gotek USB floppy emulators or similar HxC is that necesary ? IF you have Original installer discs on floppy maybe yes. </br>
+There is a list of compatible Floppy drives </br>
+and modification tutorials to convert standard PC 1.44MB drives to 880k drives, </br>
+most Amigas had HD 880k drives, but A4000 have HD 1.76MB. </br>
+with Gotek USB floppy emulators or similar HxC ¿is that necesary ? </br>
+IF you have Original installer discs on floppy, probably yes. </br>
+
+PC XP era when floppy controllers were removed from the boards, </br>
+XP required an USB1.1 Floppy drive </br>
+Amigas are Pre-USB era, but today there are several USB cards for Amiga. </br>
+
+## PowerSupply
+
+4000D Replica boards have a "custom Amiga power connector" </br>
+4000T replica boards have AT standard PSU connector "P8/P9 Black wires to the center" </br>
+
+Many Amiga stores sell an ATX to AT converter cable + Switch for Tower </br>
+because the Desktop case is smaller vs. Tower case, replacing PSU is Not as common </br>
+Newer PSU's have much better [80 Plus](https://en.wikipedia.org/wiki/80_Plus#Efficiency_level_certifications) Efficiency </br>
+SFF & SFF+ Power Supplys are smaller vs. Standard ATX's PSU's. </br>
+
+Optional there is a DIY ATX2AT converter / Analyzer / Power Protection curcuit. </br>
