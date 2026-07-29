@@ -110,12 +110,12 @@ There are 3D Voodoo Replica cards, and also FPGA replica FuryGPU card in develop
 GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/driver/video/Picasso96).[emu](https://aminet.net/package/driver/video/P96Emu) or latest Paid [P96 v3.6.3](https://wiki.icomp.de/wiki/P96) version </br>
 
 ## HW 68K Alternatives: 
-[Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board replacement, with socket for a Real 68K CPU &/or compatible accelerator boards. </br>
+[Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board, with socket for a Real 68K CPU &/or compatible accelerator boards. </br>
 BFG, TF, Apollo Vampire, etc... </br>
 [MIST 1.5/1.6](https://lotharek.pl/products.php?id=14) made by Lotharek in Poland "complete custom FPGA emulator" </br>
 MISTer complete FPGA emulator baseded on [Terasic DE-10 Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) dev board + custom hats "i/o boards" </br>
 Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom 080 FPGA CPU accelerator board "060 compatible", Super-AGA "AGA" compatible </br>
-small stand alone complete FPGA emulator or A6000 "All-In-One keyboard" like similar to A600/A1200, & CPU accelerator boards for Vintage Amigas. </br>
+small stand alone complete FPGA emulator or A6000 "All-In-One keyboard" like A600/A1200, & CPU accelerator boards for Vintage Amigas. </br>
 
 ## SOFTWARE
 There are many ABANDONEARE software titles "TOSEC", websites like [Myabandonware](https://www.myabandonware.com/browse/platform/amiga/) </br>
