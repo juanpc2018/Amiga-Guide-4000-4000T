@@ -17,17 +17,17 @@ Amiga 500/1000 were much more common = most games were designed for Kickstart 1.
 
 There were changes over the years to accomodate New technologies "better graphics like AGA custom chips"  </br>
 Motorola also did changes to the CPU's 68k 020 030 040 060 to increase speed, less common instructions were removed. </br>
-architectures were combined in 040 = 030 + 68882 FPU, </br>
-060 was converted to SuperScalar architecture, like SGI RISC CPUs </br>
+architectures were combined in 040 = 030 + [68882](https://en.wikipedia.org/wiki/Motorola_68881) FPU, </br>
+060 was redesigned for [SuperScalar](https://en.wikipedia.org/wiki/Superscalar_processor) architecture, like SGI RISC CPUs </br>
 with dual pipelines "Pseudo-Parallelism / Early Pre-Dual Core Era" </br>
 transistor technology was improved with every revision </br>
 many improvements were made But... 100% backward compatibility was lost. </br> 
-some Software designed for Kickstart ROM v1.3 and 68K000 CPU's  </br>
-behave weird, or dont work at all on newer A4000 with AGA 040 etc... </br> 
+some SW designed for Kickstart ROM v1.3 and 68K 000 CPU's  </br>
+behave weird issues, or don't work at all on newer A4000 / A1200 with AGA & 060... </br> 
 in 1993 a software called ReloKick [v1.41](https://archive.org/details/ReloKick_v1.41_1994_Geesus) & [1.4a](https://archive.org/details/ReloKick_v1.4a_1994_DCS) </br>
 was made to create a soft-compatibility layer: </br>
 Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/wiki/Kickstart_(Amiga)) </br>
-SW came Free on [CU Amiga Magazine issue 037 - March 1993](https://archive.org/details/cuamiga-magazine-037/page/n11/mode/2up) </br>
+SW came with [CU Amiga Magazine issue 037 - March 1993](https://archive.org/details/cuamiga-magazine-037/page/n11/mode/2up) </br>
 Requires minimum 1MB of FAST RAM, Today thats Not a problem, most CPU accelerator boards have plenty of Fast RAM. </br>
 The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore / Pre-PPA Repository" </br>
 
@@ -149,3 +149,19 @@ Human Eyes cannot see 200nm, but also generates Harmonics / Resonances around 45
 Requires only a Few minutes. </br>
 Using the Sun requires much more time becasue Ozone Layer Blocks UV-C </br>
 cannot be Erased indors because Normal Glass Blocks UV-C </br>
+
+## IDE vs. SCSI-2
+
+Mechanical IDE or SCSI HDD's are most gone / damaged, but.. </br>
+but there are CompactFlash CF to IDE adapters and to SCSI-2,
+RaSCSIm ZuluSCSI, XT-IDE, </br>
+there is also SSD SATA to IDE and SATA to SCSI-2 adapters </br>
+
+i have an "Acme" SATA SSD-to->IDE adapter, Generic IC, </br>
+Startech sell similar with Marvell IC </br>
+The generic adapter, maximum speed on a modern Computer is 100MB/s ATA100
+i could Not reach 133MB/s using a [891U3](https://www.youtube.com/watch?v=NKpzkbOS59Y) USB3.0 to IDE "Generic" adapter, [Startech USB3SSATAIDE version](https://www.startech.com/en-us/hdd/usb3ssataide) </br>
+P.D. Do Not use the 891U3 included Power Supply has +6vdc some equipment will burn, </br>
+older Blue version USB2.0 to IDE had closer to +5.2vdc PSU </br>
+Moderm Boards dont have IDE, but there are PCI IDE cards available, </br>
+and PCI to PCIe adapters, also with different IC controllers. </br>
