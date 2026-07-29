@@ -18,13 +18,13 @@ there are different kinds of CPU upgrades: ARM "Bare Metal SW Emulation", FPGA, 
 There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) more ARCADE Graphics custom chips </br>
 Arcade machines price was 10x more, Dual CPU's Dedicated Sprite accelerator vs. Commodore 64, but were "1 trick pony" </br>
 Amiga was imspired by Arcade machines advanced graphics technology, but "Swiss Army Knife" tewchnology. </br>
-The Only mistake in the Amiga series, in my opinion was removing the SID Analog Audio Synth from the C64 / C128 </br>
-At same time, PC's were having Yamaha 4-Op Synth Adlib compatible, and up to 32MB Waveform GM Sampler soundcards AWE64. </br>
+The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128 </br>
+Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, or up to 32MB Waveform GM Sampler soundcards AWE64 based on Ensoniq technology. </br>
 
-Motorola also did changes to the CPU's 68k 020 030 [040](https://en.wikipedia.org/wiki/Motorola_68040) 060 to increase speed, less common instructions were removed, </br>
+Motorola also did changes to the CPU's 68k 020 030 [040](https://en.wikipedia.org/wiki/Motorola_68040) [060](https://en.wikipedia.org/wiki/Motorola_68060) to increase speed, less common instructions were removed, </br>
 architectures were combined: 040 = 030 + [68882](https://en.wikipedia.org/wiki/Motorola_68881) FPU "80387" </br>
 060 was redesigned for [SuperScalar](https://en.wikipedia.org/wiki/Superscalar_processor) architecture, like SGI RISC CPUs </br>
-with dual pipelines "Pseudo-Parallelism / Early Pre-Dual Core Era" </br>
+with dual pipelines "Pseudo-Parallelism / early pre-Dual Core era" </br>
 transistor technology was improved with every revision </br>
 many improvements were made But... 100% backward compatibility was lost. </br> 
 some SW designed for Kickstart ROM v1.3 & 68K 000 CPU's  </br>
@@ -34,47 +34,50 @@ was made to create a soft-compatibility layer: </br>
 Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/wiki/Kickstart_(Amiga)) </br>
 SW came with [CU Amiga Magazine issue 037 - March 1993](https://archive.org/details/cuamiga-magazine-037/page/n11/mode/2up) </br>
 Requires minimum 1MB of FastRAM, Today thats Not a problem, most CPU accelerator boards have plenty of Fast RAM. </br>
-The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore / Pre-PPA Repository" </br>
+The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" / Pre-PPA Repository. </br>
 
-Amiga 4000 is Pre-TCP/IP era, pre-SSL era </br>
+Amiga 4000 is pre-TCP/IP, pre-SSL era </br>
 there are several Ehternet 100Mbps cards available for Zorro slots. </br>
-but requires several software to connect to internet and websites like: Aminet directly. </br>
-like [iBrowser](https://www.ibrowse-dev.net/download.php) has CPU SSL emulation layer </br>
+but requires several software to connect to modern internet websites like: Aminet directly. </br>
+[iBrowser](https://www.ibrowse-dev.net/download.php) has CPU SSL emulation layer </br>
 Newer latest generation CPU Accelerator boards, some have HW SSL decoder like A3660 + FPGA Accelerator board. </br>
 New ZZ9000 GPU firmware update also has planned SSL HW Accelerator / Decoder. </br>
 
-to trasfer files from FreeDOS / MS-DOS "FAT16/32" to Amiga FastFileSystem "FFS" </br>
-AmigaOS has an emulator SW, does Not start at boot by default </br>
+to trasfer files from FreeDOS / MS-DOS "FAT16/32" Floppy to Amiga FastFileSystem "FFS" </br>
+AmigaOS has an emulator, does Not start at boot by default. </br>
+
 The other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
 SW [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communication using serial port, or USB Bluetooth (RS-232) adapters. </br>
 Gotek USB Floppy Emulators "STM32" with optional HxC Firmware &/or Flash Floppy Firmware </br>
 WinUAE, FS-UAE, E-UAE "Linux" </br>
 
-the Amiga 1200 is "the same" AGA Graphics custom chip like 4000 in a compact format, </br>
-like Atari Falcon 030 vs Mega or TT030 </br>
+the Amiga 1200 has "the same" AGA Graphics custom chip like 4000 in a compact format, </br>
+like Atari Falcon 030 vs. Atari Mega or TT030 </br>
 
-Amiga has a software that allow to run macOS8.1 designed for Motorola 68K CPU </br>
+Amiga has a software that allow to run macOS 8.1 designed for Motorola 68K CPU's </br>
 "The fastest Mac is an Amiga" </br>
-both Amiga & Apple had UnixOS A/UX & AMIX </br>
+Apple, Amiga & AtariST had Unix OS called: A/UX & AMIX </br>
 some claim that Classic Macs were locked in ROM Bios so it cannot be upgraded to 060 CPU's </br>
 because Mac was moving to PPC, did Not wanted a Fair comptetition. </br>
 
-Early 4000D "Desktop" all had battery leak that damaged the boards </br>
+Early 4000D "Desktop" (1992-1993) all had battery leak that damaged the boards </br>
 A4000-CR "Cost-Reduced" verson (1993-1994) battery was replaced with coin battery. </br>
 several Amiga enthusiasts repaired the "survivors" from land fills & recycling centers </br>
+some repairs are on several YouTube channels </br>
 4000D (1992-1994) has differet board revisions "was a work in progress" </br>
-some repairs were not feasible "too much damage", thats how Recreation Boards were born. </br>
+some repairs were not feasible "too much damage" thats how Recreation Boards were born. </br>
 
-A4000"T" Tower has a different coin battery, there is only 1 Rev4 board,  </br>
-has built-in SCSI-2 NEC 53C710 controller. </br>
-A4000"D" has many optional Card upgrades like SCSI-2 Axxx </br> 
+A4000T "Tower" has a different coin battery like -CR, but there is only 1 Rev4 board,  </br>
+has built-in SCSI-2 NEC 53C710 controller, Desktop does Not have SCSI-2. </br>
+4000T Requires a different Rom Kickstart with SCSI-2 drivers. </br>
+A4000D has many optional 3rd party SCSI Cards available </br> 
 schematics were reverse eng. and recreation boards were made.  </br>
 
 Amiga 4000 series D/T have Zorro-3 Slots "faster" </br>
 AGA video chipset </br>
 All Amigas come with a "basic" GPU, that requires special 15KHz monitor, or scan converter  </br>
-rare DB23 connector / adapter to VGA </br>
+rare DB23 connector + adapter to DB15 VGA </br>
 The A/T had standard AT Power supply "low efficiency 68%"  </br>
 The "D" had a different custom PSU, with different connectors. </br>
 
@@ -82,30 +85,35 @@ many Amiga store websites sell most parts for DIY or pre-built adapters. </br>
 
 A3000 & A2000 have a similar story, but more advanced,  </br>
 because boards were more "available", easy to find,  </br>
-some recreated failing custom chips in fpga "drop in replacements"  </br>
+some recreated failing custom chips in FPGA "drop in replacements"  </br>
+A3000 was recreated completely again in Hardware. </br>
+A4000 still require custom IC's </br>
 
-When Apple transitioned to PPC, some Amiga developers also created Dual CPU accelerator boards </br>
+When Apple transitioned to PPC, some Amiga developers also created Dual-CPU accelerator boards </br>
 like Cyberstorm Mk3 060 & PPC 603e or 604e </br>
 AmigaOS4 was recompiled for PPC architecture, </br>
-and Newer Amiga X1000 X5000 for PPC were launched </br>
+and Newer Amiga X1000 X5000 machines for PPC CPU's were launched </br>
 Those PPC had a CPU similar to PowerMac G5 "64-Bit" Single/Dual-Core versions </br>
 but the CPU they chosed does Not have Altivec "MMX instructions" </br>
 There are Modern PPC Cpus today for embedded systems that contain Altivec "Newer" generations </br>
-That was a major design flaw in my opinion. </br>
+That was a major design flaw in my opinion of the X Amiga PPC generation. </br>
 
 ## GPU's
-Older GPus like PicassoIV v1.2 and other similar like [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0) </br>
-based on CirrusLogic IC "VGA" and custom FPGA </br>
-are failing due to age... </br> but were very desired because didnt had the 15KHz limitation, allows "modern" SVGA/XGA CRT's. </br>
+Older GPU's like PicassoIV v1.2 and other similar like [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0) </br>
+based on CirrusLogic IC "VGA" and custom FPGA, are failing due to age... </br> 
+but were very desired because didnt had the 15KHz limitation, allows "modern" SVGA/XVGA CRT's. </br>
+
 New GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to a New level. </br>
 some PCI upgrade Riser cards like Mediator allow installing Voodoo PCI cards + Warp3D drivers. </br>
+There are 3D Voodoo Replica cards, and also FPGA replica FuryGPU card in development. </br>
 
 ## 68K Alternatives: 
-Minimig is a hybrid FPGA custom chip emulation board, with socket for Real 68K CPU &/or compatible accelerator boards. </br>
-MIST made by Lohratec in Poland "complete custom FPGA emulator" </br>
-MISTer complete FPGA emulator baseded on Terasic De-10 Nano dev board </br>
-Apollo Vampire V4 has custom 080 FPGA accelerator boards "060 compatible" </br>
-stand alone complete FPGA emulator: small portable & A6000 similasr to Amiga 600/1200 "All-In-One keyboard" format, and some PiKeyboard versions </br>
+[Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board replacement, with socket for a Real 68K CPU &/or compatible accelerator boards. </br>
+BFG, TF, Apollo Vampire, etc... </br>
+[MIST 1.5/1.6](https://lotharek.pl/products.php?id=14) made by Lotharek in Poland "complete custom FPGA emulator" </br>
+MISTer complete FPGA emulator baseded on [Terasic DE-10 Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) dev board + custom hats "i/o boards" </br>
+Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom 080 FPGA CPU accelerator board "060 compatible" </br>
+stand alone complete FPGA emulator: small portable, A6000 similasr to Amiga 600/1200 "All-In-One keyboard" format, and CPU accelerator boards. </br>
 
 ## SOFTWARE
 There are many ABANDONEARE software titles "TOSEC" </br>
