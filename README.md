@@ -107,7 +107,7 @@ New GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest 
 some PCI upgrade Riser cards like Mediator allow installing Voodoo PCI cards + Warp3D drivers. </br>
 There are 3D Voodoo Replica cards, and also FPGA replica FuryGPU card in development. </br>
 
-## 68K Alternatives: 
+## HW 68K Alternatives: 
 [Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board replacement, with socket for a Real 68K CPU &/or compatible accelerator boards. </br>
 BFG, TF, Apollo Vampire, etc... </br>
 [MIST 1.5/1.6](https://lotharek.pl/products.php?id=14) made by Lotharek in Poland "complete custom FPGA emulator" </br>
@@ -116,12 +116,12 @@ Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom 080
 small stand alone complete FPGA emulator or A6000 "All-In-One keyboard" like similar to A600/A1200, & CPU accelerator boards for Vintage Amigas. </br>
 
 ## SOFTWARE
-There are many ABANDONEARE software titles "TOSEC" </br>
+There are many ABANDONEARE software titles "TOSEC", websites like [Myabandonware](https://www.myabandonware.com/browse/platform/amiga/) </br>
 there is also New developers like [Geezer games](https://mcgeezer.itch.io/) </br>
-if you search youtube New Games in 2020 / 2021 / [2022](https://www.youtube.com/watch?v=KK9zg2Vh7AI) for Amiga, there are several [youtube channels](https://www.youtube.com/@retrogamingdino) with links to the developers. </br>
-Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards & More FastRAM </br>
+if you search youtube "New Amiga Games in 2020 / 2021 / [2022](https://www.youtube.com/watch?v=KK9zg2Vh7AI)" there are several [youtube channels](https://www.youtube.com/@retrogamingdino) with links to the developers. </br>
+Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards with More FastRAM </br>
 others Port old Arcade ROM games to Amiga </br>
-others create Open Source OS like CaffeineOS, AROS, T2-Linux, etc... </br>
+others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/) T2-Linux, etc... </br>
 
 ## DIY
 If you buy a Replica board from one of the many Amiga sellers / stores, </br>
@@ -202,3 +202,32 @@ Newer PSU's have much better [80 Plus](https://en.wikipedia.org/wiki/80_Plus#Eff
 SFF & SFF+ Power Supplys are smaller vs. Standard ATX's PSU's. </br>
 
 Optional there is a DIY ATX2AT converter / Analyzer / Power Protection curcuit. </br>
+
+## Stores List "Unverified"
+https://amigastore.eu/en/6-amiga-4000
+https://www.amiga-shop.net/en/Amiga-Hardware/
+https://amiga68k.com/
+https://amigastore.com/
+http://amiga-store.us/
+https://amigastore.eu/
+http://amiga-store.com/
+https://wiki.icomp.de/wiki/Indivision
+https://amigakit.amiga.store/
+https://shop.myamigashop.com/
+https://myamigashop.com/
+https://amigakit.com/
+https://www.amigakit.eu/
+https://amigatronic.com/
+https://www.retro32.com/
+https://store.amigaofrochester.com/
+https://www.ami64.com/
+https://www.amigashop.org/index.php?language=en
+https://amigaofrochester.com/
+https://www.retro8bitshop.com/
+https://amigaonthelake.com/
+
+
+
+https://www.retro-commodore.eu/
+https://wiki.amiga.org/index.php/Amiga_Stores
+
