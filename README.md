@@ -86,9 +86,9 @@ That was a major design flaw in my opinion. </br>
 ## GPU's
 Older GPus like PicassoIV v1.2 and other similar like [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0) </br>
 based on CirrusLogic IC "VGA" and custom FPGA </br>
-are failing due to age... </br>
-New GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev take Amiga to a whole New level </br>
-
+are failing due to age... </br> but were very desired because didnt had the 15KHz limitation, allows "modern" SVGA/XGA CRT's. </br>
+New GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to a New level. </br>
+some PCI upgrade Riser cards like Mediator allow installing Voodoo PCI cards + Warp3D drivers. </br>
 
 ## 68K Alternatives: 
 Minimig is a hybrid FPGA custom chip emulation board, with socket for Real 68K CPU &/or compatible accelerator boards. </br>
