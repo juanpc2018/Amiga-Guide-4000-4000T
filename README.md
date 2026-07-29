@@ -74,12 +74,21 @@ A3000 & A2000 have a similar story, but more advanced,  </br>
 because boards were more "available", easy to find,  </br>
 some recreated failing custom chips in fpga "drop in replacements"  </br>
 
-## Alternatives: 
-Minimig is a hybrid FPGA custom chip emulation, with socket for Real 68K CPU & compatible accelerator boards. </br>>
-MIST made by Lorathec in Poland "complete FPGA emulator </br>
-MISTer complete FPGA emulator </br>
-Apollo Vampire V4 has custom 080 core "060 compatible" FPGA accelerator boards, </br>
-and stand alone complete FPGA emulator, small portable & A6000 similasr to Amiga 600/1200 "All-In-One keyboard format" </br>
+When Apple transitioned to PPC, some Amiga developers also created Dual CPU accelerator boards </br>
+like Cyberstorm Mk3 060 & PPC 603e or 604e </br>
+AmigaOS4 was recompiled for PPC architecture, </br>
+and Newer Amiga X1000 X5000 for PPC were launched </br>
+Those PPC had a CPU similar to PowerMac G5 "64-Bit" Single/Dual-Core versions </br>
+but the CPU they chosed does Not have Altivec "MMX instructions" </br>
+There are Modern PPC Cpus today for embedded systems that contain Altivec "Newer" generations </br>
+That was a major design flaw in my opinion. </br>
+
+## 68K Alternatives: 
+Minimig is a hybrid FPGA custom chip emulation board, with socket for Real 68K CPU &/or compatible accelerator boards. </br>
+MIST made by Lohratec in Poland "complete custom FPGA emulator" </br>
+MISTer complete FPGA emulator baseded on Terasic De-10 Nano dev board </br>
+Apollo Vampire V4 has custom 080 FPGA accelerator boards "060 compatible" </br>
+stand alone complete FPGA emulator: small portable & A6000 similasr to Amiga 600/1200 "All-In-One keyboard" format, and some PiKeyboard versions </br>
 
 
 
