@@ -33,7 +33,7 @@ in 1993 a software called ReloKick [v1.41](https://archive.org/details/ReloKick_
 was made to create a soft-compatibility layer: </br>
 Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/wiki/Kickstart_(Amiga)) </br>
 SW came with [CU Amiga Magazine issue 037 - March 1993](https://archive.org/details/cuamiga-magazine-037/page/n11/mode/2up) </br>
-Requires minimum 1MB of FAST RAM, Today thats Not a problem, most CPU accelerator boards have plenty of Fast RAM. </br>
+Requires minimum 1MB of FastRAM, Today thats Not a problem, most CPU accelerator boards have plenty of Fast RAM. </br>
 The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore / Pre-PPA Repository" </br>
 
 Amiga 4000 is Pre-TCP/IP era, pre-SSL era </br>
@@ -73,7 +73,7 @@ schematics were reverse eng. and recreation boards were made.  </br>
 
 Amiga 4000 series D/T have Zorro-3 Slots "faster" </br>
 AGA video chipset </br>
-All Amigas come with a "basic" GPU, that requires special 15KHz monitor,  </br>
+All Amigas come with a "basic" GPU, that requires special 15KHz monitor, or scan converter  </br>
 rare DB23 connector / adapter to VGA </br>
 The A/T had standard AT Power supply "low efficiency 68%"  </br>
 The "D" had a different custom PSU, with different connectors. </br>
