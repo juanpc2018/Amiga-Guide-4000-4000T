@@ -248,7 +248,7 @@ https://www.hyperion-entertainment.com/index.php/where-to-buy/dealers </br>
 ### NEWS
 https://www.lemonamiga.com/ </br>
 
-### OS4 "PPC" Real HW or AmigaForever Win-UAE emulation
+### OS4 "PPC" Real HW or AmigaForever Win-UAE QEMU emulation
 http://amistore.net/ </br>
 https://www.amigaos.net/content/72/supported-hardware </br>
 
