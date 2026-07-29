@@ -13,9 +13,9 @@ Condensed as much as possible, "for Beginners". </br>
 were the last & best Amiga made around Motorola 68K 030 040 CPU's, </br>
 has optional 3rd party accelerator boards that allow CPU upgrades </br>
 there are different kinds of CPU upgrades: ARM "Bare Metal SW Emulation", FPGA, & Real Motorola [68060](https://en.wikipedia.org/wiki/Motorola_68060) CPU's </br> 
-Amiga 500/1000 were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
+[Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500)/[1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
 
-There were changes over the years to accomodate New technologies "better graphics like AGA custom chips"  </br>
+There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) custom chips"  </br>
 Motorola also did changes to the CPU's 68k 020 030 040 060 to increase speed, less common instructions were removed. </br>
 architectures were combined in 040 = 030 + [68882](https://en.wikipedia.org/wiki/Motorola_68881) FPU, </br>
 060 was redesigned for [SuperScalar](https://en.wikipedia.org/wiki/Superscalar_processor) architecture, like SGI RISC CPUs </br>
