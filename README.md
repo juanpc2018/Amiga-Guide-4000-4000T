@@ -1,4 +1,4 @@
-# Amiga Guide 4000D 4000T
+# Amiga Guide 4000D / 4000T
 
 "from Zero to Hero" </br>
 v0.00000001 </br>
