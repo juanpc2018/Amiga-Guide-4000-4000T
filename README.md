@@ -40,7 +40,7 @@ Requires minimum 1MB of FastRAM, Today thats Not a problem, most CPU accelerator
 The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" Pre-PPA Repository. </br>
 
 A4000 is pre-TCP/IP, pre-SSL </br>
-there are several Ehternet 100Mbps cards available for Zorro slots. </br>
+there are several Ethernet 100Mbps cards available for Zorro slots. </br>
 but requires several SW to connect to modern internet websites like: Aminet directly. </br>
 [iBrowser](https://www.ibrowse-dev.net/download.php) has CPU SSL emulation layer </br>
 Newer latest generation CPU Accelerator boards, some have HW SSL decoder like A3660 + FPGA Accelerator board. </br>
