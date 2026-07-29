@@ -185,7 +185,7 @@ and PCI to PCIe adapters, also with different IC controllers. </br>
 ## Floppy drives
 There is a list of compatible Floppy drives </br>
 and modification tutorials to convert standard PC 1.44MB drives to 880k drives, </br>
-most Amigas had HD 880k drives, but A4000 have HD 1.76MB. </br>
+most Amigas had SD 880k drives, but A4000 have HD 1.76MB. </br>
 with Gotek USB floppy emulators or similar HxC ¿is that necesary ? </br>
 IF you have Original installer discs on floppy, probably yes. </br>
 
