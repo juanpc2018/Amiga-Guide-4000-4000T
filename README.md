@@ -246,6 +246,15 @@ http://amistore.net/ </br>
 https://www.amigaos.net/content/72/supported-hardware </br>
 
 
-https://www.retro-commodore.eu/
-https://wiki.amiga.org/index.php/Amiga_Stores
+https://www.retro-commodore.eu/ </br>
+https://wiki.amiga.org/index.php/Amiga_Stores </br>
 
+## WHDLoad
+[WHDLoad](http://www.whdload.de/) is a tool that allows disk based games/sw/demos to be installed & run from the hard drive, </br>
+even if were never designed to do so. </br>
+Also fixes incompatibility issues between different kickstarts & Amiga models. </br>
+a more advanced version of ReloKick ? </br>
+
+http://www.whdload.de/ </br>
+https://eab.abime.net/showthread.php?t=38299 </br>
+https://classicwb.abime.net/classicweb/instructionsp96.htm </br>
