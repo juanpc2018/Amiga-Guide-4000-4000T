@@ -7,6 +7,8 @@
 This is a compilation / combined knowledge of many websites, </br>
 Condensed as much as possible, "for Beginners". </br>
 
+## Background History
+
 [Amiga 4000 (1992-1994)](https://en.wikipedia.org/wiki/Amiga_4000) "Desktop" & Tower [A4000T (1994-1996)](https://en.wikipedia.org/wiki/Amiga_4000T) </br>
 were the last & best Amiga made around Motorola 68K 030 040 CPU's, </br>
 has optional 3rd party accelerator boards that allow CPU upgrades </br>
@@ -53,10 +55,11 @@ both Amiga & Apple had UnixOS A/UX & AMIX </br>
 some claim that Classic Macs were locked in ROM Bios so it cannot be upgraded to 060 CPU's </br>
 because Mac was moving to PPC, did Not wanted a Fair comptetition. </br>
 
-4000"D" Desktop, all units had battery leak that damaged the boards </br>
+Early 4000D "Desktop" all had battery leak that damaged the boards </br>
+A4000-CR "Cost-Reduced" verson (1993-1994) battery was replaced with coin battery. </br>
 several Amiga enthusiasts repaired the "survivors" from land fills & recycling centers </br>
-4000D has differet board revisions "was a work in progress" </br>
-some repairs were not feasible "too much damaga", thats how Recreation Boards were born. </br>
+4000D (1992-1994) has differet board revisions "was a work in progress" </br>
+some repairs were not feasible "too much damage", thats how Recreation Boards were born. </br>
 
 A4000"T" Tower has a different coin battery, there is only 1 Rev4 board,  </br>
 has built-in SCSI-2 NEC 53C710 controller. </br>
@@ -106,3 +109,43 @@ if you search youtube New Games in 2020 / 2021 / [2022](https://www.youtube.com/
 Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards & More FastRAM </br>
 others Port old Arcade ROM games to Amiga </br>
 others create Open Source OS like CaffeineOS, AROS, T2-Linux, etc... </br>
+
+## DIY
+If you buy a Replica board from one of the many Amiga sellers / stores, </br>
+to replace the old damaged board "transplant components" or to create a New machine. </br>
+
+### Create a New HW machine or use Software Emulators: </br>
+
+Requires purchasing Legal Kickstart ROM images from 1.3 to 3.1 from [AmigaForever Plus .iso](https://www.amigaforever.com/plus/) "Cloanto" </br>
+ROMs 3.X with CAPITAL X, is "10" 3.10 ROM but that was an early jump. </br>
+Later Hyperion created ROMs 3.1.4 in (2018) </br>
+Roms 3.2 in 2020 as Physical Purchase <br>
+ROMs 3.2.x as [Digital Download](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/327-amigaos-32) in (2026) </br>
+
+IF you buy the Digital Downloads, and you are making a New machine, </br>
+you need prepare the ROMs before Burning with a TL866-II or similar T48 Eprom Programmer </br>
+Compatilble ROMs UV Eresable Am27C400 or similar faster  than <200ns access time. </br>
+you need to Change from Little.Endian to Big.Endian "Swap the Bytes Order" </br>
+and Splt the ROM image from the Digital Download to fit 2x EPROMS </br>
+also you need a Zif-Socket adapter board, because TL866-II / T48 Eproms only have 40-pins, </br>
+
+1. AmigaForvere 3.1 ROMs
+2. Hyperion 3.2 ROMs
+3. prepare Roms "Swap & Split" Non needed using UAE Emulators.
+4. buy or diy a Zif-socket adapter for TL866-ii / T48 "more than 40-pins"
+5. Buy 2 Roms. "if making a New machine"
+6. Burn 2 Roms with TL866-II / T48 or similar Eprom Programmer.
+
+Alternate: if UV Ereasable ROMs are "Hard to Find" or Expensive </br>
+there is also the Project [OneROM](https://onerom.org/) that Emulate EPROMs based on STM32 "more than 40-pins Required" </br>
+
+UV Ereseable Roms do Not Erase with LED UV-A flashlights </br>
+Some Chinese sellers have a Proper UV-Eraser Plastic Box, IF buy USED UV Eproms </br>
+UV Ereasable Eproms are designed to last much more than Flash memory, does Not have the problem of "Write Times" nor "Temperature" </br>
+
+The Proper UV-Eraser Box contains a 6" Pure Quartz vacuum tube "like CFL lamps" with 2 or 3 Mercury 3mm BallBearings's inside. </br>
+High Voltage "120v" Evaporate Mercury, Mercury Glow like Neon signs, generates a 200nm Peak UV-C, </br>
+Human Eyes cannot see 200nm, but also generates Harmonics / Resonances around 450nm "Cyan Blue" Visible range, </br>
+Requires only a Few minutes. </br>
+Using the Sun requires much more time becasue Ozone Layer Blocks UV-C </br>
+cannot be Erased indors because Normal Glass Blocks UV-C </br>
