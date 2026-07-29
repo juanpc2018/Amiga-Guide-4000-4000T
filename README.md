@@ -204,28 +204,44 @@ SFF & SFF+ Power Supplys are smaller vs. Standard ATX's PSU's. </br>
 Optional there is a DIY ATX2AT converter / Analyzer / Power Protection curcuit. </br>
 
 ## Stores List "Unverified"
-https://amigastore.eu/en/6-amiga-4000
-https://www.amiga-shop.net/en/Amiga-Hardware/
-https://amiga68k.com/
-https://amigastore.com/
-http://amiga-store.us/
-https://amigastore.eu/
-http://amiga-store.com/
-https://wiki.icomp.de/wiki/Indivision
-https://amigakit.amiga.store/
-https://shop.myamigashop.com/
-https://myamigashop.com/
-https://amigakit.com/
-https://www.amigakit.eu/
-https://amigatronic.com/
-https://www.retro32.com/
-https://store.amigaofrochester.com/
-https://www.ami64.com/
-https://www.amigashop.org/index.php?language=en
-https://amigaofrochester.com/
-https://www.retro8bitshop.com/
-https://amigaonthelake.com/
+https://amigastore.eu/en/6-amiga-4000 </br>
+https://www.amiga-shop.net/en/Amiga-Hardware/ </br>
+https://amiga68k.com/ </br>
+https://amigastore.com/ </br>
+http://amiga-store.us/ </br>
+https://amigastore.eu/ </br>
+http://amiga-store.com/ </br>
+https://wiki.icomp.de/wiki/Indivision </br>
+https://amigakit.amiga.store/ </br>
+https://shop.myamigashop.com/ </br>
+https://myamigashop.com/ </br>
+https://amigakit.com/ </br>
+http://amikit.com/ </br>
+https://www.amigakit.eu/ </br>
+https://amigatronic.com/ </br>
+https://www.retro32.com/ </br>
+https://store.amigaofrochester.com/ </br>
+https://www.ami64.com/ </br>
+https://www.amigashop.org/index.php?language=en </br>
+https://amigaofrochester.com/ </br>
+https://www.retro8bitshop.com/ </br>
+https://amigaonthelake.com/ </br>
+https://www.retropassion.co.uk/ </br>
+https://www.micromiga.com/ </br>
+https://www.pureamiga.co.uk/ </br>
+https://amigaspirit.com/ </br>
+http://www.amiga-store.biz/ </br>
+https://www.ami64.com/amiga-computers </br>
 
+#### Hyperion Official Dealers List: </br>
+https://www.hyperion-entertainment.com/index.php/where-to-buy/dealers </br>
+
+### NEWS
+https://www.lemonamiga.com/ </br>
+
+### OS4 "PPC" Real HW or AmigaForever Win-UAE emulation
+http://amistore.net/ </br>
+https://www.amigaos.net/content/72/supported-hardware </br>
 
 
 https://www.retro-commodore.eu/
