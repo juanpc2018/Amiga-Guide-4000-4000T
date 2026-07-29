@@ -7,12 +7,12 @@ This is a compilation / combined knowledge of many websites, </br>
 Condensed as much as possible, "for Dummies". </br>
 
 Amiga 4000 were the last & best Amiga made for Motorola 68K CPU's, </br>
-has accelerator boards that allow CPU upgrades, </br>
-there are different kinds of CPU upgrades, ARM, FPGA, and Real Motorola 68060 CPU's </br> 
-Amiga 500/1000 were much more available = most games were designed for Kickstart 1.3 ROM & 680000 CPU. </br>
+has optional 3rd party accelerator boards that allow CPU upgrades </br>
+there are different kinds of CPU upgrades: ARM "Bare Metal SW Emulation", FPGA, & Real Motorola 68060 CPU's </br> 
+Amiga 500/1000 were much more common = most games were designed for Kickstart 1.3 ROM & 680000 CPU. </br>
 
 There were changes over the years to accomodate New technologies "better graphics like AGA custom chips"  </br>
-Motorola also did changes to the CPU's 68 020 030 040 060 to increase speed, less common instructions were removed. </br>
+Motorola also did changes to the CPU's 68k 020 030 040 060 to increase speed, less common instructions were removed. </br>
 architectures were combined in 040 = 030 + 68882 FPU, </br>
 060 was converted to SuperScalar architecture, like SGI RISC CPUs </br>
 with dual pipelines "Pseudo-Parallelism / Early Pre-Dual Core Era" </br>
@@ -90,5 +90,10 @@ MISTer complete FPGA emulator baseded on Terasic De-10 Nano dev board </br>
 Apollo Vampire V4 has custom 080 FPGA accelerator boards "060 compatible" </br>
 stand alone complete FPGA emulator: small portable & A6000 similasr to Amiga 600/1200 "All-In-One keyboard" format, and some PiKeyboard versions </br>
 
-
-
+## SOFTWARE
+There are many ABANDONEARE software titles "TOSEC" </br>
+there is also New developers like [Geezer games](https://mcgeezer.itch.io/) </br>
+if you search youtube New Games in 2020 / 2021 / [2022](https://www.youtube.com/watch?v=KK9zg2Vh7AI) for Amiga, there are several [youtube channels](https://www.youtube.com/@retrogamingdino) with links to the developers. </br>
+Some developers improve older games, with AGA graphics, or take advantage of CPU accelerator boards, or More FastRAM </br>
+others Port old Arcade games to Amiga </br>
+others create Open Source OS like CaffeineOS, AROS, T2-Linux, etc... </br>
