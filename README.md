@@ -16,12 +16,14 @@ there are different kinds of CPU upgrades: ARM "Bare Metal SW Emulation", FPGA, 
 [Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500)/[1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
 
 There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) more ARCADE Graphics custom chips </br>
-Arcade machines price was 10x more, Dual CPU's Dedicated Sprite accelerator vs. Commodore 64, but were "1 trick pony" </br>
-Amiga was imspired by Arcade machines advanced graphics technology, but "Swiss Army Knife" tewchnology. </br>
-The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128 </br>
-Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, or up to 32MB Waveform GM Sampler soundcards AWE64 based on Ensoniq technology. </br>
+Arcade machines price was 10x more vs. Commodore 64, Dual CPU's, Dedicated Sprite / Graphics accelerator, but were "1 trick pony" </br>
+Amiga was inspired by Arcade machines graphic technology, but "Swiss Army Knife" technology. </br>
+Commodore 64 was a 10k to 23k Trick Pony, even few people had all software titles. </br>
 
-Motorola also did changes to the CPU's 68k 020 030 [040](https://en.wikipedia.org/wiki/Motorola_68040) [060](https://en.wikipedia.org/wiki/Motorola_68060) to increase speed, less common instructions were removed, </br>
+The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128 / C65 </br>
+Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on Ensoniq technology. </br>
+
+Motorola also did changes to the CPU's 68k [020](https://en.wikipedia.org/wiki/Motorola_68020) [030](https://en.wikipedia.org/wiki/Motorola_68030) [040](https://en.wikipedia.org/wiki/Motorola_68040) [060](https://en.wikipedia.org/wiki/Motorola_68060) to increase speed, less common instructions were removed, </br>
 architectures were combined: 040 = 030 + [68882](https://en.wikipedia.org/wiki/Motorola_68881) FPU "80387" </br>
 060 was redesigned for [SuperScalar](https://en.wikipedia.org/wiki/Superscalar_processor) architecture, like SGI RISC CPUs </br>
 with dual pipelines "Pseudo-Parallelism / early pre-Dual Core era" </br>
@@ -44,7 +46,7 @@ Newer latest generation CPU Accelerator boards, some have HW SSL decoder like A3
 New ZZ9000 GPU firmware update also has planned SSL HW Accelerator / Decoder. </br>
 
 to trasfer files from FreeDOS / MS-DOS "FAT16/32" Floppy to Amiga FastFileSystem "FFS" </br>
-AmigaOS has an emulator, does Not start at boot by default. </br>
+AmigaOS has an emulator, does Not start by default at boot. </br>
 
 The other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
@@ -52,27 +54,28 @@ SW [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communi
 Gotek USB Floppy Emulators "STM32" with optional HxC Firmware &/or Flash Floppy Firmware </br>
 WinUAE, FS-UAE, E-UAE "Linux" </br>
 
-the Amiga 1200 has "the same" AGA Graphics custom chip like 4000 in a compact format, </br>
+Amiga 1200 has "the same" AGA Graphics custom chip like 4000 in a compact format, </br>
 like Atari Falcon 030 vs. Atari Mega or TT030 </br>
+"All-In-One Kayboard" </br>
 
-Amiga has a software that allow to run macOS 8.1 designed for Motorola 68K CPU's </br>
+Amiga has a SW that allow to run macOS 8.1 designed for Motorola 68K CPU's </br>
 "The fastest Mac is an Amiga" </br>
 Apple, Amiga & AtariST had Unix OS called: A/UX & AMIX </br>
 some claim that Classic Macs were locked in ROM Bios so it cannot be upgraded to 060 CPU's </br>
 because Mac was moving to PPC, did Not wanted comptetition. </br>
 
 Early 4000D "Desktop" (1992-1993) all had battery leak that damaged the boards </br>
-A4000-CR "Cost-Reduced" verson (1993-1994) battery was replaced with coin battery. </br>
 several Amiga enthusiasts repaired the "survivors" from land fills & recycling centers </br>
 some repairs are on several YouTube channels </br>
 4000D (1992-1994) has differet board revisions "was a work in progress" </br>
 some repairs were not feasible "too much damage" thats how Recreation Boards were born. </br>
+A4000-CR "Cost-Reduced" (1993-1994) battery was replaced with coin battery. </br>
 
-A4000T "Tower" has a coin battery like -CR, there is only 1 Final Rev4 board,  </br>
+A4000T "Tower" has a coin battery like -CR, there is only 1 Final Rev4 board, </br>
 has built-in SCSI-2 NEC 53C710 controller, Desktop does Not have SCSI-2. </br>
-4000T Requires a different Rom Kickstart with SCSI-2 drivers. </br>
+4000T Requires a different Rom Kickstart 3.1 with SCSI-2 drivers. </br>
 A4000D has many optional 3rd party SCSI Cards available </br> 
-schematics were reverse eng. and recreation boards were made.  </br>
+schematics were reverse eng. and [recreation boards were made](https://scsi.me/#lineup)  </br>
 
 Amiga 4000 series D/T have Zorro-3 Slots "faster" </br>
 AGA video chipset like A1200 </br>
