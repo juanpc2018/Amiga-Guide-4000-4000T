@@ -1,7 +1,8 @@
 # Amiga Guide 4000D / 4000T
 
 "from Zero to Hero" </br>
-#### v0.00000001 </br>
+
+**v0.00000001** </br>
 
 This is a compilation / combined knowledge of many websites, </br>
 Condensed as much as possible, "for Dummies". </br>
