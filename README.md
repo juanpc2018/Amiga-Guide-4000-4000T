@@ -92,8 +92,9 @@ many Amiga store websites sell most parts for DIY or pre-built adapters. </br>
 A3000 & A2000 have a similar story, but more advanced,  </br>
 because boards were more "available", easy to find,  </br>
 some recreated failing custom chips in FPGA "drop in replacements"  </br>
-A3000 was recreated completely again in Hardware. </br>
-A4000 still require custom IC's </br>
+[A3000 (90-92)](https://en.wikipedia.org/wiki/Amiga_3000) was recreated completely again in Hardware. </br>
+A4000 still require custom IC's: D has socket, T is soldered to the board. </br>
+
 
 When Apple transitioned to PPC, some Amiga developers also created Dual-CPU accelerator boards </br>
 like Cyberstorm Mk3 060 & PPC 603e or 604e </br>
