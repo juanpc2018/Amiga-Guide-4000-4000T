@@ -54,12 +54,12 @@ have 2 computers in 1 Box, running simultaneusly, capable of transfering files b
 The other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
 SW [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communication using serial port, or USB Bluetooth (RS-232) adapters. </br>
-Gotek USB Floppy Emulators "STM32" with optional HxC Firmware &/or Flash Floppy Firmware </br>
+Gotek USB Floppy Emulators "STM32" with optional [HxC Firmware](https://hxc2001.com/docs/gotek-floppy-emulator-hxc-firmware/pages/firmware-update.html) &/or FlashFloppy Firmware </br>
 WinUAE, FS-UAE, E-UAE "Linux" </br>
 
 A1200 has "the same" AGA Graphics custom chip like A4000 in a compact format, </br>
 like Atari Falcon 030 vs. Atari Mega or TT030 </br>
-"All-In-One Kayboard" </br>
+"All-In-One Keyboard" </br>
 
 AmigaOS has a SW that allow to run macOS 8.1 designed for Motorola 68K CPU's </br>
 ["The fastest Mac is an Amiga"](https://odysee.com/@RMCretro:9/the-fastest-apple-mac-is-an-amiga-fact:2) </br>
