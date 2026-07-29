@@ -15,15 +15,20 @@ has optional 3rd party accelerator boards that allow CPU upgrades </br>
 there are different kinds of CPU upgrades: ARM "Bare Metal SW Emulation", FPGA, & Real Motorola [68060](https://en.wikipedia.org/wiki/Motorola_68060) CPU's </br> 
 [Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500)/[1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
 
-There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) custom chips"  </br>
-Motorola also did changes to the CPU's 68k 020 030 040 060 to increase speed, less common instructions were removed. </br>
-architectures were combined in 040 = 030 + [68882](https://en.wikipedia.org/wiki/Motorola_68881) FPU, </br>
+There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) more ARCADE Graphics custom chips </br>
+Arcade machines price was 10x more, Dual CPU's Dedicated Sprite accelerator vs. Commodore 64, but were "1 trick pony" </br>
+Amiga was imspired by Arcade machines advanced graphics technology, but "Swiss Army Knife" tewchnology. </br>
+The Only mistake in the Amiga series, in my opinion was removing the SID Analog Audio Synth from the C64 / C128 </br>
+At same time, PC's were having Yamaha 4-Op Synth Adlib compatible, and up to 32MB Waveform GM Sampler soundcards AWE64. </br>
+
+Motorola also did changes to the CPU's 68k 020 030 [040](https://en.wikipedia.org/wiki/Motorola_68040) 060 to increase speed, less common instructions were removed, </br>
+architectures were combined: 040 = 030 + [68882](https://en.wikipedia.org/wiki/Motorola_68881) FPU "80387" </br>
 060 was redesigned for [SuperScalar](https://en.wikipedia.org/wiki/Superscalar_processor) architecture, like SGI RISC CPUs </br>
 with dual pipelines "Pseudo-Parallelism / Early Pre-Dual Core Era" </br>
 transistor technology was improved with every revision </br>
 many improvements were made But... 100% backward compatibility was lost. </br> 
-some SW designed for Kickstart ROM v1.3 and 68K 000 CPU's  </br>
-behave weird issues, or don't work at all on newer A4000 / A1200 with AGA & 060... </br> 
+some SW designed for Kickstart ROM v1.3 & 68K 000 CPU's  </br>
+have weird issues, or don't work at all on newer A4000 / A1200 with AGA & 060... </br> 
 in 1993 a software called ReloKick [v1.41](https://archive.org/details/ReloKick_v1.41_1994_Geesus) & [1.4a](https://archive.org/details/ReloKick_v1.4a_1994_DCS) </br>
 was made to create a soft-compatibility layer: </br>
 Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/wiki/Kickstart_(Amiga)) </br>
