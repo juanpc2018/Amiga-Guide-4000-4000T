@@ -94,6 +94,6 @@ stand alone complete FPGA emulator: small portable & A6000 similasr to Amiga 600
 There are many ABANDONEARE software titles "TOSEC" </br>
 there is also New developers like [Geezer games](https://mcgeezer.itch.io/) </br>
 if you search youtube New Games in 2020 / 2021 / [2022](https://www.youtube.com/watch?v=KK9zg2Vh7AI) for Amiga, there are several [youtube channels](https://www.youtube.com/@retrogamingdino) with links to the developers. </br>
-Some developers improve older games, with AGA graphics, or take advantage of CPU accelerator boards, or More FastRAM </br>
-others Port old Arcade games to Amiga </br>
+Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards & More FastRAM </br>
+others Port old Arcade ROM games to Amiga </br>
 others create Open Source OS like CaffeineOS, AROS, T2-Linux, etc... </br>
