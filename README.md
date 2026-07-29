@@ -61,7 +61,7 @@ like Atari Falcon 030 vs. Atari Mega or TT030 </br>
 "All-In-One Kayboard" </br>
 
 AmigaOS has a SW that allow to run macOS 8.1 designed for Motorola 68K CPU's </br>
-["The fastest Mac is an Amiga"](https://www.youtube.com/watch?v=Jph0gxzL3UI) </br>
+["The fastest Mac is an Amiga"](https://odysee.com/@RMCretro:9/the-fastest-apple-mac-is-an-amiga-fact:2) </br>
 Apple, Amiga & AtariST had Unix OS called: A/UX & AMIX </br>
 some claim that Classic Macs were locked in ROM Bios so it cannot be upgraded to 060 CPU's </br>
 because Mac was moving to PPC, did Not wanted comptetition. </br>
