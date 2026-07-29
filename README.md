@@ -14,7 +14,7 @@ were the last & best Amiga made around Motorola 68K 030 040 CPU's, </br>
 has optional 3rd party accelerator boards that allow CPU upgrades </br>
 there are different kinds of CPU upgrades: </br>
 ARM "Bare Metal SW Emulation", FPGA, Real Motorola [68060](https://en.wikipedia.org/wiki/Motorola_68060) & 604e PowerPC CPU's </br> 
-[Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500) / [1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
+[Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500) / [1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) / [2000 (87-91)](https://en.wikipedia.org/wiki/Amiga_2000) [600 (92-93)](https://en.wikipedia.org/wiki/Amiga_600) / [1200 (92-96)](https://en.wikipedia.org/wiki/Amiga_1200) were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
 
 There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) more Arcade custom chips </br>
 Arcade machines price was 10x more vs. Commodore 64: Dual CPU's, Dedicated Sprite / Graphics accelerator, but were "1 trick pony" </br>
