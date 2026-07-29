@@ -15,13 +15,13 @@ has optional 3rd party accelerator boards that allow CPU upgrades </br>
 there are different kinds of CPU upgrades: ARM "Bare Metal SW Emulation", FPGA, & Real Motorola [68060](https://en.wikipedia.org/wiki/Motorola_68060) CPU's </br> 
 [Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500)/[1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
 
-There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) more ARCADE Graphics custom chips </br>
-Arcade machines price was 10x more vs. Commodore 64, Dual CPU's, Dedicated Sprite / Graphics accelerator, but were "1 trick pony" </br>
-Amiga was inspired by Arcade machines graphic technology, but "Swiss Army Knife" technology. </br>
-Commodore 64 was a 10k to 23k Trick Pony, even few people had all software titles. </br>
+There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) more Arcade custom chips </br>
+Arcade machines price was 10x more vs. Commodore 64: Dual CPU's, Dedicated Sprite / Graphics accelerator, but were "1 trick pony" </br>
+Amiga was inspired by Arcade machines graphic technology, but "Swiss Army Knife". </br>
+Commodore 64 was a 10k to 23k Trick Pony, even few people had all titles. </br>
 
 The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128 / C65 </br>
-Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on Ensoniq technology. </br>
+Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on E-mu / Ensoniq technology. </br>
 
 Motorola also did changes to the CPU's 68k [020](https://en.wikipedia.org/wiki/Motorola_68020) [030](https://en.wikipedia.org/wiki/Motorola_68030) [040](https://en.wikipedia.org/wiki/Motorola_68040) [060](https://en.wikipedia.org/wiki/Motorola_68060) to increase speed, less common instructions were removed, </br>
 architectures were combined: 040 = 030 + [68882](https://en.wikipedia.org/wiki/Motorola_68881) FPU "80387" </br>
@@ -30,23 +30,25 @@ with dual pipelines "Pseudo-Parallelism / early pre-Dual Core era" </br>
 transistor technology was improved with every revision </br>
 many improvements were made But... 100% backward compatibility was lost. </br> 
 some SW designed for Kickstart ROM v1.3 & 68K 000 CPU's  </br>
-have weird issues, or don't work at all on newer A4000 / A1200 with AGA & 060... </br> 
+have weird issues, or don't work on newer A4000 / A1200 with AGA & 060... </br> 
 in 1993 a software called ReloKick [v1.41](https://archive.org/details/ReloKick_v1.41_1994_Geesus) & [1.4a](https://archive.org/details/ReloKick_v1.4a_1994_DCS) </br>
 was made to create a soft-compatibility layer: </br>
 Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/wiki/Kickstart_(Amiga)) </br>
 SW came with [CU Amiga Magazine issue 037 - March 1993](https://archive.org/details/cuamiga-magazine-037/page/n11/mode/2up) </br>
 Requires minimum 1MB of FastRAM, Today thats Not a problem, most CPU accelerator boards have plenty of Fast RAM. </br>
-The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" / Pre-PPA Repository. </br>
+The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" Pre-PPA Repository. </br>
 
-Amiga 4000 is pre-TCP/IP, pre-SSL era </br>
+A4000 is pre-TCP/IP, pre-SSL </br>
 there are several Ehternet 100Mbps cards available for Zorro slots. </br>
-but requires several software to connect to modern internet websites like: Aminet directly. </br>
+but requires several SW to connect to modern internet websites like: Aminet directly. </br>
 [iBrowser](https://www.ibrowse-dev.net/download.php) has CPU SSL emulation layer </br>
 Newer latest generation CPU Accelerator boards, some have HW SSL decoder like A3660 + FPGA Accelerator board. </br>
 New ZZ9000 GPU firmware update also has planned SSL HW Accelerator / Decoder. </br>
 
 to trasfer files from FreeDOS / MS-DOS "FAT16/32" Floppy to Amiga FastFileSystem "FFS" </br>
 AmigaOS has an emulator, does Not start by default at boot. </br>
+Amiga also had Bridge Boards that allow to emulate an PC XT 8088, 8086 & 80286 </br>
+have 2 computers in 1 Box, runing simultaneusly, capable of transfering files back & forth. </br>
 
 The other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
@@ -54,12 +56,12 @@ SW [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communi
 Gotek USB Floppy Emulators "STM32" with optional HxC Firmware &/or Flash Floppy Firmware </br>
 WinUAE, FS-UAE, E-UAE "Linux" </br>
 
-Amiga 1200 has "the same" AGA Graphics custom chip like 4000 in a compact format, </br>
+A1200 has "the same" AGA Graphics custom chip like A4000 in a compact format, </br>
 like Atari Falcon 030 vs. Atari Mega or TT030 </br>
 "All-In-One Kayboard" </br>
 
-Amiga has a SW that allow to run macOS 8.1 designed for Motorola 68K CPU's </br>
-"The fastest Mac is an Amiga" </br>
+AmigaOS has a SW that allow to run macOS 8.1 designed for Motorola 68K CPU's </br>
+["The fastest Mac is an Amiga"](https://www.youtube.com/watch?v=Jph0gxzL3UI) </br>
 Apple, Amiga & AtariST had Unix OS called: A/UX & AMIX </br>
 some claim that Classic Macs were locked in ROM Bios so it cannot be upgraded to 060 CPU's </br>
 because Mac was moving to PPC, did Not wanted comptetition. </br>
