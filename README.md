@@ -3,7 +3,7 @@
 "from Zero to Hero" </br>
 v0.00000001 </br>
 
-This is a compilation / combined knowledge of many websites.  </br>
+This is a compilation / combined knowledge of many websites, </br>
 Condensed as much as possible, "for Dummies". </br>
 
 Amiga 4000 were the last & best Amiga made for Motorola 68K CPU's, </br>
