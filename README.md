@@ -38,14 +38,14 @@ The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore
 
 Amiga 4000 is Pre-TCP/IP era, pre-SSL era </br>
 there are several Ehternet 100Mbps cards available for Zorro slots. </br>
-but requires several software to connect to internet and websites like: Aminet website directly. </br>
-like iBrowser has CPU SSL emulation layer </br>
-Newer latest generation CPU Accelerator boards some have HW SSL decoder like A3660 + FPGA Accelerator board. </br>
-New ZZ9000 GPU with updated firmware also has planned SSL HW Accelerator / Decoder. </br>
+but requires several software to connect to internet and websites like: Aminet directly. </br>
+like [iBrowser](https://www.ibrowse-dev.net/download.php) has CPU SSL emulation layer </br>
+Newer latest generation CPU Accelerator boards, some have HW SSL decoder like A3660 + FPGA Accelerator board. </br>
+New ZZ9000 GPU firmware update also has planned SSL HW Accelerator / Decoder. </br>
 
 to trasfer files from FreeDOS / MS-DOS "FAT16/32" to Amiga FastFileSystem "FFS" </br>
 AmigaOS has an emulator SW, does Not start at boot by default </br>
-The other ways "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
+The other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
 SW [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communication using serial port, or USB Bluetooth (RS-232) adapters. </br>
 Gotek USB Floppy Emulators "STM32" with optional HxC Firmware &/or Flash Floppy Firmware </br>
@@ -171,3 +171,8 @@ P.D. Do Not use the 891U3 included PSU has +6vdc some equipment will burn, </br>
 older Blue version USB2.0 to IDE had closer to >5.2vdc PSU </br>
 Moderm Boards don't have IDE, but there are PCI IDE cards available, </br>
 and PCI to PCIe adapters, also with different IC controllers. </br>
+
+## Floppy drives
+There is a list of compatible Floppy drives, </br>
+and modification tutorials to convert standard PC 1.44MB drives to 880k drives, A4000 has HD 1.76MB. </br>
+with Gotek USB floppy emulators or similar HxC is that necesary ? IF you have Original installer discs on floppy maybe yes. </br>
