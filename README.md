@@ -153,15 +153,16 @@ cannot be Erased indors because Normal Glass Blocks UV-C </br>
 ## IDE vs. SCSI-2
 
 Mechanical IDE or SCSI HDD's are most gone / damaged, but.. </br>
-but there are CompactFlash CF to IDE adapters and to SCSI-2,
+there are CompactFlash CF to IDE adapters and to SCSI-2, </br>
 RaSCSIm ZuluSCSI, XT-IDE, </br>
 there is also SSD SATA to IDE and SATA to SCSI-2 adapters </br>
 
 i have an "Acme" SATA SSD-to->IDE adapter, Generic IC, </br>
-Startech sell similar with Marvell IC </br>
-The generic adapter, maximum speed on a modern Computer is 100MB/s ATA100
-i could Not reach 133MB/s using a [891U3](https://www.youtube.com/watch?v=NKpzkbOS59Y) USB3.0 to IDE "Generic" adapter, [Startech USB3SSATAIDE version](https://www.startech.com/en-us/hdd/usb3ssataide) </br>
-P.D. Do Not use the 891U3 included Power Supply has +6vdc some equipment will burn, </br>
-older Blue version USB2.0 to IDE had closer to +5.2vdc PSU </br>
-Moderm Boards dont have IDE, but there are PCI IDE cards available, </br>
+Startech sell [similar](https://www.startech.com/en-us/hdd/ide2sat2) with Marvell 88SA8052 IC </br>
+The generic adapter, maximum speed on a modern Computer is 100MB/s ATA100 </br>
+i could Not reach 133MB/s using a [891U3](https://www.youtube.com/watch?v=NKpzkbOS59Y) USB3.0 to IDE "Generic" adapter, </br>
+[Startech USB3SSATAIDE version](https://www.startech.com/en-us/hdd/usb3ssataide) </br>
+P.D. Do Not use the 891U3 included PSU has +6vdc some equipment will burn, </br>
+older Blue version USB2.0 to IDE had closer to >5.2vdc PSU </br>
+Moderm Boards don't have IDE, but there are PCI IDE cards available, </br>
 and PCI to PCIe adapters, also with different IC controllers. </br>
