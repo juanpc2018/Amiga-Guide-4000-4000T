@@ -220,7 +220,7 @@ because the Desktop case is smaller vs. Tower case, replacing PSU is Not as comm
 Newer PSU's have much better [80 Plus](https://en.wikipedia.org/wiki/80_Plus#Efficiency_level_certifications) Efficiency </br>
 SFF & SFF+ Power Supplys are smaller vs. Standard ATX's PSU's. </br>
 
-Optional there is a DIY ATX2AT converter / Analyzer / Power Protection curcuit. </br>
+Optional there is a DIY ATX2AT converter / Analyzer / Power Protection circuit. </br>
 
 ## Stores List "Unverified"
 https://amigastore.eu/en/6-amiga-4000 </br>
