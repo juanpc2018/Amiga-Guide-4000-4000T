@@ -7,7 +7,8 @@
 This is a compilation / combined knowledge of many websites, </br>
 Condensed as much as possible, "for Beginners". </br>
 
-Amiga 4000 were the last & best Amiga made for Motorola 68K CPU's, </br>
+[Amiga 4000 (1992-1994)](https://en.wikipedia.org/wiki/Amiga_4000) "Desktop" & Tower [A4000T (1994-1996)](https://en.wikipedia.org/wiki/Amiga_4000T) </br>
+were the last & best Amiga made around Motorola 68K 030 040 CPU's, </br>
 has optional 3rd party accelerator boards that allow CPU upgrades </br>
 there are different kinds of CPU upgrades: ARM "Bare Metal SW Emulation", FPGA, & Real Motorola 68060 CPU's </br> 
 Amiga 500/1000 were much more common = most games were designed for Kickstart 1.3 ROM & 680000 CPU. </br>
@@ -28,7 +29,7 @@ SW came Free on [CU Amiga Magazine issue 037 - March 1993](https://archive.org/d
 Requires minimum 1MB of FAST RAM, Today thats Not a problem, most CPU accelerator boards have plenty of Fast RAM. </br>
 The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore / Pre-PPA Repository" </br>
 
-Amiga 4000 "1995" is Pre-TCP/IP era, pre-SSL era </br>
+Amiga 4000 is Pre-TCP/IP era, pre-SSL era </br>
 there are several Ehternet 100Mbps cards available for Zorro slots. </br>
 but requires several software to connect to internet and websites like: Aminet website directly. </br>
 like iBrowser has CPU SSL emulation layer </br>
