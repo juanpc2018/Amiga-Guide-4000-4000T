@@ -106,13 +106,13 @@ There are Modern PPC Cpus today for embedded systems that contain Altivec "Newer
 That was a major design flaw in my opinion of the X Amiga PPC generation. </br>
 
 ## GPU's
-Older GPU's like PicassoIV v1.2 and other similar like [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0) </br>
-based on CirrusLogic IC "VGA" and custom FPGA, are failing due to age... </br> 
+Older GPU's like PicassoIV v1.2 and similar like [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0) </br>
+based on CirrusLogic IC "VGA" and custom FPGA, some failing due to age... </br> 
 but were very desired because didnt had the 15KHz limitation, allows "modern" SVGA/XVGA CRT's. </br>
-
-New GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to a New level. </br>
-some PCI upgrade Riser cards like Mediator allow installing Voodoo PCI cards + Warp3D drivers. </br>
-There are 3D Voodoo Replica cards, and also FPGA replica FuryGPU card in development. </br>
+Are called RTG graphics card "ReTraceable Graphics" </br>
+New RTG GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to a New level. </br>
+some PCI upgrade Riser cards like Mediator & Prometheus allow installing Voodoo PCI cards + Warp3D drivers. </br>
+There are 3D Voodoo Replica cards, and FPGA replica FuryGPU card in development. </br>
 
 GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/driver/video/Picasso96).[emu](https://aminet.net/package/driver/video/P96Emu) or latest Paid [P96 v3.6.3](https://wiki.icomp.de/wiki/P96) version </br>
 
