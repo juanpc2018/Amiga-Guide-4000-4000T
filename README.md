@@ -106,7 +106,7 @@ There are Modern PPC Cpus today for embedded systems that contain Altivec "Newer
 That was a major design flaw in my opinion of the X Amiga PPC generation. </br>
 
 ## GPU's
-Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4) & similar like [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
+Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv) & similar like [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
 based on CirrusLogic IC "VGA" and custom FPGA, some failing due to age... </br> 
 but were very desired because didnt had the 15KHz limitation, allows "modern" SVGA/XVGA CRT's. </br>
 Are called RTG graphics card "ReTraceable Graphics" </br>
