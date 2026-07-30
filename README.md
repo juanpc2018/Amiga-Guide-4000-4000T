@@ -275,3 +275,7 @@ a more advanced version of ReloKick ? </br>
 http://www.whdload.de/ </br>
 https://eab.abime.net/showthread.php?t=38299 </br>
 https://classicwb.abime.net/classicweb/instructionsp96.htm </br>
+
+## HW Tests
+There are several Diagnostic utilities, that does Not require Workbench, </br>
+Boot Directly to Diagnostic, there are Floppy versions, and ROM versions. </br>
