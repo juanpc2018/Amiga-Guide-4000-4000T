@@ -108,9 +108,9 @@ That was a major design flaw in my opinion of the X Amiga PPC generation. </br>
 ## GPU's
 Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv) & similar like [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
 based on CirrusLogic IC "VGA" and custom FPGA, some failing due to age... </br> 
-but were very desired because didnt had the 15KHz limitation, allows "modern" SVGA/XVGA CRT's. </br>
+but were very desired because didnt had the 15KHz limitation, 4MB VRAM allows Hi-Res SVGA/XVGA CRT's. </br>
 Are called RTG graphics card "ReTraceable Graphics" </br>
-New RTG GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to a New level. </br>
+New RTG GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to the Next level. </br>
 some PCI upgrade Riser cards like Mediator & Prometheus allow installing Voodoo PCI cards + Warp3D drivers. </br>
 There are 3D Voodoo Replica cards, and FPGA replica FuryGPU card in development. </br>
 
