@@ -31,7 +31,7 @@ with dual pipelines "Pseudo-Parallelism / early pre-Dual Core era" </br>
 transistor technology was improved with every revision </br>
 many improvements were made But... 100% backward compatibility was lost. </br> 
 some SW designed for Kickstart ROM v1.3 & 68K 000 CPU's  </br>
-have weird issues, or don't work on newer A4000 / A1200 with AGA & 060... </br> 
+have weird issues, or don't work on newer A4000 / A1200 with AGA, 060, Kickstart ROM v3.1 </br> 
 in 1993 a software called ReloKick [v1.41](https://archive.org/details/ReloKick_v1.41_1994_Geesus) & [1.4a](https://archive.org/details/ReloKick_v1.4a_1994_DCS) </br>
 was made to create a soft-compatibility layer: </br>
 Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/wiki/Kickstart_(Amiga)) </br>
@@ -48,8 +48,8 @@ New ZZ9000 GPU firmware update also has planned SSL HW Accelerator / Decoder. </
 
 to trasfer files from FreeDOS / MS-DOS "FAT16/32" Floppy to Amiga FastFileSystem "FFS" </br>
 AmigaOS has an emulator, does Not start by default at boot. </br>
-Amiga also had Bridge Boards that allow to emulate an PC XT 8088, 8086 & 80286 </br>
-have 2 computers in 1 Box, running simultaneusly, capable of transfering files back & forth, like a Virtual Machine but Real HW. </br>
+Amiga also had Bridge Boards that allow to emulate a PC XT 8088, 8086 & 80286 </br>
+2 computers in 1 Box, running simultaneusly, capable of transfering files back & forth, like a Virtual Machine but Real HW. </br>
 
 The other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
@@ -76,30 +76,30 @@ A4000-CR "Cost-Reduced" (1993-1994) battery was replaced with coin battery. </br
 
 A4000T "Tower" has a coin battery like -CR, there is only 1 Final Rev4 board, </br>
 has built-in SCSI-2 NEC 53C710 controller, Desktop does Not have SCSI-2. </br>
-4000T Requires a different Rom Kickstart 3.1 with SCSI-2 drivers. </br>
+A4000T Requires a different Rom Kickstart 3.1T with SCSI-2 drivers. </br>
 A4000D has many optional 3rd party SCSI Cards available </br> 
 schematics were reverse eng. and [recreation boards were made](https://scsi.me/#lineup)  </br>
 
-Amiga 4000 series D/T have Zorro-3 Slots "faster" </br>
+Amiga 4000 series D/T have Zorro-3 Slots "faster" vs. A2000 Zorro-2 </br>
 AGA video chipset like A1200 </br>
 All Amigas come with a "basic" GPU, that requires special 15KHz monitor, &/or scan converter  </br>
 rare DB23 connector + adapter to DB15 VGA </br>
-The A/T had standard AT Power supply "low efficiency 68%"  </br>
-The "D" had a different custom PSU, with different connectors. </br>
+The A/T has standard AT Power supply "low efficiency 68%"  </br>
+The "D" has a different custom PSU, with different connectors. </br>
 
 many Amiga store websites sell most parts for DIY or pre-built adapters. </br>
 
 A3000 & A2000 have a similar story, but more advanced,  </br>
-because boards were more "available", easy to find,  </br>
-some recreated failing custom chips in FPGA "drop in replacements"  </br>
+because were more common / available, easy to buy / find,  </br>
+some recreated custom chips in FPGA "drop in replacements"  </br>
 [A3000 (90-92)](https://en.wikipedia.org/wiki/Amiga_3000) was recreated completely again in Hardware. </br>
 A4000 still require custom IC's: D has socket, T is soldered to the board. </br>
-
+similar to C64, custom ICs were also recreated in FPGA, ARM & CPLD. </br>
 
 When Apple transitioned to PPC, some Amiga developers also created Dual-CPU accelerator boards </br>
-like Cyberstorm Mk3 060 & PPC 603e or 604e </br>
+like Cyberstorm Mk3 with M68k 060 & PowerPC 603e or 604e </br>
 AmigaOS4 was recompiled for PPC architecture, </br>
-and Newer Amiga X1000 X5000 machines for PPC CPU's were launched </br>
+and Newer Amiga X1000 X5000 machines for PPC were launched </br>
 Those PPC had a CPU similar to PowerMac G5 "64-Bit" Single/Dual-Core versions </br>
 but the CPU they chosed does Not have Altivec "MMX instructions" </br>
 There are Modern PPC Cpus today for embedded systems that contain Altivec "Newer" generations </br>
