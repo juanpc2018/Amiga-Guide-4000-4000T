@@ -106,10 +106,10 @@ There are Modern PPC Cpus today for embedded systems that contain Altivec "Newer
 That was a major design flaw in my opinion of the X Amiga PPC generation. </br>
 
 ## GPU's
-Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv).[bbah](https://bigbookofamigahardware.com/bboah/product.aspx?id=468) & similar like [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
-based on CirrusLogic IC "VGA" and custom FPGA, some failing due to age... </br> 
-but were very desired because didnt had the 15KHz limitation, 4MB VRAM allows Hi-Res SVGA/XVGA CRT's. </br>
-Are called RTG graphics card "ReTraceable Graphics" </br>
+Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv).[bbah](https://bigbookofamigahardware.com/bboah/product.aspx?id=468) GD5446BV-HC-A/B & [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
+based on Cirrus Logic GD5446BV-HC-A/B & GD5434-HC-A/B + custom FPGA, </br> 
+were very desired because didnt had the 15KHz limitation, 4MB VRAM allows Hi-Res SVGA/XVGA CRT's. </br>
+called RTG graphics card "Re-Traceable Graphics" </br>
 New RTG GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to the Next level. </br>
 some PCI upgrade Riser cards like Mediator & Prometheus allow installing Voodoo PCI cards + Warp3D drivers. </br>
 There are 3D Voodoo Replica cards, and FPGA replica FuryGPU card in development. </br>
