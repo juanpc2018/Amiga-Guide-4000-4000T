@@ -130,7 +130,7 @@ there is also New developers like [Geezer games](https://mcgeezer.itch.io/) & [M
 if you search youtube "New Amiga Games in 2020 / 2021 / [2022](https://www.youtube.com/watch?v=KK9zg2Vh7AI)" there are several [youtube channels](https://www.youtube.com/@retrogamingdino) with links to the developers. </br>
 Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards with More FastRAM </br>
 others Port old Arcade ROM games to Amiga </br>
-others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/), [Vision](https://www.aros-vision.de/download.html), T2-Linux, etc... </br>
+others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/), [Vision](https://www.aros-vision.de/download.html), [T2sde-Linux](https://dl.t2sde.org/binary/2025/), etc... </br>
 
 ## DIY
 If you buy a Replica board from one of the many Amiga sellers / stores, </br>
