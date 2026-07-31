@@ -43,7 +43,7 @@ A4000 is pre-TCP/IP, pre-SSL </br>
 there are several Ethernet 100Mbps cards available for Zorro slots. </br>
 but requires several SW to connect to modern internet websites like: Aminet directly. </br>
 [iBrowser](https://www.ibrowse-dev.net/download.php) has CPU SSL emulation layer </br>
-Newer latest generation CPU Accelerator boards, some have HW SSL decoder like A3660 + FPGA Accelerator board. </br>
+Newer latest generation CPU Accelerator boards like [Z3660](https://github.com/shanshe/Z3660) have SSL HW decoder + FPGA board. </br>
 New ZZ9000 GPU firmware update also has planned SSL HW Accelerator / Decoder. </br>
 
 to trasfer files from FreeDOS / MS-DOS "FAT16/32" Floppy to Amiga FastFileSystem "FFS" </br>
@@ -118,7 +118,7 @@ GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/
 
 ## HW 68K Alternatives: 
 [Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board, with socket for a Real 68K CPU &/or compatible accelerator boards. </br>
-BFG, TF, Apollo Vampire, etc... </br>
+BFG, TF, Apollo Vampire, [Z3660](https://github.com/shanshe/Z3660) etc... </br>
 [MIST 1.5/1.6](https://lotharek.pl/products.php?id=14) made by Lotharek in Poland "complete custom FPGA emulator" </br>
 MISTer complete FPGA emulator based on [Terasic DE-10 Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) dev board + custom hats "i/o boards" </br>
 Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom [64-bit](http://www.apollo-core.com/index.htm?page=family&tl=7) [080](https://wiki.apollo-computer.com/doku.php?id=apollo_core:start) FPGA CPU accelerator board "060 compatible", [Super-AGA](http://www.apollo-core.com/index.htm?page=chipset) "AGA" compatible </br>
@@ -150,18 +150,19 @@ Compatilble ROMs UV Eresable Am27C400 or similar faster  than <200ns access time
 you need to Change from Little.Endian to Big.Endian "Swap the Bytes Order" </br>
 and Splt the ROM image from the Digital Download to fit 2x EPROMS </br>
 also you need a Zif-Socket adapter board, because TL866-II / T48 Eproms only have 40-pins, </br>
+or buy a T56 / T76 Programmer "No Adapter required" </br>
 
-1. AmigaForvere 3.1 ROMs
-2. Hyperion 3.2 ROMs
+1. AmigaForever 1.3 -> 3.1 ROMs
+2. Hyperion 3.2.x ROMs
 3. prepare Roms "Swap & Split" Non needed using UAE Emulators.
-4. buy or diy a Zif-socket adapter for TL866-ii / T48 "more than 40-pins"
+4. buy or diy a Zif-socket adapter for TL866-ii / T48 "more than 40-pins" *Not needed with T56 / T76
 5. Buy 2 Roms. "if making a New machine"
 6. Burn 2 Roms with TL866-II / T48 or similar Eprom Programmer.
 
-Alternate: if UV Ereasable ROMs are "Hard to Find" or Expensive </br>
+Alternate: if UV Eraseable ROMs are "Hard to Find" or Expensive </br>
 there is also the Project [OneROM](https://onerom.org/) that Emulate EPROMs based on STM32 "more than 40-pins Required" </br>
 
-UV Ereseable Roms do Not Erase with LED UV-A flashlights </br>
+UV Eraseable Roms do Not Erase with LED UV-A flashlights </br>
 Some Chinese sellers have a Proper UV-Eraser Plastic Box, IF buy USED UV Eproms </br>
 UV Ereasable Eproms are designed to last much more than Flash memory, does Not have the problem of "Write Times" nor "Temperature" </br>
 
@@ -175,17 +176,17 @@ cannot be Erased indors because Normal Glass Blocks UV-C </br>
 ## IDE vs. SCSI-2
 
 Mechanical IDE or SCSI HDD's are most gone / damaged, but.. </br>
-there are CompactFlash CF to IDE adapters and to SCSI-2, </br>
-RaSCSIm ZuluSCSI, XT-IDE, </br>
-there is also SSD SATA to IDE and SATA to SCSI-2 adapters </br>
+there are CompactFlash CF to IDE adapters and SCSI-2, </br>
+RaSCSI, PiSCSI, ZuluSCSI, XT-IDE </br>
+there is also SSD SATA-to->IDE & [SATA-II-to->50-pin SCSI-2](http://www.acard.com/index.files/Page799.htm) adapter. </br>
 
 i have an "Acme" SATA SSD-to->IDE adapter, Generic IC, </br>
 Startech sell [similar](https://www.startech.com/en-us/hdd/ide2sat2) with Marvell 88SA8052 IC </br>
 The generic adapter, maximum speed on a modern Computer is 100MB/s ATA100 </br>
 i could Not reach 133MB/s using a [891U3](https://www.youtube.com/watch?v=NKpzkbOS59Y) USB3.0 to IDE "Generic" adapter, </br>
-[Startech USB3SSATAIDE version](https://www.startech.com/en-us/hdd/usb3ssataide) </br>
-P.D. Do Not use the 891U3 included PSU has +6vdc some equipment will burn, </br>
-older Blue version USB2.0 to IDE had closer to >5.2vdc PSU </br>
+[Startech USB3SSATAIDE](https://www.startech.com/en-us/hdd/usb3ssataide) version </br>
+P.D. Do Not use the 891U3 included PSU has +6vdc, some equipment will burn, </br>
+older Blue version USB2.0 to IDE had ~5.5vdc </br>
 Moderm Boards don't have IDE, but there are PCI IDE cards available, </br>
 and PCI to PCIe adapters, also with different IC controllers. </br>
 
