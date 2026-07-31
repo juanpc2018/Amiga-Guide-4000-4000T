@@ -48,7 +48,7 @@ New ZZ9000 GPU firmware update also has planned SSL HW Accelerator / Decoder. </
 
 to trasfer files from FreeDOS / MS-DOS "FAT16/32" Floppy to Amiga FastFileSystem "FFS" </br>
 AmigaOS has an emulator, does Not start by default at boot. </br>
-Amiga also had Bridge Boards that allow to emulate a PC XT 8088, 8086 & 80286 </br>
+Amiga also had Bridge Boards that allow to emulate a PC XT 8088, 8086, 286, 386, 486slc </br>
 2 computers in 1 Box, running simultaneusly, capable of transfering files back & forth, like a Virtual Machine but Real HW. </br>
 
 The other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
