@@ -121,7 +121,7 @@ GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/
 BFG, TF, Apollo Vampire, etc... </br>
 [MIST 1.5/1.6](https://lotharek.pl/products.php?id=14) made by Lotharek in Poland "complete custom FPGA emulator" </br>
 MISTer complete FPGA emulator based on [Terasic DE-10 Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) dev board + custom hats "i/o boards" </br>
-Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom 080 FPGA CPU accelerator board "060 compatible", Super-AGA "AGA" compatible </br>
+Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom [080](https://wiki.apollo-computer.com/doku.php?id=apollo_core:start) FPGA CPU accelerator board "060 compatible", Super-AGA "AGA" compatible </br>
 small stand alone complete FPGA emulator or A6000 "All-In-One keyboard" like A600/A1200, & CPU accelerator boards for Vintage Amigas. </br>
 
 ## SOFTWARE
