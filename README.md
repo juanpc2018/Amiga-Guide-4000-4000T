@@ -53,6 +53,7 @@ Amiga also had Bridge Boards that allow to emulate a PC XT 8088, 8086, 286, 386,
 
 The other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
+[GreaseWeazle](https://github.com/keirf/greaseweazle).[RetroFuzion](https://www.retrofuzion.com/products/greaseweazle-deluxe-kit) </br>
 SW [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communication using serial port, or USB Bluetooth (RS-232) adapters. </br>
 Gotek USB Floppy Emulators "STM32" with optional [HxC Firmware](https://hxc2001.com/docs/gotek-floppy-emulator-hxc-firmware/pages/firmware-update.html) &/or FlashFloppy Firmware </br>
 WinUAE, FS-UAE, E-UAE "Linux" </br>
