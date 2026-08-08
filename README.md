@@ -282,10 +282,10 @@ https://classicwb.abime.net/classicweb/instructionsp96.htm </br>
 There are several Diagnostic utilities, that does Not require Workbench, </br>
 Boot Directly to Diagnostic, there are Floppy versions, and ROM versions. </br>
 
-# CASE
-A4000T is "AT compatible" in many aspects but is Not 100% ATX compatible... </br>
-the Ports Module: Serial, Parallel, Mouse, Joystick daugter card does Not fit a modern ATX case back plate. </br>
+## CASE
+A4000T is "AT compatible" in many ways, but is Not 100% ATX compatible... </br>
+the Ports Module: Serial, Parallel, Mouse, Joystick daugter board, 
+An Original Amiga A4000T case, has holes / cut-outs on the case, </br>
+but the board does Not fit a modern ATX case back plate. </br>
 Sollution is the project [ATX Ports module](https://gitlab.com/amiga-projects/atx_ports_module) </br>
-
-
 
