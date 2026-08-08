@@ -289,3 +289,10 @@ An Original Amiga A4000T case, has holes / cut-outs on the case, </br>
 but the board does Not fit a modern ATX case back plate. </br>
 Sollution is the project [ATX Ports module](https://gitlab.com/amiga-projects/atx_ports_module) </br>
 
+## CPU Boards
+
+Original A3630 & A3620 boards, </br>
+The A3630 Rev3.1 has a small Bug on the print, </br>
+3 capacitors polarity is painted backwards, </br>
+Replacing capacitors backwards in some cases, creating a short on the PCB. </br>
+Sollution always check with a DMM the Negative polarity to GND begore installing. </br>
