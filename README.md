@@ -291,11 +291,11 @@ Sollution is the project [ATX Ports module](https://gitlab.com/amiga-projects/at
 
 ## CPU Boards
 
-Original A3630 & A3620 boards, </br>
-The A3630 Rev3.1 has a small Bug on the print, </br>
+Original A3630 & A3640 boards, </br>
+The A3640 Rev3.1 has a small Bug on the print, </br>
 3 capacitors polarity is painted backwards, </br>
 Replacing capacitors backwards in some cases, creating a short on the PCB. </br>
-Sollution always check with a DMM the Negative polarity to GND begore installing. </br>
+Sollution always check with a DMM the Negative polarity to GND before installing. </br>
 
 # BOM DIY
 
