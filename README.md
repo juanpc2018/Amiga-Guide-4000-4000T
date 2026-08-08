@@ -287,7 +287,7 @@ A4000T is "AT compatible" in many ways, but is Not 100% ATX compatible... </br>
 the Ports Module: Serial, Parallel, Mouse, Joystick daugter board, 
 An Original Amiga A4000T case, has holes / cut-outs on the case, </br>
 but the board does Not fit a modern ATX case back plate. </br>
-Sollution is the project [ATX Ports module](https://gitlab.com/amiga-projects/atx_ports_module) </br>
+Sollution is the project [ATX Ports module](https://gitlab.com/amiga-projects/atx_ports_module).[amybay](https://www.amibay.com/threads/a4000t-bom-incl-parts-list.2447556/) </br>
 
 ## CPU Boards
 
@@ -296,3 +296,11 @@ The A3630 Rev3.1 has a small Bug on the print, </br>
 3 capacitors polarity is painted backwards, </br>
 Replacing capacitors backwards in some cases, creating a short on the PCB. </br>
 Sollution always check with a DMM the Negative polarity to GND begore installing. </br>
+
+# BOM DIY
+
+[Bill.Of.Materials](https://docs.google.com/spreadsheets/d/1czsNg6O3RXiB12KduvjW-nOGRPwfiWtYTnK7Xi-feMI/edit?gid=0#gid=0) </br>
+Component Locator: </br>
+[Main Board](https://locator.reamiga.info/index.php) </br>
+[Main Board Site2](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
+[Schematics](https://web.archive.org/web/20241118204624/https://sites.google.com/site/tbtorro/) </br>
