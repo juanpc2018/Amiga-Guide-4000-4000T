@@ -301,7 +301,10 @@ Sollution always check with a DMM the Negative polarity to GND begore installing
 
 [Bill.Of.Materials](https://docs.google.com/spreadsheets/d/1czsNg6O3RXiB12KduvjW-nOGRPwfiWtYTnK7Xi-feMI/edit?gid=0#gid=0) </br>
 Component Locator: </br>
-[Main Board](https://locator.reamiga.info/index.php) </br>
+[Main Board](https://locator.reamiga.info/locator.php?project=A4000T) </br>
 [Main Board Site2](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
+[Daughter Boards site1](https://locator.reamiga.info/locator.php?project=A4000T-DBs) </br>
+[Daughter Boards site2](https://www.amiga4000tower.de/smf/pmsa/a4tlocator5a.php) </br>
+
 [Schematics](https://web.archive.org/web/20241118204624/https://sites.google.com/site/tbtorro/) </br>
 6 layer boards identical in functionality to the A4000T Rev 4 motherboard PCB </br>
