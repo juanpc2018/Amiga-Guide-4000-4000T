@@ -304,3 +304,4 @@ Component Locator: </br>
 [Main Board](https://locator.reamiga.info/index.php) </br>
 [Main Board Site2](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
 [Schematics](https://web.archive.org/web/20241118204624/https://sites.google.com/site/tbtorro/) </br>
+6 layer boards identical in functionality to the A4000T Rev 4 motherboard PCB </br>
