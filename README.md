@@ -178,7 +178,7 @@ cannot be Erased indors because Normal Glass Blocks UV-C </br>
 
 Mechanical IDE or SCSI HDD's are most gone / damaged, but.. </br>
 there are CompactFlash CF to IDE adapters and SCSI-2, </br>
-RaSCSI, PiSCSI, ZuluSCSI, XT-IDE </br>
+RaSCSI, PiSCSI, ZuluSCSI, XT-IDE "8-bit", AT-IDE "16-bit" </br>
 there is also SSD SATA-to->IDE & [SATA-II-to->50-pin SCSI-2](http://www.acard.com/index.files/Page799.htm) [adapter.](http://www.acard.com/index.files/Page728.htm) </br>
 
 i have an "Acme" SATA SSD-to->IDE adapter, Generic IC, </br>
