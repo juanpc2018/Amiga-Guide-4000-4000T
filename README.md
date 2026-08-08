@@ -299,7 +299,7 @@ Sollution always check with a DMM the Negative polarity to GND begore installing
 
 # BOM DIY
 
-[Bill.Of.Materials](https://docs.google.com/spreadsheets/d/1czsNg6O3RXiB12KduvjW-nOGRPwfiWtYTnK7Xi-feMI/edit?gid=0#gid=0) </br>
+[Bill.Of.Materials](https://docs.google.com/spreadsheets/d/1czsNg6O3RXiB12KduvjW-nOGRPwfiWtYTnK7Xi-feMI/edit?gid=0#gid=0).[amybay](https://www.amibay.com/threads/a4000t-rev-4-4-1-part-locators-if-you-need-the-links.120082/) </br>
 Component Locator: </br>
 [Main Board](https://locator.reamiga.info/locator.php?project=A4000T) </br>
 [Main Board Site2](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
