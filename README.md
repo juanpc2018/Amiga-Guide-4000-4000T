@@ -167,6 +167,7 @@ or buy a T56 / T76 Programmer "No Adapter required" </br>
 Alternate: if UV Eraseable ROMs are "Hard to Find" or Expensive </br>
 there is also the Project [OneROM](https://onerom.org/) that Emulate EPROMs based on STM32 "more than 40-pins Required" for A4000T </br>
 there are modifications to A4000/T that allow to use Bigger than >512KB ROM's "easy to find" like 27C400, 27C800, 27C160 </br>
+ther are other adapters that allow dual or multiple ROMs at Boot, similar to C64U or Easy Flash 3 Cartridge for C64 </br>
 
 UV Eraseable Roms do Not Erase with LED UV-A flashlights </br>
 Some Chinese sellers have a Proper UV-Eraser Plastic Box, IF buy USED UV Eproms </br>
