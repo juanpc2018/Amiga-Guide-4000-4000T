@@ -157,7 +157,7 @@ because machines are 32-Bit and Roms are configured 16-Bit each. </br>
 also needs a Zif-Socket adapter board, because TL866-II plus & T48 programmers only have 40-pins, </br>
 or buy a T56 / T76 Programmer "No Adapter required" </br>
 
-1. [AmigaForever 1.3 -> 3.1 ROMs](https://www.amigaforever.com/plus/)
+1. [AmigaForeverPlus 1.3 -> 3.1 ROMs](https://www.amigaforever.com/plus/)
 2. [Hyperion 3.2.x ROMs](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/327-amigaos-32)
 3. prepare Roms: "Swap Bytes & Split" Not needed using UAE Emulators or T56 & T76 programmers.
 4. buy or diy a Zif-socket adapter for TL866-ii / T48 "more than 40-pins" *Not needed with T56 / T76
