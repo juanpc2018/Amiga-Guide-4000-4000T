@@ -70,14 +70,14 @@ Apple, Amiga & AtariST had Unix OS called: A/UX & AMIX </br>
 some claim that Classic Macs were locked in ROM so it cannot be upgraded to 060 CPU's </br>
 because Mac was moving to PPC, did Not wanted comptetition. </br>
 
-Early 4000D "Desktop" (1992-1993) all had battery leak that damaged the boards </br>
+Early 4000D "Desktop" (1992-1993) all had a battery that leak & damaged the boards </br>
 several Amiga enthusiasts repaired the "survivors" from land fills & recycling centers </br>
 some repairs are on several YouTube channels </br>
 4000D (1992-1994) has different board revisions "was a work in progress" </br>
 some repairs were not feasible "too much damage" thats how Recreation Boards were born. </br>
 A4000-CR "Cost-Reduced" (1993-1994) leak battery was replaced with coin battery, No-leak. </br>
 
-A4000T "Tower" has a coin battery like -CR, there is only 1 Final Rev4 board, </br>
+A4000T "Tower" has coin battery like -CR, there is only 1 Final Rev4 board, </br>
 has built-in SCSI-2 NEC 53C710 controller, Desktop does Not have SCSI-2. </br>
 A4000T Requires a different Rom Kickstart 3.1T with SCSI-2 drivers. </br>
 A4000D has many optional 3rd party SCSI Cards available </br> 
@@ -87,27 +87,27 @@ Amiga 4000 / 3000 series have Zorro-3 Slots "faster" vs. A2000 Zorro-2 </br>
 AGA video chipset like A1200 </br>
 All Amigas come with a "basic" GPU, that requires special 15KHz monitor, &/or scan converter + </br>
 Rare DB23 adapter to DB15 VGA </br>
-The A/T has standard AT Power supply "Efficiency 68%"  </br>
-The "D" has a different custom PSU, different connectors. </br>
+The A4000/T has standard AT Power supply "Efficiency 68%"  </br>
+The "D" has a different PSU, different connectors. </br>
 
 many Amiga store websites sell most parts for DIY or pre-built adapters, </br>
-to adapt a Newer ATX >2.1 PSU to A4000T AT board for example. </br>
+to adapt a Newer ATX >2.1 PSU to A4000/T boards for example. </br>
 
 A3000 & A2000 have a similar story, </br>
 were more common, easy to buy / find,  </br>
 some recreated all custom chips in FPGA "drop in replacements"  </br>
-[A3000 (90-92)](https://en.wikipedia.org/wiki/Amiga_3000) recreated completely again in Hardware. </br>
+[A3000 (90-92)](https://en.wikipedia.org/wiki/Amiga_3000) was recreated completely again in Hardware. </br>
 A4000 still require custom IC's: D has socket, T is soldered to board. </br>
 similar to C64 story, custom ICs were recreated in FPGA, ARM & CPLD like SID, GAL, PLD, Memory. </br>
 
 When Apple transitioned to PPC, some Amiga developers also created Dual-CPU accelerator boards </br>
 like Cyberstorm Mk3 with M68k 060 & PowerPC 604e </br>
 AmigaOS4 was recompiled for PPC architecture, </br>
-Newer Amiga X1000 X5000 machines for PPC were launched </br>
+Newer Amiga X1000 X5000 machines for PowerPC were launched </br>
 Those PPC had a CPU similar to PowerMac G5 "64-Bit" Single/Dual-Core versions </br>
 but the CPU they chosed does Not have Altivec "MMX instructions" </br>
-There are Modern PPC Cpus for embedded systems that contain Altivec "Newer" generations </br>
 That was a major design flaw in my opinion of the X Amiga PPC generation. </br>
+There are Modern PPC Cpus for embedded systems that contain Altivec. </br>
 
 ## GPU's
 Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv).[bbah](https://bigbookofamigahardware.com/bboah/product.aspx?id=468) & [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
@@ -115,7 +115,7 @@ based on Cirrus Logic GD5446BV-HC-A/B & GD5434-HC-A/B + custom FPGA, </br>
 were very desired because didnt had the 15KHz limitation, 4MB VRAM allows Hi-Res SVGA/XVGA CRT's. </br>
 called RTG graphics card "Re-Traceable Graphics" </br>
 New RTG GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to the Next level. </br>
-some PCI upgrade Riser cards like Mediator & Prometheus allow installing Voodoo PCI cards + Warp3D drivers. </br>
+some PCI upgrade Riser cards like Mediator & Prometheus allow installing Voodoo PCI cards </br>
 There are 3D Voodoo Replica cards, and FPGA replica FuryGPU card in development. </br>
 
 RTG GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/driver/video/Picasso96).[emu](https://aminet.net/package/driver/video/P96Emu) or latest Paid [P96 v3.6.3](https://wiki.icomp.de/wiki/P96) version </br>
@@ -132,50 +132,53 @@ small stand alone complete FPGA emulator or A6000 "All-In-One keyboard" like A60
 There are many ABANDONEARE software titles "TOSEC", websites like [Myabandonware](https://www.myabandonware.com/browse/platform/amiga/) </br>
 there is also New developers like [Geezer games](https://mcgeezer.itch.io/) & [Metro Siege](https://metrosiege.com/download/beta/) </br>
 if you search youtube "New Amiga Games in 2020 / 2021 / [2022](https://www.youtube.com/watch?v=KK9zg2Vh7AI)" there are several [youtube channels](https://www.youtube.com/@retrogamingdino) with links to the developers. </br>
-Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards with More FastRAM </br>
-others Port old Arcade ROM games to Amiga </br>
-others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/), [Vision](https://www.aros-vision.de/download.html), [T2sde-Linux](https://dl.t2sde.org/binary/2025/), etc... </br>
+Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards, RTG, More FastRAM </br>
+others Port old Arcade ROM games to Amiga, like Atari Tetris version. </br>
+others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/), [Vision](https://www.aros-vision.de/download.html), [T2sde-Linux](https://dl.t2sde.org/binary/2025/), Debian 9, 10, 12 for 68K, etc... </br>
 
 ## DIY
 If you buy a Replica board from one of the many Amiga sellers / stores, </br>
 to replace the old damaged board "transplant components" or to create a New machine. </br>
 
-### Create a New HW machine or use Software Emulators: </br>
+### New HW machine or use Software Emulators: </br>
 
-Requires purchasing Legal Kickstart ROM images from 1.3 to 3.1 from [AmigaForever Plus .iso](https://www.amigaforever.com/plus/) "Cloanto" </br>
+Anyway Requires purchasing Legal Kickstart ROM's 1.3 to 3.1 from [AmigaForever Plus .iso](https://www.amigaforever.com/plus/) "Cloanto" </br>
 ROMs 3.X with CAPITAL X, is "10" 3.10 ROM but that was an early jump. </br>
-Later Hyperion created ROMs 3.1.4 in (2018) </br>
-Roms 3.2 in 2020 as Physical Purchase <br>
+Later Hyperion created ROM's: 3.1.4 in (2018) </br>
+Roms 3.2 in 2020 as Physical Purchase & <br>
 ROMs 3.2.x as [Digital Download](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/327-amigaos-32) in (2026) </br>
 
 IF you buy the Digital Downloads, and you are making a New machine, </br>
 you need prepare the ROMs before Burning with a TL866-II or similar T48 Eprom Programmer </br>
-Compatilble ROMs UV Eresable Am27C400 or similar faster  than <200ns access time. </br>
-you need to Change from Little.Endian to Big.Endian "Swap the Bytes Order" </br>
-and Splt the ROM image from the Digital Download to fit 2x EPROMS </br>
-also you need a Zif-Socket adapter board, because TL866-II / T48 Eproms only have 40-pins, </br>
+Compatilble ROM's UV Eresable Am27C400 or similar faster than <200ns access time. </br>
+need to Change from Little.Endian "x86_64 PC" to Big.Endian "68K" / "Swap the Bytes Order" </br>
+and Splt Single ROM images from the Digital Download to fit 2x EPROMS </br>
+because machines are 32-Bit and Roms are configured 16-Bit each. </br>
+also needs a Zif-Socket adapter board, because TL866-II plus & T48 programmers only have 40-pins, </br>
 or buy a T56 / T76 Programmer "No Adapter required" </br>
 
-1. AmigaForever 1.3 -> 3.1 ROMs
-2. Hyperion 3.2.x ROMs
-3. prepare Roms "Swap & Split" Non needed using UAE Emulators.
+1. [AmigaForever 1.3 -> 3.1 ROMs](https://www.amigaforever.com/plus/)
+2. [Hyperion 3.2.x ROMs](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/327-amigaos-32)
+3. prepare Roms: "Swap Bytes & Split" Not needed using UAE Emulators or T56 & T76 programmers.
 4. buy or diy a Zif-socket adapter for TL866-ii / T48 "more than 40-pins" *Not needed with T56 / T76
 5. Buy 2 Roms. "if making a New machine"
 6. Burn 2 Roms with TL866-II / T48 or similar Eprom Programmer.
 
 Alternate: if UV Eraseable ROMs are "Hard to Find" or Expensive </br>
-there is also the Project [OneROM](https://onerom.org/) that Emulate EPROMs based on STM32 "more than 40-pins Required" </br>
+there is also the Project [OneROM](https://onerom.org/) that Emulate EPROMs based on STM32 "more than 40-pins Required" for A4000T </br>
+there are modifications to A4000/T that allow to use Bigger than >512KB ROM's "easy to find" like 27C400, 27C800, 27C160 </br>
 
 UV Eraseable Roms do Not Erase with LED UV-A flashlights </br>
 Some Chinese sellers have a Proper UV-Eraser Plastic Box, IF buy USED UV Eproms </br>
-UV Ereasable Eproms are designed to last much more than Flash memory, does Not have the problem of "Write Times" nor "Temperature" </br>
+UV Eraseable Eproms are designed to last much more than Flash ROMs, does Not have the problem of "Write Times" nor "Temperature", nor Static </br>
 
-The Proper UV-Eraser Box contains a 6" Pure Quartz vacuum tube "like CFL lamps" with 2 or 3 Mercury 3mm BallBearings's inside. </br>
-High Voltage "120v" Evaporate Mercury, Mercury Glow like Neon signs, generates a 200nm Peak UV-C, </br>
-Human Eyes cannot see 200nm, but also generates Harmonics / Resonances around 450nm "Cyan Blue" Visible range, </br>
-Requires only a Few minutes. </br>
+The Proper UV-Eraser contains a 6" Pure Quartz vacuum tube "like CFL lamps" with 2 or 3 Mercury 3mm BallBearings's inside. </br>
+High Voltage "120v" Evaporate Mercury, Mercury Glow like Neon signs, generates a >200nm Peak UV-C </br>
+Human Eyes cannot see 200nm, but also generates Harmonics / Resonances around 450nm "Cyan Blue" Visible, </br>
+Requires only ~10 minutes. </br>
 Using the Sun requires much more time becasue Ozone Layer Blocks UV-C </br>
-cannot be Erased indors because Normal Glass Blocks UV-C </br>
+cannot be Erased indors because Normal Glass also Blocks UV-C </br>
+Placing a Black Tape over the Quartz UV Window is like moving the tab on a Floppy to say ["Write Protect"](https://en.wikipedia.org/wiki/Write_protection#Examples) </br>
 
 ## IDE vs. SCSI-2
 
