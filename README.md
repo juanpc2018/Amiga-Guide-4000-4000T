@@ -178,7 +178,7 @@ Human Eyes cannot see 200nm, but also generates Harmonics / Resonances around 45
 Requires only ~10 minutes. </br>
 Using the Sun requires much more time becasue Ozone Layer Blocks UV-C </br>
 cannot be Erased indors because Normal Glass also Blocks UV-C </br>
-Placing a Black Tape over the Quartz UV Window is like moving the tab on a Floppy to say ["Write Protect"](https://en.wikipedia.org/wiki/Write_protection#Examples) </br>
+Placing a Black Tape over the [Quartz UV Window](https://en.wikipedia.org/wiki/EPROM#Gallery) = moving the tab on a Floppy to say ["Write Protect"](https://en.wikipedia.org/wiki/Write_protection#Examples) </br>
 
 ## IDE vs. SCSI-2
 
