@@ -37,13 +37,14 @@ was made to create a soft-compatibility layer: </br>
 Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/wiki/Kickstart_(Amiga)) </br>
 SW came with [CU Amiga Magazine issue 037 - March 1993](https://archive.org/details/cuamiga-magazine-037/page/n11/mode/2up) </br>
 Requires minimum 1MB of FastRAM, Today thats Not a problem, most CPU accelerator boards have plenty of Fast RAM. </br>
-The SW is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" Pre-PPA Repository. </br>
+there are modifications to breakthrough 16MB FastRAM Limit w/o CPU Accelerator to 64MB & [112MB](https://drive.usercontent.google.com/download?id=15nFvyg4oYhQpE3a8nD3mrfQDS_BrZPch&export=download) </br>
+ReloKick is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" Pre-PPA Repository. </br>
 
 A4000 is pre-TCP/IP, pre-SSL </br>
-there are several Ethernet 100Mbps cards available for Zorro slots. </br>
+there are several Ethernet 100Mbps cards available for Zorro slots, </br>
 but requires several SW to connect to modern internet websites like: Aminet directly. </br>
 [iBrowser](https://www.ibrowse-dev.net/download.php) has CPU SSL emulation layer </br>
-Newer latest generation CPU Accelerator boards like [Z3660](https://github.com/shanshe/Z3660) have SSL HW decoder + FPGA board. </br>
+Newer generation CPU Accelerator boards like [Z3660](https://github.com/shanshe/Z3660) have SSL HW decoder + FPGA board. </br>
 New ZZ9000 GPU firmware update also has planned SSL HW Accelerator / Decoder. </br>
 
 to trasfer files from FreeDOS / MS-DOS "FAT16/32" Floppy to Amiga FastFileSystem "FFS" </br>
@@ -51,10 +52,11 @@ AmigaOS has an emulator, does Not start by default at boot. </br>
 Amiga also had Bridge Boards that allow to emulate a PC XT 8088, 8086, 286, 386, 486slc </br>
 2 computers in 1 Box, running simultaneusly, capable of transfering files back & forth, like a Virtual Machine but Real HW. </br>
 
-The other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
+Other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
-[GreaseWeazle](https://github.com/keirf/greaseweazle).[RetroFuzion](https://www.retrofuzion.com/products/greaseweazle-deluxe-kit) </br>
-SW [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communication using serial port, or USB Bluetooth (RS-232) adapters. </br>
+[GreaseWeazle](https://github.com/keirf/greaseweazle).[RetroFuzion](https://www.retrofuzion.com/products/greaseweazle-deluxe-kit), ArduinoBridge & others. </br>
+SW: [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communication using serial port, or USB Bluetooth (RS-232) adapters, </br>
+DrawBridge, FloppyBridge for WinUAE, </br>
 Gotek USB Floppy Emulators "STM32" with optional [HxC Firmware](https://hxc2001.com/docs/gotek-floppy-emulator-hxc-firmware/pages/firmware-update.html) &/or FlashFloppy Firmware </br>
 WinUAE, FS-UAE, E-UAE "Linux" </br>
 
@@ -62,18 +64,18 @@ A1200 has "the same" AGA Graphics custom chip like A4000 in a compact format, </
 like Atari Falcon 030 vs. Atari Mega or TT030 </br>
 "All-In-One Keyboard" </br>
 
-AmigaOS has a SW that allow to run macOS 8.1 designed for Motorola 68K CPU's </br>
+Amiga has a SW called ShapeShifter that allows to run macOS 7.1 to 8.1 for Motorola 68K CPU's </br> 
 ["The fastest Mac is an Amiga"](https://odysee.com/@RMCretro:9/the-fastest-apple-mac-is-an-amiga-fact:2) </br>
 Apple, Amiga & AtariST had Unix OS called: A/UX & AMIX </br>
-some claim that Classic Macs were locked in ROM Bios so it cannot be upgraded to 060 CPU's </br>
+some claim that Classic Macs were locked in ROM so it cannot be upgraded to 060 CPU's </br>
 because Mac was moving to PPC, did Not wanted comptetition. </br>
 
 Early 4000D "Desktop" (1992-1993) all had battery leak that damaged the boards </br>
 several Amiga enthusiasts repaired the "survivors" from land fills & recycling centers </br>
 some repairs are on several YouTube channels </br>
-4000D (1992-1994) has differet board revisions "was a work in progress" </br>
+4000D (1992-1994) has different board revisions "was a work in progress" </br>
 some repairs were not feasible "too much damage" thats how Recreation Boards were born. </br>
-A4000-CR "Cost-Reduced" (1993-1994) battery was replaced with coin battery. </br>
+A4000-CR "Cost-Reduced" (1993-1994) leak battery was replaced with coin battery, No-leak. </br>
 
 A4000T "Tower" has a coin battery like -CR, there is only 1 Final Rev4 board, </br>
 has built-in SCSI-2 NEC 53C710 controller, Desktop does Not have SCSI-2. </br>
@@ -81,29 +83,30 @@ A4000T Requires a different Rom Kickstart 3.1T with SCSI-2 drivers. </br>
 A4000D has many optional 3rd party SCSI Cards available </br> 
 schematics were reverse eng. and [recreation boards were made](https://scsi.me/#lineup)  </br>
 
-Amiga 4000 series D/T have Zorro-3 Slots "faster" vs. A2000 Zorro-2 </br>
+Amiga 4000 / 3000 series have Zorro-3 Slots "faster" vs. A2000 Zorro-2 </br>
 AGA video chipset like A1200 </br>
-All Amigas come with a "basic" GPU, that requires special 15KHz monitor, &/or scan converter  </br>
-rare DB23 connector + adapter to DB15 VGA </br>
-The A/T has standard AT Power supply "low efficiency 68%"  </br>
-The "D" has a different custom PSU, with different connectors. </br>
+All Amigas come with a "basic" GPU, that requires special 15KHz monitor, &/or scan converter + </br>
+Rare DB23 adapter to DB15 VGA </br>
+The A/T has standard AT Power supply "Efficiency 68%"  </br>
+The "D" has a different custom PSU, different connectors. </br>
 
-many Amiga store websites sell most parts for DIY or pre-built adapters. </br>
+many Amiga store websites sell most parts for DIY or pre-built adapters, </br>
+to adapt a Newer ATX >2.1 PSU to A4000T AT board for example. </br>
 
-A3000 & A2000 have a similar story, but more advanced,  </br>
-because were more common / available, easy to buy / find,  </br>
-some recreated custom chips in FPGA "drop in replacements"  </br>
-[A3000 (90-92)](https://en.wikipedia.org/wiki/Amiga_3000) was recreated completely again in Hardware. </br>
-A4000 still require custom IC's: D has socket, T is soldered to the board. </br>
-similar to C64, custom ICs were also recreated in FPGA, ARM & CPLD. </br>
+A3000 & A2000 have a similar story, </br>
+were more common, easy to buy / find,  </br>
+some recreated all custom chips in FPGA "drop in replacements"  </br>
+[A3000 (90-92)](https://en.wikipedia.org/wiki/Amiga_3000) recreated completely again in Hardware. </br>
+A4000 still require custom IC's: D has socket, T is soldered to board. </br>
+similar to C64 story, custom ICs were recreated in FPGA, ARM & CPLD like SID, GAL, PLD, Memory. </br>
 
 When Apple transitioned to PPC, some Amiga developers also created Dual-CPU accelerator boards </br>
-like Cyberstorm Mk3 with M68k 060 & PowerPC 603e or 604e </br>
+like Cyberstorm Mk3 with M68k 060 & PowerPC 604e </br>
 AmigaOS4 was recompiled for PPC architecture, </br>
-and Newer Amiga X1000 X5000 machines for PPC were launched </br>
+Newer Amiga X1000 X5000 machines for PPC were launched </br>
 Those PPC had a CPU similar to PowerMac G5 "64-Bit" Single/Dual-Core versions </br>
 but the CPU they chosed does Not have Altivec "MMX instructions" </br>
-There are Modern PPC Cpus today for embedded systems that contain Altivec "Newer" generations </br>
+There are Modern PPC Cpus for embedded systems that contain Altivec "Newer" generations </br>
 That was a major design flaw in my opinion of the X Amiga PPC generation. </br>
 
 ## GPU's
