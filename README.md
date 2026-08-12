@@ -303,19 +303,22 @@ Sollution is the project [ATX Ports module](https://gitlab.com/amiga-projects/at
 
 ## CPU Boards
 
-Original A3630 & A3640 boards, </br>
-The A3640 Rev3.1 has a small Bug on the print, </br>
+Original A3630 & A3640 boards: </br>
+The A3640 Rev3.1 has a small Bug on the silkscreen print, </br>
 3 capacitors polarity is painted backwards, </br>
 Replacing capacitors backwards in some cases, creating a short on the PCB. </br>
 Sollution always check with a DMM the Negative polarity to GND before installing. </br>
-Accelerators based on ARM Software emulations like Z3660 + FPGA board or PiStorm32 based on Pi4B, or Amibery, </br>
-Amiga Sysinfo 4.x Benchmark gives very Large Dhrystones "Integer Test", up to 1.5Million, but... </br>
-Some Softwares use more Floating point math, "Westones" like 3D CPU Rendering, </br>
-those SW are faster on a Real 030 040 060 with 68882 FPU. </br>
-Vampire V4 FPGA Unknown how fast is on a 3D Render Test. </br>
-MIPS is a test designed by DEC to compare differnt Alpha machines PDP-11, VAX-11, 8800 </br>
 
-# BOM DIY
+Accelerators based on Software emulations like Z3660 + FPGA board or PiStorm32 based on Pi4B, or Amibery, on Synthetic Benchmarks like: </br>
+Amiga Sysinfo 4.x Benchmark gives very Large [Dhrystones](https://en.wikipedia.org/wiki/Dhrystone) "Integer Test" up to 1.5Million on Pi4B, but... </br>
+Some SW use more Floating point math [Whetsones](https://en.wikipedia.org/wiki/Whetstone_(benchmark)) like 3D CPU Rendering, </br>
+those SW are faster on a Real 030 040 060 with 68882 FPU even Integer benchmark is much slower. </br>
+Vampire V4 FPGA Unknown how fast is on a 3D Render Test. </br>
+Dhrystones Not only measure Machine Integer performance, also compiler optimizations "cheating", </br>
+depends how was [compiled from source](https://github.com/Keith-S-Thompson/dhrystone/tree/master) results may vary. </br>
+MIPS was test used by DEC to compare different Alpha machines PDP-11, VAX-11, 8800 </br>
+
+## BOM DIY
 
 [Bill.Of.Materials](https://docs.google.com/spreadsheets/d/1czsNg6O3RXiB12KduvjW-nOGRPwfiWtYTnK7Xi-feMI/edit?gid=0#gid=0).[amybay](https://www.amibay.com/threads/a4000t-rev-4-4-1-part-locators-if-you-need-the-links.120082/) </br>
 Component Locator: </br>
