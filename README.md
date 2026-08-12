@@ -13,13 +13,13 @@ Condensed as much as possible, "for Beginners". </br>
 were the last & best Amiga made around Motorola 68K 030 040 CPU's, </br>
 has optional 3rd party accelerator boards that allow different kinds of CPU upgrades: </br>
 ARM "Bare Metal SW Emulation", FPGA, Real Motorola [68060](https://en.wikipedia.org/wiki/Motorola_68060) & 604e PowerPC CPU's </br> 
-[Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500) / [1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) / [2000 (87-91)](https://en.wikipedia.org/wiki/Amiga_2000) / [600 (92-93)](https://en.wikipedia.org/wiki/Amiga_600) / [1200 (92-96)](https://en.wikipedia.org/wiki/Amiga_1200) were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
+[Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500) / [1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) / [2000 (87-91)](https://en.wikipedia.org/wiki/Amiga_2000) / [600 (92-93)](https://en.wikipedia.org/wiki/Amiga_600) / [1200 (92-96)](https://en.wikipedia.org/wiki/Amiga_1200) were more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
 
 There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) more Arcade custom chips </br>
-Arcade machines price was 10x-32x more vs. Commodore 64: Dual CPU's, Dedicated Sprite / Graphics accelerator, but were "1 trick pony" </br>
+Arcade machines price was 10x-32x more vs. Commodore 64: Dual CPU's, Dedicated Sprite / Graphics accelerator, 3 boards but 1 trick pony. </br>
 Amiga was inspired by Arcade graphic technology, but "Swiss Army Knife". </br>
 Commodore 64 was a 10k to 23k Trick Pony, even few people had all titles. </br>
-in LemonAmiga Database there is [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because was released in (1992) vs. Original Chiopset in 1987, all games for CD32 are AGA, and Amiga 4000 has a floppy disc that allows to boot CD32 CD's. </br>
+in LemonAmiga Database there is [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because was released in (1992) vs. Original Chipset in 1987, all games for CD32 are AGA, Amiga 4000 has a floppy that allows to boot CD32 CD's. </br>
 
 The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128/D / [C65](https://en.wikipedia.org/wiki/Commodore_65) </br>
 Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on E-mu / Ensoniq technology. </br>
@@ -36,9 +36,9 @@ in 1993 a software called ReloKick [v1.41](https://archive.org/details/ReloKick_
 was made to create a soft-compatibility layer: </br>
 Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/wiki/Kickstart_(Amiga)) </br>
 SW came with [CU Amiga Magazine issue 037 - March 1993](https://archive.org/details/cuamiga-magazine-037/page/n11/mode/2up) </br>
-Requires minimum 1MB of FastRAM, Today thats Not a problem, most CPU accelerator boards have plenty of Fast RAM. </br>
+Requires minimum 1MB of FastRAM, Today thats Not a problem, most CPU accelerator boards have plenty of FastRAM. </br>
 there are modifications to breakthrough 16MB FastRAM Limit w/o CPU Accelerator to 64MB & [112MB](https://drive.usercontent.google.com/download?id=15nFvyg4oYhQpE3a8nD3mrfQDS_BrZPch&export=download) </br>
-ReloKick is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" Pre-PPA Repository. </br>
+ReloKick is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" Pre-PPA Repository, Nor A-EON OS4 appstore. </br>
 
 A4000 is pre-TCP/IP, pre-SSL </br>
 there are several Ethernet 100Mbps cards available for Zorro slots, </br>
@@ -51,6 +51,9 @@ to trasfer files from FreeDOS / MS-DOS "FAT16/32" Floppy to Amiga FastFileSystem
 AmigaOS has an emulator, does Not start by default at boot. </br>
 Amiga also had Bridge Boards that allow to emulate a PC XT 8088, 8086, 286, 386, 486slc </br>
 2 computers in 1 Box, running simultaneusly, capable of transfering files back & forth, like a Virtual Machine but Real HW. </br>
+
+Amiga Floppy were 880k vs. [IBM PC](https://en.wikipedia.org/wiki/List_of_floppy_disk_formats#Logical_formats) 740KB because: </br>
+Amiga does Not have Sectors inside each trak, only 1 at Begging & End of the Track, writting a cotinious track. </br>
 
 Other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
