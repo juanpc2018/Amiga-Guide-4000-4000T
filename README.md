@@ -355,3 +355,31 @@ Lattice C was purchased by Microsoft, Renamed Microsoft C Compiler 1.0 & 2.0 aft
 Other Native 68k compilers for Amiga: Aztek C, SBS, DevPak, </br>
 posix Linux gcc tools ports to AmigaOS. </br>
 Smaller / independent developers without access to University MainFrames/MiniFrame had to compile Native. </br>
+
+# Mouse & Joystick DB9
+The Original Amiga "Tank Mouse", had different revisions 1351, and No name, </br>
+Made in Japan and Malaysia, </br>
+some claim some mouse were "analog" and others "digital", but the reality, is that  </br>
+all are "almost the same design" with minor changes </br>
+the original buttons were a "DIY" metalic dome that made contact with the PCB. </br>
+those "DIY" push switches were replaced with common push micro switches. </br>
+The circuit design is "the same" based on a Quad comparator. </br>
+but Early Designs had IR LEDs that Drift with Age / Time / Use / Temperature </br>
+and the original pull-down resistors for the output of the IR Receiver LED were calculated too low. </br>
+Resistor values should be near 880K-1K ohm. </br>
+Newer designs 1352 & No name made other physical changes to the mouse ball door, </br>
+older had a vertical snap on design, the later had a rotary design. </br>
+
+with a few modifications all revisions with different countries of origin, cold be "the same" </br>
+
+There are [Modern / New Recreations](https://tank-mouse.com/) also DIY Resin 3D Print models. </br>
+IF you like the Original Tank mouse model / design. </br>
+Amiga and other 3rd party manufacturers released compatible models, depends on the pin-out of the DB9 connector. </br>
+AtariST "Tank Mouse" bottom part was "very similar" to Early Amiga "Tank Mouse" bottom plastic part, </br>
+PCB circuit also similar, but has a different manufacturer. </br>
+To recreate that PCB design is very simple, the only problem would be the Giant Metallic Ball Bearing covered in micro rugerized rubber. </br> 
+similar to PlayStation5 controllers, have micro PlayStation Logos /\ [_] (O) texture. </br>
+Some Chinese Balls that sound like "Triangles inside", could work but size could be different, </br>
+because the weight does Not seem a Solid Metallic / Iron / Steinless Steel Ball Bearing. </br> 
+
+There were other Mouse Designs, but Tank Mouse was the most common. </br>
