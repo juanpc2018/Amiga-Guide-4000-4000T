@@ -308,6 +308,12 @@ The A3640 Rev3.1 has a small Bug on the print, </br>
 3 capacitors polarity is painted backwards, </br>
 Replacing capacitors backwards in some cases, creating a short on the PCB. </br>
 Sollution always check with a DMM the Negative polarity to GND before installing. </br>
+Accelerators based on ARM Software emulations like Z3660 + FPGA board or PiStorm32 based on Pi4B, or Amibery, </br>
+Amiga Sysinfo 4.x Benchmark gives very Large Dhrystones "Integer Test", up to 1.5Million, but... </br>
+Some Softwares use more Floating point math, "Westones" like 3D CPU Rendering, </br>
+those SW are faster on a Real 030 040 060 with 68882 FPU. </br>
+Vampire V4 FPGA Unknown how fast is on a 3D Render Test. </br>
+MIPS is a test designed by DEC to compare differnt Alpha machines PDP-11, VAX-11, 8800 </br>
 
 # BOM DIY
 
