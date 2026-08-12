@@ -11,8 +11,7 @@ Condensed as much as possible, "for Beginners". </br>
 
 [Amiga 4000 (1992-1994)](https://en.wikipedia.org/wiki/Amiga_4000) Desktop & Tower [A4000T (1994-1996)](https://en.wikipedia.org/wiki/Amiga_4000T) </br>
 were the last & best Amiga made around Motorola 68K 030 040 CPU's, </br>
-has optional 3rd party accelerator boards that allow CPU upgrades </br>
-there are different kinds of CPU upgrades: </br>
+has optional 3rd party accelerator boards that allow different kinds of CPU upgrades: </br>
 ARM "Bare Metal SW Emulation", FPGA, Real Motorola [68060](https://en.wikipedia.org/wiki/Motorola_68060) & 604e PowerPC CPU's </br> 
 [Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500) / [1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) / [2000 (87-91)](https://en.wikipedia.org/wiki/Amiga_2000) / [600 (92-93)](https://en.wikipedia.org/wiki/Amiga_600) / [1200 (92-96)](https://en.wikipedia.org/wiki/Amiga_1200) were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
 
