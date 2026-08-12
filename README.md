@@ -314,8 +314,8 @@ Amiga Sysinfo 4.x Benchmark gives very Large [Dhrystones](https://en.wikipedia.o
 Some SW use more Floating point math [Whetsones](https://en.wikipedia.org/wiki/Whetstone_(benchmark)) like 3D CPU Rendering, </br>
 those SW are faster on a Real 030 040 060 with 68882 FPU even Integer benchmark is much slower. </br>
 Vampire V4 FPGA Unknown how fast is on a 3D Render Test. </br>
-Dhrystones Not only measure Machine Integer performance, also compiler optimizations "cheating", </br>
-depends how was [compiled from source](https://github.com/Keith-S-Thompson/dhrystone/tree/master) results may vary. </br>
+Dhrystones & Whetstone Not only measure Machine Integer & Floating performance, also compiler optimizations "cheating", </br>
+depends how was [compiled](https://github.com/Keith-S-Thompson/dhrystone/tree/master) from [source](https://github.com/varigit/arm_benchmarks/blob/master/whetstone/whetstone.c) results may vary. </br>
 MIPS was test used by DEC to compare different Alpha machines PDP-11, VAX-11, 8800 </br>
 
 ## BOM DIY
