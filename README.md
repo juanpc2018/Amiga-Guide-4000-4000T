@@ -354,7 +354,7 @@ Apollo-Core has [Programming Tutorials](http://www.apollo-core.com/index.htm?pag
 Lattice C was purchased by Microsoft, Renamed Microsoft C Compiler 1.0 & 2.0 after version 3 code was different, Unknown if v3 Cross-compile. </br>
 Other Native 68k compilers for Amiga: Aztek C, SBS, DevPak, </br>
 posix Linux gcc tools ports to AmigaOS. </br>
-Smaller / independent developers without access to University MainFrames/MiniFrame had to compile Native. </br>
+Smaller / independent developers without access to University MainFrames MVS/VMS had to compile Native. </br>
 
 # Mouse & Joystick DB9
 The Original Amiga "Tank Mouse", had different revisions 1351, and No name, </br>
