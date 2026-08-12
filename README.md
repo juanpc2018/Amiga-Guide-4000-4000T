@@ -9,7 +9,7 @@ Condensed as much as possible, "for Beginners". </br>
 
 ## Background History
 
-[Amiga 4000 (1992-1994)](https://en.wikipedia.org/wiki/Amiga_4000) "Desktop" & Tower [A4000T (1994-1996)](https://en.wikipedia.org/wiki/Amiga_4000T) </br>
+[Amiga 4000 (1992-1994)](https://en.wikipedia.org/wiki/Amiga_4000) Desktop & Tower [A4000T (1994-1996)](https://en.wikipedia.org/wiki/Amiga_4000T) </br>
 were the last & best Amiga made around Motorola 68K 030 040 CPU's, </br>
 has optional 3rd party accelerator boards that allow CPU upgrades </br>
 there are different kinds of CPU upgrades: </br>
