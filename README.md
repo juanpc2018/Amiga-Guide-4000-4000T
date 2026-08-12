@@ -343,4 +343,4 @@ Apollo-systems has Assembler Tutorials for their 68K 080 CPU & SuperAGA FPGA. </
 Lattice C was purchased by Microsoft, Renamed Microsoft C Compiler 1.0 & 2.0 after version 3 code was different, Unknown if v3 Cross-compile. </br>
 Other Native 68k compilers for Amiga: Aztek C, SBS, DevPak, </br>
 posix Linux gcc tools ports to AmigaOS. </br>
-Smaller / independent developers without access to University MainFrames/MiniFrame computers had to compile Native. </br>
+Smaller / independent developers without access to University MainFrames/MiniFrame had to compile Native. </br>
