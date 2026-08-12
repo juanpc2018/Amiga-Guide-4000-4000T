@@ -2,7 +2,7 @@
 
 "from Zero to Hero" </br>
 
-**v0.00000010** </br>
+**v0.00000011** </br>
 
 This is a compilation / combined knowledge of many websites, </br>
 Condensed as much as possible, "for Beginners". </br>
@@ -17,9 +17,10 @@ ARM "Bare Metal SW Emulation", FPGA, Real Motorola [68060](https://en.wikipedia.
 [Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500) / [1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) / [2000 (87-91)](https://en.wikipedia.org/wiki/Amiga_2000) / [600 (92-93)](https://en.wikipedia.org/wiki/Amiga_600) / [1200 (92-96)](https://en.wikipedia.org/wiki/Amiga_1200) were much more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
 
 There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) more Arcade custom chips </br>
-Arcade machines price was 10x more vs. Commodore 64: Dual CPU's, Dedicated Sprite / Graphics accelerator, but were "1 trick pony" </br>
-Amiga was inspired by Arcade machines graphic technology, but "Swiss Army Knife". </br>
+Arcade machines price was 10x-32x more vs. Commodore 64: Dual CPU's, Dedicated Sprite / Graphics accelerator, but were "1 trick pony" </br>
+Amiga was inspired by Arcade graphic technology, but "Swiss Army Knife". </br>
 Commodore 64 was a 10k to 23k Trick Pony, even few people had all titles. </br>
+in LemonAmiga Database there is [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because was released in (1992) vs. Original Chiopset in 1987, all games for CD32 are AGA, and Amiga 4000 has a floppy disc that allows to boot CD32 CD's. </br>
 
 The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128/D / [C65](https://en.wikipedia.org/wiki/Commodore_65) </br>
 Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on E-mu / Ensoniq technology. </br>
@@ -138,7 +139,9 @@ others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/), [Vis
 
 ## DIY
 If you buy a Replica board from one of the many Amiga sellers / stores, </br>
-to replace the old damaged board "transplant components" or to create a New machine. </br>
+to replace the old damaged board "transplant components", to create a New machine or to Repair. </br>
+
+[Parts List](https://docs.google.com/spreadsheets/d/1czsNg6O3RXiB12KduvjW-nOGRPwfiWtYTnK7Xi-feMI/edit?gid=0#gid=0) </br>
 
 ### New HW machine or use Software Emulators: </br>
 
@@ -318,3 +321,26 @@ Component Locator: </br>
 6 layer boards identical in functionality to the A4000T Rev 4 motherboard PCB </br>
 [SCH Site2](https://www.amiga4000tower.de/smf/index.php?action=articles;sa=view;article=36) </br>
 [Vector SCH](https://www.amigawiki.de/doku.php?id=en:service:schematics) </br>
+
+## Programming 
+
+for AmigaOS & Workbench | "DOS" & "Windows" </br>
+there are different compilers for C, C++, Asembler & other languajes, </br>
+Amiga Assembler compiler, & others... </br>
+Lattice C was promotted as a CrossCompiler + Native Compiler </br>
+lattest Native version for Amiga was v5.x </br>
+some used Faster machines like IBM System/xx mainframes "room size" / miniframes "refrigerator size", </br>
+maybe DEC PDP-11 & VAX-11, 8800 </br>
+to compile Amiga 1000 software, those machines were runing upto 300MHz while Amiga 1000 & 500 were 8MHz. </br>
+similar did Microsoft when designing DOS & Windows with Emulated / Virtualized x86 </br>
+using faster machines to compile software for Consumer / Home / Office machines. </br> 
+Running simulations/emulations/VM's for programming is still common practice. </br>
+Most Notorious modern example is Windows8.1 Update, that works Ok on VirtualBox 6.x, </br>
+but does Not update on a Real X58 Machine, unless 3 Service Packs are manually downloaded & installed. </br>
+
+Apollo-systems has Assembler Tutorials for their 68K 080 CPU & SuperAGA FPGA. </br>
+
+Lattice C was purchased by Microsoft, Renamed Microsoft C Compiler after version 3, Unknown if v3 does Crosscompiler. </br>
+Other compilers for Amiga: Aztek C, SBS, DevPak, etc... </br>
+native posix Linux gcc tools were also converted to AmigaOS. </br>
+Smaller / independent developers without access to University MainFrames/MiniFrame computers had to compile Native. </br>
