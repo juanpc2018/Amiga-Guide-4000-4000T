@@ -58,7 +58,7 @@ HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
 [GreaseWeazle](https://github.com/keirf/greaseweazle).[RetroFuzion](https://www.retrofuzion.com/products/greaseweazle-deluxe-kit), ArduinoBridge & others. </br>
 SW: [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communication using serial port, or USB Bluetooth (RS-232) adapters, </br>
 DrawBridge, FloppyBridge for WinUAE, </br>
-Gotek USB Floppy Emulators "STM32" with optional [HxC Firmware](https://hxc2001.com/docs/gotek-floppy-emulator-hxc-firmware/pages/firmware-update.html) &/or FlashFloppy Firmware </br>
+Gotek USB Floppy Emulators "STM32" with optional [HxC Firmware](https://hxc2001.com/docs/gotek-floppy-emulator-hxc-firmware/pages/firmware-update.html) &/or FlashFloppy Firmware, converting files to .adf image format, using Xcopy or similar Amiga SW, Reading on PC: [Disk2FDI](http://www.oldskool.org/disk2fdi/trial.html) </br>
 WinUAE, FS-UAE, E-UAE "Linux" </br>
 
 A1200 has "the same" AGA Graphics custom chip like A4000 in a compact format, </br>
