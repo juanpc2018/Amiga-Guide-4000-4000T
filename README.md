@@ -326,21 +326,21 @@ Component Locator: </br>
 
 for AmigaOS & Workbench | Amiga "DOS" & "Windows" </br>
 there are different compilers for C, C++, Asembler & other languajes, </br>
-Amiga Assembler compiler, & others... </br>
-Lattice C was promotted as a CrossCompiler + Native Compiler </br>
+Amiga Assembler compiler, </br>
+Lattice C was advertized as a Cross-Compiler + Native Compiler </br>
 lattest Native version for Amiga was v5.x </br>
-some used Faster machines like IBM System/xx mainframes "room size" / miniframes "refrigerator size", </br>
+some Developers used Faster machines like IBM System/xx mainframes "room size" MVS / Miniframes "refrigerator size" VMS, Unix, </br>
 maybe DEC PDP-11 & VAX-11, 8800 </br>
-to compile Amiga 1000 software, those machines were runing upto 300MHz while Amiga 1000 & 500 were 8MHz. </br>
+to compile Amiga software, some machines were runing upto 300MHz while Amiga 1000 & 500 were 8MHz. </br>
 similar did Microsoft when designing DOS & Windows with Emulated / Virtualized x86 </br>
-using faster machines to compile software for Consumer / Home / Office machines. </br> 
-Running simulations/emulations/VM's for programming is still common practice. </br>
+using faster machines "Server" to compile software for Consumer / Home / Office machines, </br> 
+running emulations/VM's is still a common practice. </br>
 Most Notorious modern example is Windows8.1 Update, that works Ok on VirtualBox 6.x, </br>
 but does Not update on a Real X58 Machine, unless 3 Service Packs are manually downloaded & installed. </br>
 
 Apollo-systems has Assembler Tutorials for their 68K 080 CPU & SuperAGA FPGA. </br>
 
-Lattice C was purchased by Microsoft, Renamed Microsoft C Compiler after version 3, Unknown if v3 does Crosscompiler. </br>
-Other compilers for Amiga: Aztek C, SBS, DevPak, etc... </br>
-native posix Linux gcc tools were also converted to AmigaOS. </br>
+Lattice C was purchased by Microsoft, Renamed Microsoft C Compiler 1.0 & 2.0 after version 3 code was different, Unknown if v3 Cross-compile. </br>
+Other Native 68k compilers for Amiga: Aztek C, SBS, DevPak, </br>
+posix Linux gcc tools ports to AmigaOS. </br>
 Smaller / independent developers without access to University MainFrames/MiniFrame computers had to compile Native. </br>
