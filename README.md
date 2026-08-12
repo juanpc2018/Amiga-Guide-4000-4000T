@@ -316,7 +316,7 @@ those SW are faster on a Real 030 040 060 with 68882 FPU even Integer benchmark 
 Vampire V4 FPGA Unknown how fast is on a 3D Render Test. </br>
 Dhrystones & Whetstone Not only measure Machine Integer & Floating performance, also compiler optimizations "cheating", </br>
 depends how was [compiled](https://github.com/Keith-S-Thompson/dhrystone/tree/master) from [source](https://github.com/varigit/arm_benchmarks/blob/master/whetstone/whetstone.c).[1](https://www.netlib.org/benchmark/index.html).[2](https://www.netlib.org/benchmark/dhry-c).[3](https://www.netlib.org/benchmark/whetstone.c).[4](https://www.netlib.org/benchmark/whetstonec).[5](http://www.roylongbottom.org.uk/whets.c).[6](https://git.ti.com/cgit/apps/arm_benchmarks/plain/whetstone/whetstone.c) results may vary. </br>
-MIPS test was used by DEC to compare different Alpha machines PDP-11, VAX-11, 8800 </br>
+[MIPS test](https://en.wikipedia.org/wiki/Whetstone_(benchmark)#The_first_1_MIPS_minicomputer:_VAX-11/780,_and_VAX_MIPS) was used by DEC to compare different Alpha machines PDP-11, VAX-11, 8800 </br>
 
 ## BOM DIY
 
