@@ -324,7 +324,7 @@ Component Locator: </br>
 
 ## Programming 
 
-for AmigaOS & Workbench | "DOS" & "Windows" </br>
+for AmigaOS & Workbench | Amiga "DOS" & "Windows" </br>
 there are different compilers for C, C++, Asembler & other languajes, </br>
 Amiga Assembler compiler, & others... </br>
 Lattice C was promotted as a CrossCompiler + Native Compiler </br>
