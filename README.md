@@ -351,9 +351,11 @@ but does Not update on a Real X58 Machine, unless 3 Service Packs are manually d
 
 Apollo-Core has [Programming Tutorials](http://www.apollo-core.com/index.htm?page=coding&tl=1) for their Vampire V4 68K 080 CPU & SuperAGA FPGA. </br>
 
-Lattice C was purchased by Microsoft, Renamed Microsoft C Compiler 1.0 & 2.0 after version 3 code was different, Unknown if v3 Cross-compile. </br>
-Other Native 68k compilers for Amiga: Aztek C, SBS, DevPak, </br>
-posix Linux gcc tools ports to AmigaOS. </br>
+Lattice C was purchased by Microsoft, Renamed Microsoft C Compiler 1.0 & 2.0 after version 3 code was re-written, Unknown if v3 Cross-compile. </br>
+Other Native 68k compilers for Amiga: Aztek C, SBS </br>
+posix Linux gcc tools port to Amiga called GeekGadgets v1 v1.5 v2. </br>
+Amiga Developer CD v1.1 v2.1 </br>
+Devpac for Amiga </br>
 Smaller / independent developers without access to University MainFrames MVS/VMS had to compile Native. </br>
 
 # Mouse & Joystick DB9
