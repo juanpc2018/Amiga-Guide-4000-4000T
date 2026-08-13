@@ -53,7 +53,7 @@ Amiga also had Bridge Boards that allow to emulate a PC XT 8088, 8086, 286, 386,
 2 computers in 1 Box, running simultaneusly, capable of transfering files back & forth, like a Virtual Machine but Real HW. </br>
 
 Amiga Floppy were 880k vs. [IBM PC](https://en.wikipedia.org/wiki/List_of_floppy_disk_formats#Logical_formats) 740KB because: </br>
-Amiga does Not have Sectors inside each trak, only 1 at Begging & End of the Track, writting a cotinious track. </br>
+Amiga does Not have Sectors inside each track, only 1 at Start & End of each Track, writting a cotinious track. </br>
 
 Other ways: "writing Amiga 880k floppy directly on Mac/PC/Linux" has different options:  </br>
 HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
