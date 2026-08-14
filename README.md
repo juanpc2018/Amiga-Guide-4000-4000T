@@ -22,11 +22,11 @@ Dual CPU's, Dedicated Sprite / Graphics accelerator, 3 boards, but 1 trick pony.
 Amiga was inspired by Arcade technology, but "Swiss Army Knife". </br>
 Commodore 64 was a 10k to 23k Trick Pony, even few people had all titles. </br>
 
-LemonAmiga Database has [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because was released in (1992) vs. Original Chipset in 1987, all games for CD32 are AGA, Amiga 4000 has a floppy that allows to boot CD32 CD's. </br>
-CD32 has a [Chunky Pixels](https://en.wikipedia.org/wiki/Packed_pixel) to Bit plane accelerator [AKIKO IC](https://www.youtube.com/watch?v=I-QAhxMhb5Q&t=1213s) </br>
-Amiga 1200/4000 requires a fast CPU to do the conversion on CPU, </br>
+LemonAmiga Database has [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because was released in (1992) vs. Original Chipset in 1987, all games for [CD32](https://en.wikipedia.org/wiki/Amiga_CD32) are AGA, Amiga 4000 has a floppy that allows to boot CD32 CD's. </br>
+[CD32](https://en.wikipedia.org/wiki/Amiga_CD32) has a [Chunky Pixel](https://en.wikipedia.org/wiki/Packed_pixel) to Bit plane accelerator [AKIKO IC](https://www.youtube.com/watch?v=I-QAhxMhb5Q&t=1213s) </br>
+Amiga 1200/4000 requires a Fast CPU to do the conversion on CPU, </br>
 but A4000/T allows Zorro-3 [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) graphic cards. </br>
-[AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) is the basic on-board GPU on A1200 & A4000/T, more advanced vs. previous generations in C64, Amiga OCS 500/1000/2000 & 3000 [ECS](https://en.wikipedia.org/wiki/Amiga_Enhanced_Chip_Set) </br>
+[AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) is the basic on-board GPU on A1200 & A4000/T, more advanced vs. previous generations: C64, Amiga OCS 500/1000/2000 & 3000 [ECS](https://en.wikipedia.org/wiki/Amiga_Enhanced_Chip_Set) </br>
 
 The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128/D / [C65](https://en.wikipedia.org/wiki/Commodore_65) </br>
 Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on E-mu / Ensoniq technology. </br>
