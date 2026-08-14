@@ -20,6 +20,7 @@ Arcade machines price was 10x-32x more vs. Commodore 64: Dual CPU's, Dedicated S
 Amiga was inspired by Arcade graphic technology, but "Swiss Army Knife". </br>
 Commodore 64 was a 10k to 23k Trick Pony, even few people had all titles. </br>
 in LemonAmiga Database there is [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because was released in (1992) vs. Original Chipset in 1987, all games for CD32 are AGA, Amiga 4000 has a floppy that allows to boot CD32 CD's. </br>
+CD32 has an additional Chunky Pixels to Bitmap accelerator / dedicated IC, Amiga 4000 requires a fast CPU. </br>
 
 The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128/D / [C65](https://en.wikipedia.org/wiki/Commodore_65) </br>
 Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on E-mu / Ensoniq technology. </br>
