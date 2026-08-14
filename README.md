@@ -125,7 +125,7 @@ some PCI upgrade Riser cards like Mediator & Prometheus allow installing Voodoo 
 There are 3D Voodoo Replica cards, and FPGA replica FuryGPU card in development. </br>
 
 [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/driver/video/Picasso96).[emu](https://aminet.net/package/driver/video/P96Emu) or latest Paid [P96 v3.6.3](https://wiki.icomp.de/wiki/P96) version </br>
-or... [CGX](https://en.wikipedia.org/wiki/Retargetable_graphics#CyberGraphX) CyberGraphX [v4 drivers](https://aminet.net/package/driver/video/CyberGraphX_4.3rc4) or [v3](https://aminet.net/package/driver/video/CyberGraphX3) </br>
+or... [CGX](https://en.wikipedia.org/wiki/Retargetable_graphics#CyberGraphX) CyberGraphX [v4 drivers](https://aminet.net/package/driver/video/CyberGraphX_4.3rc4) or [v3](https://aminet.net/package/driver/video/CyberGraphX3) or [old CD](https://archive.org/details/cu-amiga-super-cd-rom-19) </br>
 
 RTG intercepts AGA signals from Zorro-3 video slot, and bypass the weird DB23 VGA output in most situations, </br>
 but some AGA games can be "forced" to run in Native RTG "[CGX](https://en.wikipedia.org/wiki/Retargetable_graphics#CyberGraphX)" mode, installing: [NewMode v3.9](https://aminet.net/package/util/cdity/NewMode_V39.lha) </br>
@@ -134,8 +134,9 @@ Colonization, MegaBall 4, [SimAnt](https://web.archive.org/web/20010419000629/ht
 
 Basically Amiga Chipset: </br>
 OCS -> ECS -> AGA "A1200 & A4000/T" -> RTG Zorro-2/3 -> "CGX" </br>
+Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphics](https://everything.explained.today/Retargetable_graphics/) -> CyberGraphX </br>
 
-Links: </br>
+#### Links: </br>
 [CGX Dev Docs](https://github.com/FraBro1/CybergraphX-4-Dev/tree/main) from [old domain source](https://web.archive.org/web/20040609133957/http://home.earthlink.net/~mike.sherman/) </br>
 [old Picasso96 website](https://web.archive.org/web/20040611233517/http://www.picasso96.cogito.de/) </br>
 [old files](https://web.archive.org/web/20010410091511/http://www.mcs.net/~kanep/www/cgx.html) </br>
