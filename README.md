@@ -119,12 +119,13 @@ There are Modern PPC Cpus for embedded systems that contain Altivec. </br>
 Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv).[bbah](https://bigbookofamigahardware.com/bboah/product.aspx?id=468) & [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
 based on Cirrus Logic GD5446BV-HC-A/B & GD5434-HC-A/B + custom FPGA, </br> 
 were very desired because didnt had the 15KHz limitation, 4MB VRAM allows Hi-Res SVGA/XVGA CRT's. </br>
-called RTG graphics card "Re-Traceable Graphics" </br>
-New RTG GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to the Next level. </br>
+called [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) graphics card "Re-Traceable Graphics" </br>
+New [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to the Next level. </br>
 some PCI upgrade Riser cards like Mediator & Prometheus allow installing Voodoo PCI cards </br>
 There are 3D Voodoo Replica cards, and FPGA replica FuryGPU card in development. </br>
 
-RTG GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/driver/video/Picasso96).[emu](https://aminet.net/package/driver/video/P96Emu) or latest Paid [P96 v3.6.3](https://wiki.icomp.de/wiki/P96) version </br>
+[RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/driver/video/Picasso96).[emu](https://aminet.net/package/driver/video/P96Emu) or latest Paid [P96 v3.6.3](https://wiki.icomp.de/wiki/P96) version </br>
+or... [CGX](https://en.wikipedia.org/wiki/Retargetable_graphics#CyberGraphX) CyberGraphX drivers. </br>
 
 ## HW 68K Alternatives: 
 [Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board, with socket for a Real 68K CPU &/or compatible accelerator boards. </br>
