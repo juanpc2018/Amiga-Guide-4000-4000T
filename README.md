@@ -360,9 +360,13 @@ Smaller / independent developers without access to University MainFrames MVS/VMS
 
 ### Examples: 
 
-[OUTRUN (1986)](https://en.wikipedia.org/wiki/OutRun) for the AMIGA 1200 / 4000 AGA [Part1](https://www.youtube.com/watch?v=5PpR-Dm3-nU) & [Part2](https://www.youtube.com/watch?v=I-QAhxMhb5Q) -> [Blog & Source Files](https://reassembler68k.itch.io/outrun-amiga-edition/devlog/1029155/the-making-of-outrun-chapter-1-the-long-road) </br>
+[OUTRUN (1986)](https://en.wikipedia.org/wiki/OutRun) for AMIGA 1200 / 4000 AGA Chipset: 
+[Part1](https://www.youtube.com/watch?v=5PpR-Dm3-nU) & [Part2](https://www.youtube.com/watch?v=I-QAhxMhb5Q) -> [Blog & Source Files](https://reassembler68k.itch.io/outrun-amiga-edition/devlog/1029155/the-making-of-outrun-chapter-1-the-long-road) </br>
 [Original ROM's](https://www.myabandonware.com/game/outrun-q6#download) </br>
-similar: [Power Drift (1988)](https://en.wikipedia.org/wiki/Power_Drift) </br>
+[MAME C++ SRC](https://github.com/mamedev/mame/blob/master/src/mame/sega/segaorun.cpp) </br>
+
+similar: 
+[Power Drift (1988)](https://en.wikipedia.org/wiki/Power_Drift) </br>
 [Original ROM's](https://www.myabandonware.com/game/power-drift-ze#download) </br>
 
 ## Mouse & Joystick DB9
