@@ -73,7 +73,7 @@ like Atari Falcon 030 vs. Atari Mega or TT030 </br>
 Amiga has a SW called ShapeShifter that allows to run macOS 7.1 to 8.1 for Motorola 68K CPU's </br> 
 ["The fastest Mac is an Amiga"](https://odysee.com/@RMCretro:9/the-fastest-apple-mac-is-an-amiga-fact:2) </br>
 Apple, Amiga & AtariST had Unix OS called: A/UX & AMIX </br>
-some claim that Classic Macs were locked in ROM so it cannot be upgraded to 060 CPU's </br>
+some claim Classic Macs were locked in ROM so it cannot be upgraded to 060 CPU's </br>
 because Mac was moving to PPC, did Not wanted comptetition. </br>
 
 Early 4000D "Desktop" (1992-1993) all had a battery that leak & damaged the boards </br>
