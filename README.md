@@ -150,11 +150,11 @@ Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphic
 [old Zorro cards list](https://web.archive.org/web/20040616074402/http://www.vgr.com/cybergfx/boardtable.html) </br>
 
 ## HW 68K Alternatives: 
-[Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board, with socket for a Real 68K CPU &/or compatible accelerator boards. </br>
-BFG, TF, Apollo Vampire, [Z3660](https://github.com/shanshe/Z3660) etc... </br>
+[Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board, with socket for a Real 68K CPU &/or compatible DIP accelerator boards. </br>
+TF, Apollo Vampire, [Z3660](https://github.com/shanshe/Z3660) etc... </br>
 [MIST 1.5/1.6](https://lotharek.pl/products.php?id=14) made by Lotharek in Poland "complete custom FPGA emulator" </br>
 MISTer complete FPGA emulator based on [Terasic DE-10 Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) dev board + custom hats "i/o boards" </br>
-Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom [64-bit](http://www.apollo-core.com/index.htm?page=family&tl=7) [080](https://wiki.apollo-computer.com/doku.php?id=apollo_core:start) FPGA CPU accelerator board "060 compatible", [Super-AGA](http://www.apollo-core.com/index.htm?page=chipset) "AGA" compatible </br>
+Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom [64-bit](http://www.apollo-core.com/index.htm?page=family&tl=7) [080](https://wiki.apollo-computer.com/doku.php?id=apollo_core:start) FPGA CPU accelerator "060 compatible" + [Super-AGA](http://www.apollo-core.com/index.htm?page=chipset) "AGA" compatible </br>
 small stand alone complete FPGA emulator or A6000 "All-In-One keyboard" like A600/A1200, & CPU accelerator boards for Vintage Amigas. </br>
 
 ## SOFTWARE
