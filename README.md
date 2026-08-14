@@ -118,7 +118,7 @@ There are Modern PPC Cpus for embedded systems that contain Altivec. </br>
 ## GPU's
 Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv).[bbah](https://bigbookofamigahardware.com/bboah/product.aspx?id=468) & [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
 based on Cirrus Logic GD5446BV-HC-A/B & GD5434-HC-A/B + custom FPGA, </br> 
-were very desired because didnt had the 15KHz limitation, 4MB VRAM allows Hi-Res SVGA/XVGA CRT's. </br>
+were very desired because didnt had the 15KHz limitation, 4MB VRAM allows Hi-Res SVGA/XVGA Monitors. </br>
 called [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) graphics card "Re-Traceable Graphics" </br>
 New [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to the Next level. </br>
 some PCI upgrade Riser cards like Mediator & Prometheus allow installing Voodoo PCI cards </br>
@@ -133,8 +133,9 @@ but some AGA games can be "forced" to run in Native RTG "[CGX](https://en.wikipe
 Colonization, MegaBall 4, [SimAnt](https://web.archive.org/web/20010419000629/http://www.mcs.net/~kanep/www/simant.html), SimEarth.
 
 Basically Amiga Chipset: </br>
-OCS -> ECS -> AGA "A1200 & A4000/T" -> RTG Zorro-2/3 -> "CGX" </br>
+OCS -> ECS "A3000" -> AGA "A1200 & A4000/T" -> RTG Zorro-2/3 -> "CGX" </br>
 Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphics](https://everything.explained.today/Retargetable_graphics/) -> CyberGraphX </br>
+3rd Party: Apollo Vampire V4 68k 080 -> SuperAGA </br>
 
 #### Links: </br>
 [CGX Dev Docs](https://github.com/FraBro1/CybergraphX-4-Dev/tree/main) from [old domain source](https://web.archive.org/web/20040609133957/http://home.earthlink.net/~mike.sherman/) </br>
