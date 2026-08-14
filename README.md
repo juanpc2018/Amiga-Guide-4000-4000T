@@ -2,7 +2,7 @@
 
 "from Zero to Hero" </br>
 
-**v0.00000011** </br>
+**v0.00000100** </br>
 
 This is a compilation / combined knowledge of many websites, </br>
 Condensed as much as possible, "for Beginners". </br>
