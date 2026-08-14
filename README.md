@@ -125,7 +125,7 @@ some PCI upgrade Riser cards like Mediator & Prometheus allow installing Voodoo 
 There are 3D Voodoo Replica cards, and FPGA replica FuryGPU card in development. </br>
 
 [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) GPU's require Picasso96 driver: [v2.0 "Free" (1999)](https://aminet.net/package/driver/video/Picasso96).[emu](https://aminet.net/package/driver/video/P96Emu) or latest Paid [P96 v3.6.3](https://wiki.icomp.de/wiki/P96) version </br>
-or... [CGX](https://en.wikipedia.org/wiki/Retargetable_graphics#CyberGraphX) CyberGraphX [drivers](https://aminet.net/package/driver/video/CyberGraphX_4.3rc4) </br>
+or... [CGX](https://en.wikipedia.org/wiki/Retargetable_graphics#CyberGraphX) CyberGraphX [v4 drivers](https://aminet.net/package/driver/video/CyberGraphX_4.3rc4) or [v3](https://aminet.net/package/driver/video/CyberGraphX3) </br>
 
 ## HW 68K Alternatives: 
 [Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board, with socket for a Real 68K CPU &/or compatible accelerator boards. </br>
