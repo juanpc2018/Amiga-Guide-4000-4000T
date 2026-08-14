@@ -358,7 +358,12 @@ Amiga Developer CD v1.1 v2.1 </br>
 Devpac for Amiga </br>
 Smaller / independent developers without access to University MainFrames MVS/VMS had to compile Native. </br>
 
-# Mouse & Joystick DB9
+### Examples: 
+[OUTRUN for the AMIGA! Part1](https://www.youtube.com/watch?v=5PpR-Dm3-nU) & [Part2](https://www.youtube.com/watch?v=I-QAhxMhb5Q) </br>
+[Blog & Source Files](https://reassembler68k.itch.io/outrun-amiga-edition/devlog/1029155/the-making-of-outrun-chapter-1-the-long-road) </br>
+[OUTRUN (1986)](https://en.wikipedia.org/wiki/OutRun) is similar to [Power Drift (1988)](https://en.wikipedia.org/wiki/Power_Drift)
+
+## Mouse & Joystick DB9
 The Original Amiga "Tank Mouse", had different revisions 1351, and No name, </br>
 Made in Japan and Malaysia, </br>
 some claim some mouse were "analog" and others "digital", but the reality, is that  </br>
