@@ -292,6 +292,7 @@ https://www.pureamiga.co.uk/ </br>
 https://amigaspirit.com/ </br>
 http://www.amiga-store.biz/ </br>
 https://www.ami64.com/amiga-computers </br>
+http://amiga.serveftp.net/inventory.xgi?curr=USD </br>
 
 #### Hyperion Official Dealers List: </br>
 https://www.hyperion-entertainment.com/index.php/where-to-buy/dealers </br>
