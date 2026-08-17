@@ -121,7 +121,7 @@ That was a major design flaw in my opinion of the X Amiga PPC generation. </br>
 There are Modern PPC Cpus for embedded systems that contain Altivec. </br>
 
 ## GPU's
-Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv).[bbah](https://bigbookofamigahardware.com/bboah/product.aspx?id=468) & [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
+Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv).[bbah](https://bigbookofamigahardware.com/bboah/product.aspx?id=468).[sd](https://www.sophisticated-development.de/software/index.php/P-IV) & [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
 based on Cirrus Logic GD5446BV-HC-A/B & GD5434-HC-A/B + custom FPGA, </br> 
 were very desired because didnt had the 15KHz limitation, 4MB VRAM allows Hi-Res SVGA/XVGA Monitors. </br>
 called [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) graphics card "Re-Traceable Graphics" </br>
@@ -286,6 +286,7 @@ https://amigaofrochester.com/ </br>
 https://www.retro8bitshop.com/ </br>
 https://amigaonthelake.com/ </br>
 https://www.retropassion.co.uk/ </br>
+[RetroFletch](https://www.tindie.com/stores/retrofletch/items/) </br>
 https://www.micromiga.com/ </br>
 https://www.pureamiga.co.uk/ </br>
 https://amigaspirit.com/ </br>
