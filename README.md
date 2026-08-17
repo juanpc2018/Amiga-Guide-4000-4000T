@@ -360,6 +360,7 @@ Component Locator: </br>
 6 layer boards identical in functionality to the A4000T Rev 4 motherboard PCB </br>
 [SCH Site2](https://www.amiga4000tower.de/smf/index.php?action=articles;sa=view;article=36) </br>
 [Vector SCH](https://www.amigawiki.de/doku.php?id=en:service:schematics) </br>
+[Revisions](https://www.amiga-stuff.com/hardware/amigaboards.html) </br>
 
 ## Programming 
 
