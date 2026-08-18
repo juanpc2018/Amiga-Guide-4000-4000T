@@ -31,11 +31,11 @@ but A4000/T allows Zorro-3 [RTG](https://en.wikipedia.org/wiki/Retargetable_grap
 more advanced vs. previous generations: C64 [VIC-II](https://en.wikipedia.org/wiki/MOS_Technology_VIC-II) Amiga OCS 500/1000/2000 & 3000 [ECS](https://en.wikipedia.org/wiki/Amiga_Enhanced_Chip_Set) </br>
 Late Amiga 2000 Rev. boards can be upgraded to ECS, early had mixed chipset: </br>
 ECS Agnus Chip: 8372B. </br>
-ECS Denise Chip: 8373R4 </br>
+ECS Denise Chip: 8373R4 + KickStart 2.04 or higher, </br>
 but A1200 & A4000 are Next Gen: Zorro-3, AGA. </br>
-Vampire V4 SuperAGA is Unofficially / proposed Next Gen. </br>
+Vampire V4 SuperAGA is Unofficial / proposed Next Gen. </br>
 
-The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128/D / [C65](https://en.wikipedia.org/wiki/Commodore_65) </br>
+The Only mistake in the Amiga, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128/D / [C65](https://en.wikipedia.org/wiki/Commodore_65) </br>
 Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on E-mu / Ensoniq technology. </br>
 
 Motorola also did changes to the CPU's 68k [020](https://en.wikipedia.org/wiki/Motorola_68020) [030](https://en.wikipedia.org/wiki/Motorola_68030) [040](https://en.wikipedia.org/wiki/Motorola_68040) [060](https://en.wikipedia.org/wiki/Motorola_68060) to increase speed, less common instructions were removed, </br>
