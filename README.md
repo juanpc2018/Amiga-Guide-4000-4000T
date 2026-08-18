@@ -29,6 +29,11 @@ Amiga 1200/4000 requires a Fast CPU to do the conversion on CPU, </br>
 but A4000/T allows Zorro-3 [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) graphic cards. </br>
 [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) is the basic on-board GPU on A1200 & A4000/T, </br>
 more advanced vs. previous generations: C64 [VIC-II](https://en.wikipedia.org/wiki/MOS_Technology_VIC-II) Amiga OCS 500/1000/2000 & 3000 [ECS](https://en.wikipedia.org/wiki/Amiga_Enhanced_Chip_Set) </br>
+Late Amiga 2000 Rev. boards can be upgraded to ECS, early had mixed chipset: </br>
+ECS Agnus Chip: 8372B. </br>
+ECS Denise Chip: 8373R4 </br>
+but A1200 & A4000 are Next Gen: Zorro-3, AGA. </br>
+Vampire V4 SuperAGA is Unofficially / proposed Next Gen. </br>
 
 The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128/D / [C65](https://en.wikipedia.org/wiki/Commodore_65) </br>
 Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on E-mu / Ensoniq technology. </br>
@@ -46,7 +51,7 @@ was made to create a soft-compatibility layer: </br>
 Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/wiki/Kickstart_(Amiga)) </br>
 SW came with [CU Amiga Magazine issue 037 - March 1993](https://archive.org/details/cuamiga-magazine-037/page/n11/mode/2up) </br>
 Requires minimum 1MB of FastRAM, Today thats Not a problem, most CPU accelerator boards have plenty of FastRAM. </br>
-there are modifications to breakthrough 16MB FastRAM Limit w/o CPU Accelerator to 64MB & [112MB](https://drive.usercontent.google.com/download?id=15nFvyg4oYhQpE3a8nD3mrfQDS_BrZPch&export=download) </br>
+there are modifications for the A4000 to breakthrough the 16MB FastRAM Limit w/o CPU Accelerator to 64MB & [112MB](https://drive.usercontent.google.com/download?id=15nFvyg4oYhQpE3a8nD3mrfQDS_BrZPch&export=download) </br>
 ReloKick is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" Pre-PPA Repository, Nor A-EON OS4 appstore. </br>
 
 A4000 is pre-TCP/IP, pre-SSL </br>
