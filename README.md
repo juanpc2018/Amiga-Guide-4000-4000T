@@ -14,20 +14,21 @@ were the last & best Amiga made around Motorola 68K 030 040 CPU's, </br>
 has optional 3rd party accelerator boards that allow different kinds of CPU upgrades: </br>
 ARM "Bare Metal SW Emulation", FPGA, Real Motorola [68060](https://en.wikipedia.org/wiki/Motorola_68060) & 604e PowerPC CPU's </br> 
 [Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500) / [1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) / [2000 (87-91)](https://en.wikipedia.org/wiki/Amiga_2000) / [600 (92-93)](https://en.wikipedia.org/wiki/Amiga_600) / [1200 (92-96)](https://en.wikipedia.org/wiki/Amiga_1200) were more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
+Units made is Uknown, official production dates are between 1992 & 1996, but i've seen Amiga 4000T made in 1997. </br>
 
-There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) more Arcade custom chips </br>
+There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture), Arcade inspired custom chips. </br>
 
 Arcade machines price was 10x-32x vs. Commodore 64 </br>
-Dual CPU's, Dedicated Sprite / Graphics accelerator, 3 boards, but 1 trick pony. </br>
-Amiga was inspired by Arcade technology, but "Swiss Army Knife". </br>
+Dual CPU's, Dedicated Sprite / Graphics accelerator, 3 boards, some had 5 sound engines, but 1 trick pony. </br>
+Amiga was inspired by Arcade technology, but cost reduced "Swiss Army Knife". </br>
 Commodore 64 was a 10k to 23k Trick Pony, even few people had all titles. </br>
 
-LemonAmiga Database has [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because was released in (1992) vs. Original Chipset in 1987, all games for [CD32](https://en.wikipedia.org/wiki/Amiga_CD32) are AGA, Amiga 4000 has a floppy that allows to boot CD32 CD's. </br>
-[CD32](https://en.wikipedia.org/wiki/Amiga_CD32) has a [Chunky Pixel](https://en.wikipedia.org/wiki/Packed_pixel) to Bit plane accelerator [AKIKO IC](https://www.youtube.com/watch?v=I-QAhxMhb5Q&t=1213s) </br>
+LemonAmiga Database has [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because was machines were released in (1992) vs. Original Chipset in 1987, all games for [CD32](https://en.wikipedia.org/wiki/Amiga_CD32) are AGA, Amiga 4000 has a floppy that allows to boot CD32 CD's. </br>
+[CD32](https://en.wikipedia.org/wiki/Amiga_CD32) has a [Chunky Pixel](https://en.wikipedia.org/wiki/Packed_pixel) to Bit plane accelerator / converter: [AKIKO IC](https://www.youtube.com/watch?v=I-QAhxMhb5Q&t=1213s) </br>
 Amiga 1200/4000 requires a Fast CPU to do the conversion on CPU, </br>
 but A4000/T allows Zorro-3 [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) graphic cards. </br>
 [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) is the basic on-board GPU on A1200 & A4000/T, </br>
-but more advanced vs. previous generations: C64, Amiga OCS 500/1000/2000 & 3000 [ECS](https://en.wikipedia.org/wiki/Amiga_Enhanced_Chip_Set) </br>
+more advanced vs. previous generations: C64 [VIC-II](https://en.wikipedia.org/wiki/MOS_Technology_VIC-II) Amiga OCS 500/1000/2000 & 3000 [ECS](https://en.wikipedia.org/wiki/Amiga_Enhanced_Chip_Set) </br>
 
 The Only mistake in the Amiga series, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128/D / [C65](https://en.wikipedia.org/wiki/Commodore_65) </br>
 Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on E-mu / Ensoniq technology. </br>
