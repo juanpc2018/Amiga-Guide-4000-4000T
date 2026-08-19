@@ -282,6 +282,7 @@ Silverstone [NJ700](https://www.silverstonetek.com/en/product/info/power-supplie
 Silverstone [ST1100-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1100-TI/) & [ST1300-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1300-TI/) "1100w & 1300w" has same 22A at 5v, -4A short. </br>
 Seasonic [PRIME Titanium](https://seasonic.com/prime-titanium/) 650w 750w 850w has 20A each, 1000w has 25A. </br>
 [EVGA 850 T2](https://www.evga.com/products/product.aspx.pn=220-T2-0850-X1.html) has 20A, -6A short. </br>
+[DARK POWER 14 850W](https://www.bequiet.com/en/powersupply/5790) has 24A, -2A short. </br>
 
 26A at 5v is the Theoretic Limit / Requirement chosen by Amiga for the 4000T </br>
 some 4000 Amigas have a "Cost Reduced 200w PSU" </br>
