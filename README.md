@@ -262,15 +262,15 @@ Amigas are Pre-USB era, but today there are several USB cards for Amiga, some be
 4000T boards have AT standard PSU connector "P8/P9 Black wires to the center" </br>
 
 Many Amiga stores sell an ATX to AT converter cable + Switch for Tower </br>
-because the Desktop case is smaller, replacing PSU is Not as common as Replacing Tower PSU. </br>
+because Desktop case is smaller, replacing PSU is Not as common as Replacing Tower PSU. </br>
 Original PSU has 68% efficiency at Full load. </br>
 Newer PSU's have much better [80 Plus](https://en.wikipedia.org/wiki/80_Plus#Efficiency_level_certifications) Efficiency </br>
 SFF & SFF-L Power Supplys are smaller vs. Standard ATX's PSU's. </br>
-BUT... Older Machines were designed to require more Amps/Watts at 5v rail, and less at 12v rail, </br>
+BUT... Older Machines were designed to require more Amps/Watts at 5v rail, and less at 12v, </br>
 Newer machines are the opposite: designed to require more Amps/Watts at 12v rail, and less at 5v. </br>
 
 That means: </br>
-Original Amiga 4000T PSU is "250watts total" but has 26 Amps for the 5v rail "130w Limit". </br>
+Original Amiga 4000T PSU is "250watts total" but has 26 Amps for 5v rail "130w Limit". </br>
 To replace with a Newer ATX PSU, requires a 850w, smaller PSU's don't have enough Watts at 5v rail. </br>
 
 Recommended: </br>
@@ -294,12 +294,14 @@ Long 3D rendering with different 060 CPU accelerator boars at 100MHz, </br>
 measuring power consumption in all places: AC Wall & DC each rail. </br>
 Emulating a CD32 & play all games from CD </br>
 using different GPUs like ZZ9000 fully upgraded, Picaso IV, </br>
-different sound cards like AmiGUS and others. </br>
+different sound cards like AmiGUS, Sonnata & others. </br>
 using different SCSI Zorro boards, maybe PPC CPU boards also. </br>
+iBrowser with SSL & TCP-IP CPU emulation, several tabs open to consume all 16MB FastRAM. </br>
+using RAM mods to 112MB, Zorro-3 Ram cards, etc.. </br> 
 
 Using Real SCSI & IDE mechanical HDD's is pointless. </br>
-using SD, CF &/or SSD's can lower power consumption drastically. </br>
-HDD's consume 2A every spin-up. </br>
+SD, CF &/or SSD's can lower power consumption drastically. </br>
+HDD's consume ~2A every spin-up. </br>
 4x Mechanical HDD's spining-up at same time = ~8A at 12V. </br>
 CD-ROM / DVD-ROM, depends on the brand. </br>
 1x or 2x Floppy vs. Gotek or HxC ? </br>
