@@ -267,12 +267,14 @@ Original PSU has 68% efficiency at Full load. </br>
 Newer PSU's have much better [80 Plus](https://en.wikipedia.org/wiki/80_Plus#Efficiency_level_certifications) Efficiency </br>
 SFF & SFF-L Power Supplys are smaller vs. Standard ATX's PSU's. </br>
 BUT... Older Machines were designed to require more Amps/Watts at 5v rail, and less at 12v rail, </br>
-Newer machines is the opposite, are designed to require more Amps/Watts at 12v rail, and less at 5v. </br>
+Newer machines are the opposite: designed to require more Amps/Watts at 12v rail, and less at 5v. </br>
 
-That means that Original Amiga 4000T PSU is "250watts total" but has 26 Amps for the 5v rail "130w Limit". </br>
-To replace with a Newer PSU, requires a 850w, smaller PSU's dont have enough Watts at 5v rail. </br>
+That means: </br>
+Original Amiga 4000T PSU is "250watts total" but has 26 Amps for the 5v rail "130w Limit". </br>
+To replace with a Newer ATX PSU, requires a 850w, smaller PSU's don't have enough Watts at 5v rail. </br>
 
-Recommended: Titanium, because efficiency lowers -4% to 90% when used at less or more than 50% load, </br>
+Recommended: </br>
+Titanium, because efficiency lowers -4% to 90% when used at less or more than 50% load, </br>
 [Corsair AX850](https://www.corsair.com/us/en/p/psu/cp-9020151-na/ax-series-ax850-850-watt-80-plus-titanium-certified-fully-modular-atx-psu-cp-9020151-na) has 20A, -6A short, AX1000 has 25A, -1A short. </br>
 Silverstone [ST70F-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST70F-TI/) "700w" is 22A, -3A short on 5V rail. </br>
 Silverstone [SX800-LTI](https://www.silverstonetek.com/en/product/info/power-supplies/SX800-LTI/) "800" SFF-L "Not-ATX size, smaller" is 15A, -9A shorter at 5v. </br>
@@ -285,8 +287,11 @@ Seasonic [PRIME Titanium](https://seasonic.com/prime-titanium/) 650w 750w 850w h
 some 4000 Amigas have a "Cost Reduced 200w PSU" </br>
 
 ¿does A4000T require all that power at 5v? </br>
-to answer that question requires further testing under heavy load: </br>
+to answer that question requires further testing under heavy load, </br>
+with several DMM that allow to Send data to a PC with [UltraDMM](https://ultradmm.com/supported-meters) or similar. </br>
+Tests: </br>
 Long 3D rendering with different 060 CPU accelerator boars at 100MHz, </br>
+measuring power consumption in all places: AC Wall & DC each rail. </br>
 Emulating a CD32 & play all games from CD </br>
 using different GPUs like ZZ9000 fully upgraded, Picaso IV, </br>
 different sound cards like AmiGUS and others. </br>
@@ -313,7 +318,7 @@ Replacing the PSU is Not as easy. </br>
 Optional there is a DIY ATX2AT converter / Analyzer / Power Protection circuit. </br>
 
 Power consumptin varies with each case, </br>
-requires a community effort "All 4000 owners" to find the limits, and avg. values. </br>
+requires a community effort "All 4000 owners" to find the limits, & avg. values. </br>
 
 ## Stores List "Unverified"
 https://amigastore.eu/en/6-amiga-4000 </br>
