@@ -23,7 +23,7 @@ Dual CPU's, Dedicated Sprite / Graphics accelerator, 3 boards, some had 5 sound 
 Amiga was inspired by Arcade technology, but cost reduced "Swiss Army Knife". </br>
 Commodore 64 was a 10k to 23k Trick Pony, even few people had all titles. </br>
 
-LemonAmiga Database has [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because was machines were released in (1992) vs. Original Chipset in 1987, all games for [CD32](https://en.wikipedia.org/wiki/Amiga_CD32) are AGA, Amiga 4000 has a floppy that allows to boot CD32 CD's. </br>
+LemonAmiga Database has [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because AGA was released in (1992) vs. Original Chipset in 1987, all games for [CD32](https://en.wikipedia.org/wiki/Amiga_CD32) are AGA, Amiga 4000 has a floppy that allows to boot CD32 CD's. </br>
 [CD32](https://en.wikipedia.org/wiki/Amiga_CD32) has a [Chunky Pixel](https://en.wikipedia.org/wiki/Packed_pixel) to Bit plane accelerator / converter: [AKIKO IC](https://www.youtube.com/watch?v=I-QAhxMhb5Q&t=1213s) </br>
 Amiga 1200/4000 requires a Fast CPU to do the conversion on CPU, </br>
 but A4000/T allows Zorro-3 [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) graphic cards. </br>
@@ -143,8 +143,8 @@ but some AGA games can be "forced" to run in Native RTG "[CGX](https://en.wikipe
 
 Colonization, MegaBall 4, [SimAnt](https://web.archive.org/web/20010419000629/http://www.mcs.net/~kanep/www/simant.html), SimEarth.
 
-Basically Amiga Chipset: </br>
-OCS -> ECS "A3000" -> AGA "A1200 & A4000/T" -> RTG Zorro-2/3 -> "CGX" </br>
+Basically Commodore Amiga Chipset: </br>
+VIC-II "C64" -> OCS -> ECS "A3000" -> AGA "A1200 & A4000/T" -> RTG Zorro-2/3 -> "CGX" </br>
 Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphics](https://everything.explained.today/Retargetable_graphics/) -> CyberGraphX </br>
 3rd Party: Apollo Vampire V4 68k 080 -> SuperAGA </br>
 
