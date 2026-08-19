@@ -278,8 +278,8 @@ Titanium, because efficiency lowers -4% to 90% when used at less or more than 50
 [Corsair AX850](https://www.corsair.com/us/en/p/psu/cp-9020151-na/ax-series-ax850-850-watt-80-plus-titanium-certified-fully-modular-atx-psu-cp-9020151-na) has 20A, -6A short, AX1000 has 25A, -1A short. </br>
 Silverstone [ST70F-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST70F-TI/) "700w" is 22A, -3A short on 5V rail. </br>
 Silverstone [SX800-LTI](https://www.silverstonetek.com/en/product/info/power-supplies/SX800-LTI/) "800" SFF-L "Not-ATX size, smaller" is 15A, -9A shorter at 5v. </br>
-Silverstone [NJ700](https://www.silverstonetek.com/en/product/info/power-supplies/NJ700/) "700w fanless" is 20A, -5A short. </br>
-Silverstone [ST1100-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1100-TI/) & [ST1300-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1300-TI/) "1100w & 1300w" has same 22A at 5v, -3A short. </br>
+Silverstone [NJ700](https://www.silverstonetek.com/en/product/info/power-supplies/NJ700/) "700w fanless" is 20A, -6A short. </br>
+Silverstone [ST1100-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1100-TI/) & [ST1300-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1300-TI/) "1100w & 1300w" has same 22A at 5v, -4A short. </br>
 Seasonic [PRIME Titanium](https://seasonic.com/prime-titanium/) 650w 750w 850w has 20A each, 1000w has 25A. </br>
 [EVGA 850 T2](https://www.evga.com/products/product.aspx.pn=220-T2-0850-X1.html) has 20A, -6A short. </br>
 
@@ -288,11 +288,11 @@ some 4000 Amigas have a "Cost Reduced 200w PSU" </br>
 
 ¿does A4000T require all that power at 5v? </br>
 to answer that question requires further testing under heavy load, </br>
-with several DMM that allow to Send data to a PC with [UltraDMM](https://ultradmm.com/supported-meters) or similar. </br>
+with several DMM that Send data to a PC with [UltraDMM](https://ultradmm.com/supported-meters) or similar. </br>
 Tests: </br>
 Long 3D rendering with different 060 CPU accelerator boars at 100MHz, </br>
 measuring power consumption in all places: AC Wall & DC each rail. </br>
-Emulating a CD32 & play all games from CD </br>
+Emulating a CD32 & play all games from CD + joypads </br>
 using different GPUs like ZZ9000 fully upgraded, Picaso IV, </br>
 different sound cards like AmiGUS, Sonnata & others. </br>
 using different SCSI Zorro boards, maybe PPC CPU boards also. </br>
@@ -319,8 +319,8 @@ and fail often because Fan does Not spin at low loads, and bugs like heat. </br>
 Replacing the PSU is Not as easy. </br>
 Optional there is a DIY ATX2AT converter / Analyzer / Power Protection circuit. </br>
 
-Power consumptin varies with each case, </br>
-requires a community effort "All 4000 owners" to find the limits, & avg. values. </br>
+Power consumption varies with each case, </br>
+requires a community effort "All 4000 owners" to find the limits & Avg. values. </br>
 
 ## Stores List "Unverified"
 https://amigastore.eu/en/6-amiga-4000 </br>
