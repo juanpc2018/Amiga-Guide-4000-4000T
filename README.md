@@ -450,7 +450,7 @@ Smaller / independent developers without access to University MainFrames MVS/VMS
 
 ### Examples: 
 
-[OutRun (1986)](https://en.wikipedia.org/wiki/OutRun) Remake for AMIGA 1200 / 4000 AGA Chipset: 
+[OutRun (1986)](https://en.wikipedia.org/wiki/OutRun) Remake for AMIGA 1200 / 4000 AGA Chipset: </br>
 [Part1](https://www.youtube.com/watch?v=5PpR-Dm3-nU), [Part2](https://www.youtube.com/watch?v=I-QAhxMhb5Q) & [Updates](https://www.youtube.com/@reassembler68k/search?query=OUTRUN%20amiga) -> [Blog & Source Files](https://reassembler68k.itch.io/outrun-amiga-edition/devlog/1029155/the-making-of-outrun-chapter-1-the-long-road) </br>
 [Original ROM's](https://www.myabandonware.com/game/outrun-q6#download) </br>
 [MAME C++ SRC](https://github.com/mamedev/mame/blob/master/src/mame/sega/segaorun.cpp) </br>
@@ -464,24 +464,26 @@ The Original Amiga "Tank Mouse", had different revisions 1351, 1352 & No name. <
 Made in Japan and Malaysia, </br>
 some claim some were "analog" and others "digital", but the reality, is that  </br>
 all are "almost the same design" with minor changes </br>
-the original buttons were a "DIY" metalic dome that made contact with the PCB "Nice click sound". </br>
-those "DIY" push switches were replaced with different common push mini & micro-switches. </br>
+Oiginal buttons were a "DIY" metalic dome that made contact with the PCB "Nice click sound but short life". </br>
+"DIY" push switches were replaced with different standard mini & micro-switches. </br>
 The circuit design is "the same" based on a Quad comparator. </br>
 Early Designs had IR LEDs that Drift with Age / Time / Use & Temperature </br>
 the original pull-down resistors for the output of the IR Receiver LED were calculated too low. </br>
 Resistor values should be near 880K-1K ohm. </br>
 Newer designs 1352 & No name, made physical changes to the mouse ball door, </br>
-older had a vertical snap on design, the later had a rotary design. </br>
+older had a vertical snap on design, later had a rotary design. </br>
 
-with a few modifications, all revisions with different countries of origin, should be "the same" </br>
+with a few modifications, all revisions with different countries of origin, should work "the same" </br>
+maybe C64 requires a different DB9 voltage vs. Amiga </br>
 
 There are [Modern / New Recreations](https://tank-mouse.com/) also DIY Resin 3D Print models. </br>
-IF you like the Original Tank mouse model / design. </br>
-Amiga and other 3rd party manufacturers released compatible models, depends on the pin-out of the DB9 connector. </br>
+IF you like Original Tank mouse model / design. </br>
+Amiga & other 3rd party manufacturers released compatible models, depends on the pin-out of the DB9 connector. </br>
 AtariST "Tank Mouse" bottom plastic part was "very similar" to Early Amiga "Tank Mouse" bottom plastic part, </br>
 PCB circuit also similar, but has a different manufacturer. </br>
-To recreate that PCB design is very simple, the only problem would be the Giant Metallic Ball Bearing covered in micro-rugerized rubber. </br> 
-similar to PlayStation5 controllers, have micro PlayStation Logos /\ [_] (O) texture on the plastic handles. </br>
+To recreate that PCB design is very simple, </br>
+the only problem would be the Giant Metallic Ball Bearing covered in micro-rugerized rubber. </br> 
+similar to PlayStation5 controllers, have micro PlayStation Logo /\ [_] (O) texture on the plastic handles. </br>
 Some Chinese Balls that sound like "Triangles inside" could work, but size could be different, </br>
 weight does Not seem a Solid Metallic / Iron / Steinless Steel Ball Bearing. </br> 
 
