@@ -258,15 +258,62 @@ Amigas are Pre-USB era, but today there are several USB cards for Amiga, some be
 
 ## PowerSupply
 
-4000D Replica boards have a "custom Amiga power connector" </br>
-4000T replica boards have AT standard PSU connector "P8/P9 Black wires to the center" </br>
+4000D boards have a "custom Amiga power connector" </br>
+4000T boards have AT standard PSU connector "P8/P9 Black wires to the center" </br>
 
 Many Amiga stores sell an ATX to AT converter cable + Switch for Tower </br>
-because the Desktop case is smaller vs. Tower case, replacing PSU is Not as common </br>
+because the Desktop case is smaller, replacing PSU is Not as common as Replacing Tower PSU. </br>
+Original PSU has 68% efficiency at Full load. </br>
 Newer PSU's have much better [80 Plus](https://en.wikipedia.org/wiki/80_Plus#Efficiency_level_certifications) Efficiency </br>
-SFF & SFF+ Power Supplys are smaller vs. Standard ATX's PSU's. </br>
+SFF & SFF-L Power Supplys are smaller vs. Standard ATX's PSU's. </br>
+BUT... Older Machines were designed to require more Amps/Watts at 5v rail, and less at 12v rail, </br>
+Newer machines is the opposite, are designed to require more Amps/Watts at 12v rail, and less at 5v. </br>
 
+That means that Original Amiga 4000T PSU is "250watts total" but has 26 Amps for the 5v rail "130w Limit". </br>
+To replace with a Newer PSU, requires a 850w, smaller PSU's dont have enough Watts at 5v rail. </br>
+
+Recommended: Titanium, because efficiency lowers -4% to 90% when used at less or more than 50% load, </br>
+[Corsair AX850](https://www.corsair.com/us/en/p/psu/cp-9020151-na/ax-series-ax850-850-watt-80-plus-titanium-certified-fully-modular-atx-psu-cp-9020151-na) has 20A, -6A short, AX1000 has 25A, -1A short. </br>
+Silverstone [ST70F-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST70F-TI/) "700w" is 22A, -3A short on 5V rail. </br>
+Silverstone [SX800-LTI](https://www.silverstonetek.com/en/product/info/power-supplies/SX800-LTI/) "800" SFF-L "Not-ATX size, smaller" is 15A, -9A shorter at 5v. </br>
+Silverstone [NJ700](https://www.silverstonetek.com/en/product/info/power-supplies/NJ700/) "700w fanless" is 20A, -5A short. </br>
+Silverstone [ST1100-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1100-TI/) & [ST1300-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1300-TI/) "1100w & 1300w" has same 22A at 5v, -3A short. </br>
+Seasonic [PRIME Titanium](https://seasonic.com/prime-titanium/) 650w 750w 850w has 20A each, 1000w has 25A. </br>
+[EVGA 850 T2](https://www.evga.com/products/product.aspx.pn=220-T2-0850-X1.html) has 20A, -6A short. </br>
+
+26A at 5v is the Theoretic Limit / Requirement chosen by Amiga for the 4000T </br>
+some 4000 Amigas have a "Cost Reduced 200w PSU" </br>
+
+¿does A4000T require all that power at 5v? </br>
+to answer that question requires further testing under heavy load: </br>
+Long 3D rendering with different 060 CPU accelerator boars at 100MHz, </br>
+Emulating a CD32 & play all games from CD </br>
+using different GPUs like ZZ9000 fully upgraded, Picaso IV, </br>
+different sound cards like AmiGUS and others. </br>
+using different SCSI Zorro boards, maybe PPC CPU boards also. </br>
+
+Using Real SCSI & IDE mechanical HDD's is pointless. </br>
+using SD, CF &/or SSD's can lower power consumption drastically. </br>
+HDD's consume 2A every spin-up. </br>
+4x Mechanical HDD's spining-up at same time = ~8A at 12V. </br>
+CD-ROM / DVD-ROM, depends on the brand. </br>
+1x or 2x Floppy vs. Gotek or HxC ? </br>
+Other Rare cards: </br>
+VideoToaster 4000 for people interested in Video Editing. </br> 
+
+Using Solar Panel / Battery powered: DC-ATX </br>
+[HDPLEX 800w](https://hdplex.com//hdplex-800w-dc-atx-with-12v-63vdc-input.html) has 25A at 5A "Enough", </br>
+but requires a Solar farm: >8x >400w panels, >4x-8x 80A-60A solar chargers, >500A 24v Lead batteries, cables, connectors, </br>
+Not a Plug'N Play sollution. </br>
+If connecting to Car/Vehicle Alternator: needs 24v to have better eficiency. </br>
+DC-ATX PSU skip DC-to-AC inverters, most have -10% loss, </br>
+and fail often because Fan does Not spin at low loads, and bugs like heat. </br>
+
+Replacing the PSU is Not as easy. </br>
 Optional there is a DIY ATX2AT converter / Analyzer / Power Protection circuit. </br>
+
+Power consumptin varies with each case, </br>
+requires a community effort "All 4000 owners" to find the limits, and avg. values. </br>
 
 ## Stores List "Unverified"
 https://amigastore.eu/en/6-amiga-4000 </br>
