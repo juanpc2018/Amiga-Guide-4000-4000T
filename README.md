@@ -288,7 +288,7 @@ some 4000 Amigas have a "Cost Reduced 200w PSU" </br>
 
 ¿does A4000T require all that power at 5v? </br>
 to answer that question requires further testing under heavy load, </br>
-with several DMM that Send data to a PC with [UltraDMM](https://ultradmm.com/supported-meters) or similar. </br>
+with several DMM's that Send data to a PC with [UltraDMM](https://ultradmm.com/supported-meters) or similar. </br>
 Tests: </br>
 Long 3D rendering with different 060 CPU accelerator boars at 100MHz, </br>
 measuring power consumption in all places: AC Wall & DC each rail. </br>
@@ -310,7 +310,8 @@ VideoToaster 4000 for people interested in Video Editing. </br>
 
 Using Solar Panel / Battery powered: DC-ATX </br>
 [HDPLEX 800w](https://hdplex.com//hdplex-800w-dc-atx-with-12v-63vdc-input.html) has 25A at 5A "Enough", </br>
-but requires a Solar farm: >8x >400w panels, >4x-8x 80A-60A solar chargers, >500A 24v Lead batteries, cables, connectors, </br>
+but requires a Solar farm: </br>
+8x >400w panels, >4x-8x 80A-60A solar chargers, >500A 24v Lead batteries, cables, connectors, </br>
 Not a Plug'N Play sollution. </br>
 If connecting to Car/Vehicle Alternator: needs 24v to have better eficiency. </br>
 DC-ATX PSU skip DC-to-AC inverters, most have -10% loss, </br>
