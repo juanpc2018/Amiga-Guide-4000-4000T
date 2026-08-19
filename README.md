@@ -157,7 +157,7 @@ Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphic
 
 ## HW 68K Alternatives: 
 [Minimig.ca](https://www.minimig.ca/shop-2/) 1.98itx is a hybrid FPGA custom chip emulation board, with socket for a Real 68K CPU &/or compatible DIP accelerator boards. </br>
-TF, Apollo Vampire, [Z3660](https://github.com/shanshe/Z3660) etc... </br>
+TF, Apollo Vampire, etc... </br>
 [MIST 1.5/1.6](https://lotharek.pl/products.php?id=14) made by Lotharek in Poland "complete custom FPGA emulator" </br>
 MISTer complete FPGA emulator based on [Terasic DE-10 Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) dev board + custom hats "i/o boards" </br>
 Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom [64-bit](http://www.apollo-core.com/index.htm?page=family&tl=7) [080](https://wiki.apollo-computer.com/doku.php?id=apollo_core:start) FPGA CPU accelerator "060 compatible" + [Super-AGA](http://www.apollo-core.com/index.htm?page=chipset) "AGA" compatible </br>
@@ -397,7 +397,7 @@ The A3640 Rev3.1 has a small Bug on the silkscreen print, </br>
 Replacing capacitors backwards in some cases, creating a short on the PCB. </br>
 Sollution always check with a DMM the Negative polarity to GND before installing. </br>
 
-Accelerators based on Software emulations like Z3660 + FPGA board or PiStorm32 based on Pi4B, or Amibery, on Synthetic Benchmarks like: </br>
+Accelerators based on Software emulations like [Z3660](https://github.com/shanshe/Z3660) + FPGA board or PiStorm32 based on Pi4B, or Amibery, on Synthetic Benchmarks like: </br>
 [Amiga Sysinfo 4.x](https://sysinfo.d0.se/) & [xSysinfo](http://aminet.net/package/util/moni/xSysInfo) Benchmarks give very Large [Dhrystones](https://en.wikipedia.org/wiki/Dhrystone) "Integer Test" up to 1.5Million on Pi4B, but... </br>
 Some SW use more Floating point math [Whetsones](https://en.wikipedia.org/wiki/Whetstone_(benchmark)) like 3D CPU Rendering, </br>
 those SW are faster on a Real 030 040 060 with 68882 FPU even Integer benchmark is much slower. </br>
