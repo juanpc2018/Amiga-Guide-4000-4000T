@@ -18,9 +18,10 @@ Units made is Uknown, official production dates are between 1992 & 1996, but i'v
 
 There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture), Arcade inspired custom chips. </br>
 
-Arcade machines price was 10x-32x vs. Commodore 64 </br>
+Arcade machines were $10k usd. in late 1980's/early 1990's = ~$27k in [2026](https://www.usinflationcalculator.com/) </br>
 Dual CPU's, Dedicated Sprite / Graphics accelerator, 3 boards, some had 5 sound engines, but 1 trick pony. </br>
-Amiga was inspired by Arcade technology, but cost reduced "Swiss Army Knife". </br>
+
+Amiga was inspired by Arcade technology, but Cost Reduced "Swiss Army Knife". </br>
 Commodore 64 was a 10k to 23k Trick Pony, even few people had all titles. </br>
 
 LemonAmiga Database has [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because AGA was released in (1992) vs. Original Chipset in 1987, </br>
@@ -150,6 +151,17 @@ Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphic
 3rd Party: Apollo Vampire V4 68k 080 -> SuperAGA </br>
 similar to IBM evolution: </br>
 [CGA (1981)](https://en.wikipedia.org/wiki/Color_Graphics_Adapter) -> [EGA (1984)](https://en.wikipedia.org/wiki/Enhanced_Graphics_Adapter) -> [VGA (1987)](https://en.wikipedia.org/wiki/Video_Graphics_Array) </br>
+
+Some Amiga 4000 have issues with PicasoIV Zorro-3 card "Scrolling artifacts at boot / when heats-up" </br>
+some claim the problem is: </br>
+Zorro-3 bus passive termination, others a PSU noise problem in 5v rail, </br>
+others bad cappcitors, others small cappacitors </br>
+others lack of heatsinks on all the IC's / airflow </br>
+others the Zorro slot 2 vs 1 </br>
+others: all the above. </br>
+
+Vintage HW is Not a 100% problem free experience. </br>
+the problem is equal in New recreation boards & Old / Original boards in good condition. </br>
 
 #### Links: </br>
 [CGX Dev Docs](https://github.com/FraBro1/CybergraphX-4-Dev/tree/main) from [old domain source](https://web.archive.org/web/20040609133957/http://home.earthlink.net/~mike.sherman/) </br>
