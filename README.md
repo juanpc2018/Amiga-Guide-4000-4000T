@@ -147,6 +147,8 @@ Basically Commodore Amiga Chipset: </br>
 VIC-II "C64" -> OCS -> ECS "A3000" -> AGA "A1200/A4000T/CD32" -> RTG Zorro-2/3 -> "CGX" </br>
 Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphics](https://everything.explained.today/Retargetable_graphics/) -> CyberGraphX </br>
 3rd Party: Apollo Vampire V4 68k 080 -> SuperAGA </br>
+similar to IBM evolution: </br>
+[CGA (1981)](https://en.wikipedia.org/wiki/Color_Graphics_Adapter) -> [EGA (1984)](https://en.wikipedia.org/wiki/Enhanced_Graphics_Adapter) -> [VGA (1987)](https://en.wikipedia.org/wiki/Video_Graphics_Array) </br>
 
 #### Links: </br>
 [CGX Dev Docs](https://github.com/FraBro1/CybergraphX-4-Dev/tree/main) from [old domain source](https://web.archive.org/web/20040609133957/http://home.earthlink.net/~mike.sherman/) </br>
