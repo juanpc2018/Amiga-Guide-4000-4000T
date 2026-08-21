@@ -215,17 +215,17 @@ UV Eraseable Eproms are designed to last much more than Flash ROMs, does Not hav
 The Proper UV-Eraser contains a 6" Pure Quartz vacuum tube "like CFL lamps" with 2 or 3 Mercury 3mm BallBearings's inside. </br>
 High Voltage "120v" Evaporate Mercury, Mercury Glow like Neon signs, generates a >200nm Peak UV-C </br>
 Human Eyes cannot see 200nm, but also generates Harmonics / Resonances around 450nm "Cyan Blue" Visible, </br>
-Requires only ~10 minutes. </br>
-Using the Sun requires much more time becasue Ozone Layer Blocks UV-C </br>
+Requires ~10 minutes. </br>
+Using the Sun requires much more time because Ozone Layer Blocks UV-C </br>
 cannot be Erased indors because Normal Glass also Blocks UV-C </br>
-Placing a Black Tape over the [Quartz UV Window](https://en.wikipedia.org/wiki/EPROM#Gallery) = moving the tab on a Floppy to say ["Write Protect"](https://en.wikipedia.org/wiki/Write_protection#Examples) </br>
+Placing a Black Tape over the [Quartz UV Window](https://en.wikipedia.org/wiki/EPROM#Gallery) = moving the tab on a Floppy & say ["Write Protect"](https://en.wikipedia.org/wiki/Write_protection#Examples) </br>
 
 ## IDE vs. SCSI-2
 
 Mechanical IDE or SCSI HDD's are most gone / damaged, but.. </br>
 there are CompactFlash CF to IDE adapters and SCSI-2, </br>
 RaSCSI, PiSCSI, ZuluSCSI, XT-IDE "8-bit", AT-IDE "16-bit" </br>
-there is also SSD SATA-to->IDE & [SATA-II-to->50-pin SCSI-2](http://www.acard.com/index.files/Page799.htm) [adapter.](http://www.acard.com/index.files/Page728.htm) </br>
+there is also SSD SATA-to->IDE & [SATA-to->50-pin SCSI-2](http://www.acard.com/index.files/Page799.htm) [adapter.](http://www.acard.com/index.files/Page728.htm) </br>
 
 i have an "Acme" SATA SSD-to->IDE adapter, Generic IC, </br>
 Startech sell [similar](https://www.startech.com/en-us/hdd/ide2sat2) with Marvell 88SA8052 IC </br>
@@ -233,9 +233,9 @@ The generic adapter, maximum speed on a modern Computer is 100MB/s ATA100 </br>
 i could Not reach 133MB/s using a [891U3](https://www.youtube.com/watch?v=NKpzkbOS59Y) USB3.0 to IDE "Generic" adapter, </br>
 [Startech USB3SSATAIDE](https://www.startech.com/en-us/hdd/usb3ssataide) version </br>
 P.D. Do Not use the 891U3 included PSU has +6vdc, some equipment will burn, </br>
-older Blue version USB2.0 to IDE had ~5.5vdc </br>
+older Blue version USB2.0 to IDE had ~5.5vdc, 5.20 max. </br>
 Moderm Boards don't have IDE, but there are PCI IDE cards available, </br>
-and PCI to PCIe adapters, also with different IC controllers. </br>
+PCI to PCIe adapters, also with different IC controllers. </br>
 
 Fast SCSI-2 in theory can go up to 40 MB/s on 32-Bit [Zorro-3](https://en.wikipedia.org/wiki/Zorro_III) <= [USB2.0 Speeds](https://en.wikipedia.org/wiki/USB#USB_2.0) </br>
 if want to know how fast or slow is,
@@ -254,8 +254,8 @@ most Amigas had SD 880k drives, but A4000 have HD 1.76MB. </br>
 with Gotek USB floppy emulators or similar HxC ¿is that necesary ? </br>
 IF you have Original installer discs on floppy, probably yes. </br>
 
-PC era when floppy controllers were removed from the boards, </br>
-XP install.iso required an USB1.1 Floppy drive </br>
+In the PC era when floppy controllers were removed from the boards, </br>
+XP_install.iso required an USB1.1 Floppy drive </br>
 Amigas are Pre-USB era, but today there are several USB cards for Amiga, some better than others. </br>
 
 ## PowerSupply
@@ -263,13 +263,13 @@ Amigas are Pre-USB era, but today there are several USB cards for Amiga, some be
 4000D boards have a "custom Amiga power connector" </br>
 4000T boards have AT standard PSU connector "P8/P9 Black wires to the center" </br>
 
-Many Amiga stores sell an ATX to AT converter cable + Switch for Tower </br>
+Many stores sell an ATX to AT converter cable + Switch for Tower </br>
 because Desktop case is smaller, replacing PSU is Not as common as Replacing Tower PSU. </br>
 Original PSU has 68% efficiency at Full load. </br>
 Newer PSU's have much better [80 Plus](https://en.wikipedia.org/wiki/80_Plus#Efficiency_level_certifications) Efficiency </br>
 SFF & SFF-L Power Supplys are smaller vs. Standard ATX's PSU's. </br>
 BUT... Older Machines were designed to require more Amps/Watts at 5v rail, and less at 12v, </br>
-Newer machines are the opposite: designed to require more Amps/Watts at 12v rail, and less at 5v. </br>
+Newer machines are the opposite: require more Amps/Watts at 12v rail, and less at 5v. </br>
 
 That means: </br>
 Original Amiga 4000T PSU is "250watts total" but has 26 Amps for 5v rail "130w Limit". </br>
@@ -278,8 +278,8 @@ To replace with a Newer ATX PSU, requires a 850w, smaller PSU's don't have enoug
 Recommended: </br>
 Titanium, because efficiency lowers -4% to 90% when used at less or more than 50% load, </br>
 [Corsair AX850](https://www.corsair.com/us/en/p/psu/cp-9020151-na/ax-series-ax850-850-watt-80-plus-titanium-certified-fully-modular-atx-psu-cp-9020151-na) has 20A, -6A short, AX1000 has 25A, -1A short. </br>
-Silverstone [ST70F-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST70F-TI/) "700w" is 22A, -3A short on 5V rail. </br>
-Silverstone [SX800-LTI](https://www.silverstonetek.com/en/product/info/power-supplies/SX800-LTI/) "800" SFF-L "Not-ATX size, smaller" is 15A, -9A shorter at 5v. </br>
+Silverstone [ST70F-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST70F-TI/) "700w" is 22A, -4A short on 5V rail. </br>
+Silverstone [SX800-LTI](https://www.silverstonetek.com/en/product/info/power-supplies/SX800-LTI/) "800" SFF-L "Not-ATX size, smaller" is 15A, -11A shorter at 5v. </br>
 Silverstone [NJ700](https://www.silverstonetek.com/en/product/info/power-supplies/NJ700/) "700w fanless" is 20A, -6A short. </br>
 Silverstone [ST1100-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1100-TI/) & [ST1300-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1300-TI/) "1100w & 1300w" has same 22A at 5v, -4A short. </br>
 Seasonic [PRIME Titanium](https://seasonic.com/prime-titanium/) 650w 750w 850w has 20A each, 1000w has 25A. </br>
@@ -289,16 +289,17 @@ be quiet! [DARK POWER 14 850W](https://www.bequiet.com/en/powersupply/5790) has 
 26A at 5v is the Theoretic Limit / Requirement chosen by Amiga for the 4000T </br>
 some 4000 Amigas have a "Cost Reduced 200w PSU" </br>
 
-¿does A4000T require all that power at 5v? </br>
-to answer that question requires further testing under heavy load, </br>
+**¿does A4000T require all that power at 5v?** </br>
+
+to fully answer that question requires testing under heavy load, </br>
 with several DMM's that Send data to a PC with [UltraDMM](https://ultradmm.com/supported-meters) or similar. </br>
 Tests: </br>
 Long 3D rendering with different 060 CPU accelerator boars at 100MHz, </br>
 measuring power consumption in all places: AC Wall & DC each rail. </br>
 Emulating a CD32 & play all games from CD + joypads </br>
-using different GPUs like ZZ9000 fully upgraded, Picaso IV, </br>
-different sound cards like AmiGUS, Sonnata & others. </br>
-using different SCSI Zorro boards, maybe PPC CPU boards also. </br>
+using different GPUs like ZZ9000 fully upgraded, Picaso IV, Picollo SD64 </br>
+different sound cards like: AmiGUS, Toccata & others. </br>
+using different SCSI Zorro boards, </br>
 iBrowser with SSL & TCP-IP CPU emulation, several tabs open to consume all 16MB FastRAM. </br>
 using RAM mods to 112MB, Zorro-3 Ram cards, etc.. </br> 
 
@@ -309,13 +310,15 @@ HDD's consume ~2A every spin-up. </br>
 CD-ROM / DVD-ROM, depends on the brand. </br>
 1x or 2x Floppy vs. Gotek or HxC ? </br>
 Other Rare cards: </br>
+Bridgeboards, PPC CPU boards. </br>
 VideoToaster 4000 for people interested in Video Editing. </br> 
 
 Using Solar Panel / Battery powered: DC-ATX </br>
 [HDPLEX 800w](https://hdplex.com//hdplex-800w-dc-atx-with-12v-63vdc-input.html) has 25A at 5A "Enough", </br>
 but requires a Solar farm: </br>
-8x >400w panels, >4x-8x 80A-60A solar chargers, >500A 24v Lead batteries, cables, connectors, </br>
+8x >400w panels, >4x-8x 80A-60A MPPT solar chargers, >500A 24v Lead batteries, cables, connectors, </br>
 Not a Plug'N Play sollution. </br>
+
 If connecting to Car/Vehicle Alternator: needs 24v to have better eficiency. </br>
 DC-ATX PSU skip DC-to-AC inverters, most have -10% loss, </br>
 and fail often because Fan does Not spin at low loads, and bugs like heat. </br>
