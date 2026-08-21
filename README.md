@@ -155,9 +155,9 @@ similar to IBM evolution: </br>
 Some Amiga 4000 have issues with PicasoIV Zorro-3 card "Scrolling artifacts at boot / when heats-up" </br>
 some claim the problem is: </br>
 Zorro-3 bus passive termination, others a PSU noise problem in 5v rail, </br>
-others bad cappcitors, others small cappacitors </br>
+others bad capacitors, others too small capacitors </br>
 others lack of heatsinks on all the IC's / airflow </br>
-others the Zorro slot 2 vs 1 </br>
+others the Zorro-3 video slot, cold solder joint </br>
 others: all the above. </br>
 
 Vintage HW is Not a 100% problem free experience. </br>
