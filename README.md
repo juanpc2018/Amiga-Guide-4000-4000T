@@ -23,7 +23,8 @@ Dual CPU's, Dedicated Sprite / Graphics accelerator, 3 boards, some had 5 sound 
 Amiga was inspired by Arcade technology, but cost reduced "Swiss Army Knife". </br>
 Commodore 64 was a 10k to 23k Trick Pony, even few people had all titles. </br>
 
-LemonAmiga Database has [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because AGA was released in (1992) vs. Original Chipset in 1987, all games for [CD32](https://en.wikipedia.org/wiki/Amiga_CD32) are AGA, Amiga 4000 has a floppy that allows to boot CD32 CD's. </br>
+LemonAmiga Database has [<500 titles](https://www.lemonamiga.com/games/list.php?list_hardware=AGA) for AGA chipset, because AGA was released in (1992) vs. Original Chipset in 1987, </br>
+all games for [CD32](https://en.wikipedia.org/wiki/Amiga_CD32) are AGA, Amiga 4000 has a [floppy](https://archive.org/details/CD-Boot_v1.0_19xx_Amiga_Legal_Emulation_PD) that allows to [boot](https://web.archive.org/web/20040302093826/http://www.funtime-world.de/arena/AmigaArenaCDBoot.DMS) CD32 CD's. </br>
 [CD32](https://en.wikipedia.org/wiki/Amiga_CD32) has a [Chunky Pixel](https://en.wikipedia.org/wiki/Packed_pixel) to Bit plane accelerator / converter: [AKIKO IC](https://www.youtube.com/watch?v=I-QAhxMhb5Q&t=1213s) </br>
 Amiga 1200/4000 requires a Fast CPU to do the conversion on CPU, </br>
 but A4000/T allows Zorro-3 [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) graphic cards. </br>
