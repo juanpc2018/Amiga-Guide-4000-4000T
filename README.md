@@ -144,7 +144,7 @@ but some AGA games can be "forced" to run in Native RTG "[CGX](https://en.wikipe
 Colonization, MegaBall 4, [SimAnt](https://web.archive.org/web/20010419000629/http://www.mcs.net/~kanep/www/simant.html), SimEarth.
 
 Basically Commodore Amiga Chipset: </br>
-[VIC-II (1982)](https://en.wikipedia.org/wiki/MOS_Technology_VIC-II) "C64" -> OCS -> [ECS (1990)](https://en.wikipedia.org/wiki/Amiga_Enhanced_Chip_Set) "A3000" -> [AGA (1992)](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) "A1200/A4000T/CD32" -> RTG Zorro-2/3 -> "CGX" </br>
+[VIC-II (1982)](https://en.wikipedia.org/wiki/MOS_Technology_VIC-II) "C64" -> [OCS (1985)](https://en.wikipedia.org/wiki/Amiga_Original_Chip_Set) -> [ECS (1990)](https://en.wikipedia.org/wiki/Amiga_Enhanced_Chip_Set) "A3000" -> [AGA (1992)](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) "A1200/A4000T/CD32" -> RTG Zorro-2/3 -> "CGX" </br>
 Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphics](https://everything.explained.today/Retargetable_graphics/) -> CyberGraphX </br>
 3rd Party: Apollo Vampire V4 68k 080 -> SuperAGA </br>
 similar to IBM evolution: </br>
