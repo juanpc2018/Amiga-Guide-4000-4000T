@@ -76,7 +76,7 @@ HW [KryoFlux Floppy emulator](https://kryoflux.com/?page=kf_features) </br>
 [GreaseWeazle](https://github.com/keirf/greaseweazle).[RetroFuzion](https://www.retrofuzion.com/products/greaseweazle-deluxe-kit), ArduinoBridge & others. </br>
 SW: [Amiga Explorer](https://www.amigaforever.com/ae/) machine-to-machine communication using serial port, or USB Bluetooth (RS-232) adapters, </br>
 DrawBridge, FloppyBridge for WinUAE, </br>
-Gotek USB Floppy Emulators "STM32" with optional [HxC Firmware](https://hxc2001.com/docs/gotek-floppy-emulator-hxc-firmware/pages/firmware-update.html) &/or FlashFloppy Firmware, converting files to .adf image format, using Xcopy or similar Amiga SW, Reading on PC: [Disk2FDI](http://www.oldskool.org/disk2fdi/trial.html) </br>
+Gotek USB Floppy Emulators "STM32" with optional [HxC Firmware](https://hxc2001.com/docs/gotek-floppy-emulator-hxc-firmware/pages/firmware-update.html), [Cortex](https://cortexamigafloppydrive.wordpress.com/) FW, FlashFloppy FirmWare, converting files to .adf image format, using Xcopy or similar Amiga SW, Reading on PC: [Disk2FDI](http://www.oldskool.org/disk2fdi/trial.html) </br>
 WinUAE, FS-UAE, E-UAE "Linux" </br>
 
 A1200 has "the same" AGA Graphics custom chip like A4000 in a compact format, </br>
@@ -183,7 +183,7 @@ There are many ABANDONEARE software titles "TOSEC", websites like [Myabandonware
 there is also New developers like [Geezer games](https://mcgeezer.itch.io/) & [Metro Siege](https://metrosiege.com/download/beta/) </br>
 if you search youtube "New Amiga Games in 2020 / 2021 / [2022](https://www.youtube.com/watch?v=KK9zg2Vh7AI)" there are several [youtube channels](https://www.youtube.com/@retrogamingdino) with links to the developers. </br>
 Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards, RTG, More FastRAM </br>
-others Port old Arcade ROM games to Amiga, like Atari Tetris version. </br>
+others Port old [Arcade ROM](https://www.myabandonware.com/game/tetris-rk2) games to Amiga, like [Atari Tetris](https://github.com/jotd666/tetris). </br>
 others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/), [Vision](https://www.aros-vision.de/download.html), [T2sde-Linux](https://dl.t2sde.org/binary/2025/), Debian 9, 10, 12 for 68K, etc... </br>
 
 ## DIY
