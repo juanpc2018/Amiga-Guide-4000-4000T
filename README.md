@@ -260,6 +260,8 @@ Slow-to->Fast: Flash, eMMC, mSATA, SSD, M.2 SATA, M.2 NVMe PCIe v3 v4 v5 </br>
 Server: SAS U.2 U.3 </br>
 Smartphone: UFS 1.0 -> 5.0 </br>
 
+[Tool for SCSI SD Emulators](https://github.com/dlundqvist/toolbox) </br>
+
 ## Floppy drives
 There are severa lists of [compatible Floppy drives for Amiga](https://jope.fi/drives/computolio/).[PDF](http://www.pitsch.de/stuff/amiga/Amiga%20Drive%20Compatibility.pdf).[web](https://gamesx.com/wiki/doku.php?id=amiga:amiga_floppy_drive_compatibility).[links](https://amigaalive.blogspot.com/p/hardware-using.html).[HxC](https://hxc2001.com/download/floppy_drive_emulator/support.htm) </br>
 and modification tutorials to convert standard PC 1.44MB drives to 880k drives, </br>
