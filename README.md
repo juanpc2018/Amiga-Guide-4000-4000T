@@ -166,11 +166,15 @@ others: all the above. </br>
 Vintage HW is Not a 100% problem free experience. </br>
 the problem is equal in New recreation boards & Old / Original boards in good condition. </br>
 
-**Basically there is 3 roads:** </br>
+**There is 3 GPU roads/alternatives:** </br>
 1) on-board AGA + DB23 to DB15 VGA adapter + flicker fixer. </br>
 2) Zorro-3 RTG graphics "High-Res color modes." </br>
 3) use Mediator / Prometheus PCI to Zorro adapter board: </br>
 allows PCI cards like Voodoo, that have drivers from [elbox](https://www.elbox.com) &/or CGX. </br>
+
+PCI-to-Zorro adapter boards are popular among people using PowerPC CPU accelerator boards for AmigaOS4.1 Classic </br>
+but... what is better? </br>
+a New Mirari PowerPC machine, much faster vs. odler PowerPC accelerators or upgrade an Amiga 4000 ? </br>
 
 #### Links: </br>
 [CGX Dev Docs](https://github.com/FraBro1/CybergraphX-4-Dev/tree/main) from [old domain source](https://web.archive.org/web/20040609133957/http://home.earthlink.net/~mike.sherman/) </br>
