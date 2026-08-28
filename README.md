@@ -169,12 +169,16 @@ the problem is equal in New recreation boards & Old / Original boards in good co
 **There is 3 GPU roads/alternatives:** </br>
 1) on-board AGA + DB23 to DB15 VGA adapter + flicker fixer. </br>
 2) Zorro-3 RTG graphics "High-Res color modes." </br>
-3) use Mediator / Prometheus PCI to Zorro adapter board: </br>
+3) Mediator / Prometheus PCI to Zorro adapter board: </br>
 allows PCI cards like Voodoo, that have drivers from [elbox](https://www.elbox.com) &/or CGX. </br>
 
-PCI-to-Zorro adapter boards are popular among people using PowerPC CPU accelerator boards for AmigaOS4.1 Classic </br>
+PCI-to->Zorro adapter boards are popular among people using PowerPC CPU accelerator boards for AmigaOS4.1 Classic </br>
 but... what is better? </br>
-a New Mirari PowerPC machine, much faster vs. odler PowerPC accelerators or upgrade an Amiga 4000 ? </br>
+a New Mirari PowerPC machine, faster vs. older PowerPC 604e accelerators & upgrade an Amiga 4000 ? </br>
+There is a popular 3D game called Descent, A-EON or Hyperion web sells the PowerPC version. </br>
+there is a E-UAE PowerPC emulator that runs "native", to boot OSX 10.5.9 Sorbet & older OSx for PPC. </br>
+i've seen it working on X Amigas in some videos. </br>
+PowerPC emulated on PowerPC runs much faster than emulating PowerPC on x86_64 </br>
 
 #### Links: </br>
 [CGX Dev Docs](https://github.com/FraBro1/CybergraphX-4-Dev/tree/main) from [old domain source](https://web.archive.org/web/20040609133957/http://home.earthlink.net/~mike.sherman/) </br>
