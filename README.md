@@ -166,6 +166,12 @@ others: all the above. </br>
 Vintage HW is Not a 100% problem free experience. </br>
 the problem is equal in New recreation boards & Old / Original boards in good condition. </br>
 
+**Basically there is 3 roads:** </br>
+1) on-board AGA + DB23 to DB15 VGA adapter + flicker fixer. </br>
+2) Zorro-3 RTG graphics "High-Res color modes." </br>
+3) use Mediator / Prometheus PCI to Zorro adapter board: </br>
+allows PCI cards like Voodoo, that have drivers from [elbox](https://www.elbox.com) &/or CGX. </br>
+
 #### Links: </br>
 [CGX Dev Docs](https://github.com/FraBro1/CybergraphX-4-Dev/tree/main) from [old domain source](https://web.archive.org/web/20040609133957/http://home.earthlink.net/~mike.sherman/) </br>
 [old Picasso96 website](https://web.archive.org/web/20040611233517/http://www.picasso96.cogito.de/) </br>
