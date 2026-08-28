@@ -192,7 +192,7 @@ to replace the old damaged board "transplant components", to create a New machin
 
 [Parts List](https://docs.google.com/spreadsheets/d/1czsNg6O3RXiB12KduvjW-nOGRPwfiWtYTnK7Xi-feMI/edit?gid=0#gid=0) </br>
 
-### New HW machine or use Software Emulators: </br>
+### New HW machine or Software Emulators: </br>
 
 Anyway Requires purchasing Legal Kickstart ROM's 1.3 to 3.1 from [AmigaForever Plus .iso](https://www.amigaforever.com/plus/) "Cloanto" </br>
 ROMs 3.X with CAPITAL X, is "10" 3.10 ROM but that was an early jump. </br>
@@ -200,62 +200,85 @@ Later Hyperion created ROM's: 3.1.4 in (2018) </br>
 Roms 3.2 in 2020 as Physical Purchase & <br>
 ROMs 3.2.x as [Digital Download](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/327-amigaos-32) in (2026) </br>
 
-IF you buy the Digital Downloads, and you are making a New machine, </br>
-you need prepare the ROMs before Burning with a TL866-II or similar T48 Eprom Programmer </br>
-Compatilble ROM's UV Eresable Am27C400 or similar faster than <200ns access time. </br>
-need to Change from Little.Endian "x86_64 PC" to Big.Endian "68K" / "Swap the Bytes Order" </br>
-and Splt Single ROM images from the Digital Download to fit 2x EPROMS </br>
-because machines are 32-Bit and Roms are configured 16-Bit each. </br>
-also needs a Zif-Socket adapter board, because TL866-II plus & T48 programmers only have 40-pins, </br>
+IF buy Digital Downloads, and are making a New machine: </br>
+need to prepare the ROMs before Burning with a TL866-II+ or similar T48 Eprom Programmer </br>
+2x Compatilble 40-pin UV Eresable Eprom's like: Am27C400 "4Megabit = 512KiloByte 8-Bit or 256KB at 16-Bit" </br>
+& faster than <200ns access time. </br>
+
+Change from Little.Endian "x86_64 PC" to Big.Endian "68K" / "Swap Bytes Order" </br>
+Splt Single ROM images from the Digital Download to fit 2x EPROMS </br>
+because machine is 32-Bit but Roms are configured 16-Bit each. </br>
+Atari TT / Falcon is 32-Bit but 8-bit each "4x Eproms needed" </br>
+
+Optional a Zif-Socket adapter board, when using Eproms bigger than 40-pins, </br>
+because TL866-II plus & T48 programmers only have 40-pins, </br>
 or buy a T56 / T76 Programmer "No Adapter required" </br>
+the fastest Eprom with >256KB at 16-Bit & 40-pins should be fine. </br>
+used UV eproms have a long life but require a special UV Eraser. </br>
 
 1. [AmigaForeverPlus 1.3 -> 3.1 ROMs](https://www.amigaforever.com/plus/)
 2. [Hyperion 3.2.x ROMs](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/327-amigaos-32)
-3. prepare Roms: "Swap Bytes & Split" Not needed using UAE Emulators or T56 & T76 programmers.
-4. buy or diy a Zif-socket adapter for TL866-ii / T48 "more than 40-pins" *Not needed with T56 / T76
+3. prepare Roms: "Swap Bytes & Split" Not needed using UAE Emulators.
+4. buy or diy a Zif-socket adapter for TL866-ii+ / T48 "more than 40-pins" *Not needed with proper size ROM's.
 5. Buy 2 Roms. "if making a New machine"
-6. Burn 2 Roms with TL866-II / T48 or similar Eprom Programmer.
+6. Burn 2 Roms with TL866-II+ / T48 or similar Eprom Programmer.
 
 Alternate: if UV Eraseable ROMs are "Hard to Find" or Expensive </br>
-there is also the Project [OneROM](https://onerom.org/) that Emulate EPROMs based on STM32 "more than 40-pins Required" for A4000T </br>
-there are modifications to A4000/T that allow to use Bigger than >512KB ROM's "easy to find" like 27C400, 27C800, 27C160 </br>
-ther are other adapters that allow dual or multiple ROMs at Boot, similar to C64U or Easy Flash 3 Cartridge for C64 </br>
+there is also the Project [OneROM](https://onerom.org/) that Emulate EPROMs based on STM32 "40-pins Required" for A4000T </br>
+there are modifications that allow to use Bigger than >512KB ROM's, like 27C800, 27C160 </br>
+ther are other adapters that allow dual or multiple ROMs at Boot, similar to Easy Flash 3 Cartridge for C64 or C64U </br>
 
-UV Eraseable Roms do Not Erase with LED UV-A flashlights </br>
+There are UV Ereseable Eproms without UV Window = One Time Programmable, Not to be confused with EEPROMS Electric Ereseable Eproms. </br>
+UV Eraseable Roms do Not Erase Fast with LED UV-A Flashlights at ~365nm </br>
 Some Chinese sellers have a Proper UV-Eraser Plastic Box, IF buy USED UV Eproms </br>
-UV Eraseable Eproms are designed to last much more than Flash ROMs, does Not have the problem of "Write Times" nor "Temperature", nor Static </br>
+UV Eraseable Eproms are designed to last much more than Flash ROMs, does Not have the problem f "Write Times" nor "Temperature", nor Static </br>
 
-The Proper UV-Eraser contains a 6" Pure Quartz vacuum tube "like CFL lamps" with 2 or 3 Mercury 3mm BallBearings's inside. </br>
-High Voltage "120v" Evaporate Mercury, Mercury Glow like Neon signs, generates a >200nm Peak UV-C </br>
-Human Eyes cannot see 200nm, but also generates Harmonics / Resonances around 450nm "Cyan Blue" Visible, </br>
+The Proper UV-Eraser contains a 6" Pure Quartz vacuum tube like [Fluorescent lamps](https://en.wikipedia.org/wiki/Fluorescent_lamp) with 2 or 3 Mercury 3mm BallBearings's inside, Transparent, No Phosphor coating inside. </br>
+High Voltage "120v" Evaporate Mercury, Mercury Glow like [Neon signs](https://en.wikipedia.org/wiki/Neon_sign) & generate a >200nm Peak [UV-C](https://en.wikipedia.org/wiki/Ultraviolet_germicidal_irradiation) </br>
+Human Eyes cannot see 200nm, but also generates Harmonics / Resonances around ~450nm "Cyan Blue" Visible, </br>
 Requires ~10 minutes. </br>
-Using the Sun requires much more time because Ozone Layer Blocks UV-C </br>
-cannot be Erased indors because Normal Glass also Blocks UV-C </br>
-Placing a Black Tape over the [Quartz UV Window](https://en.wikipedia.org/wiki/EPROM#Gallery) = moving the tab on a Floppy & say ["Write Protect"](https://en.wikipedia.org/wiki/Write_protection#Examples) </br>
+Using direct Sun requires much more time because Ozone Layer Blocks UV-C </br>
+indors a Normal Glass Blocks UV-C, but allows UV-B/A </br>
+Placing a Black piece of Tape over the [Quartz UV Window](https://en.wikipedia.org/wiki/EPROM#Gallery) = moving the tab on a Floppy = ["Write Protect"](https://en.wikipedia.org/wiki/Write_protection#Examples) </br>
 
 ## IDE vs. SCSI-2
 
-Mechanical IDE or SCSI HDD's are most gone / damaged, but.. </br>
-there are CompactFlash CF to IDE adapters and SCSI-2, </br>
+Mechanical IDE & SCSI HDD's are most gone / damaged, but.. </br>
+there are CompactFlash CF or SD to IDE & SCSI-2 adapters: </br>
 RaSCSI, PiSCSI, ZuluSCSI, XT-IDE "8-bit", AT-IDE "16-bit" </br>
-there is also SSD SATA-to->IDE & [SATA-to->50-pin SCSI-2](http://www.acard.com/index.files/Page799.htm) [adapter.](http://www.acard.com/index.files/Page728.htm) </br>
+there is also SSD-SATA-to->IDE & [SATA-to->SCSI](http://www.acard.com/index.files/Page728.htm) [adapter.](http://www.acard.com/index.files/Page861.htm) </br>
 
-i have an "Acme" SATA SSD-to->IDE adapter, Generic IC, </br>
+i have an "Acme" SATA-SSD-to->IDE adapter, Generic IC, </br>
 Startech sell [similar](https://www.startech.com/en-us/hdd/ide2sat2) with Marvell 88SA8052 IC </br>
-The generic adapter, maximum speed on a modern Computer is 100MB/s ATA100 </br>
-i could Not reach 133MB/s using a [891U3](https://www.youtube.com/watch?v=NKpzkbOS59Y) USB3.0 to IDE "Generic" adapter, </br>
+The generic adapter, maximum speed on modern Computer is 100MB/s ATA100 </br>
+i could Not reach 133MB/s using [891U3](https://www.youtube.com/watch?v=NKpzkbOS59Y) USB3.0-to->IDE "Generic" adapter, </br>
 [Startech USB3SSATAIDE](https://www.startech.com/en-us/hdd/usb3ssataide) version </br>
 P.D. Do Not use the 891U3 included PSU has +6vdc, some equipment will burn, </br>
-older Blue version USB2.0 to IDE had ~5.5vdc, 5.20 max. </br>
-Moderm Boards don't have IDE, but there are PCI IDE cards available, </br>
-PCI to PCIe adapters, also with different IC controllers. </br>
+older Blue version USB2.0-to->IDE had ~5.5vdc, 5.20 max. </br>
+Moderm Boards don't have IDE, but there are PCI/PCIe IDE cards available and </br>
+PCI to PCIe adapters, with different IC controllers. </br>
 
 Fast SCSI-2 in theory can go up to 40 MB/s on 32-Bit [Zorro-3](https://en.wikipedia.org/wiki/Zorro_III) <= [USB2.0 Speeds](https://en.wikipedia.org/wiki/USB#USB_2.0) </br>
-if want to know how fast or slow is,
-install a modern Linux Ubuntu / Kubuntu 20.04 or 22.04 on a external USB3 SSD case, </br>
-connected to a USB2.0 port, hit F11 at Boot. </br>
-using Flash memory is much slower: CF, SD & microSD cards vs. SSD </br>
+SCSI-2 "50-pin" to SATA adapter [AEC-7732U](http://www.acard.com/index.files/Page728.htm) is hard to find, </br>
+SCSI-3 "68-pin" to SATA adatper [AEC-7732](http://www.acard.com/index.files/Page861.htm) is very common in servers,</br> 
+for Amiga 4000T requires an additional adapter: </br>
+SCSI-3 68-pins Male-to-> 50-Pin SCSI-2 Male, IF using Amiga SCSI-2 ribbon cable </br>
+dont know if could fit directly to Amiga 4000T SCSI-2 board, </br>
+Zorro-3 SCSI adapters maybe can be connected directly, No Ribbon, using AEC termination pins, </br>
+or with a shorter ribbon with active termination. </br>
+Original Ribbon is loo large & big, affects airflow. </br>
+
+**Having both adapters:** </br>
+SATA-to->IDE & SATA-to->SCSI allows to change the same SSD from IDE to SCSI. </br>
+Only requires Double Mouse click at boot, to enter Kickstart ROM Boot Menu. </br>
+
+if want to experience how fast or slow is..., </br>
+install a modern Linux Ubuntu / Kubuntu 20.04 or 22.04 on a external USB3 SSD, </br>
+connected to a USB2.0 port, on any PC, hit F11 at Boot. </br>
+
+using Flash memory is slower: CF, SD & microSD cards vs. SSD </br>
 microSD overheat very easy & enter in Thermal Throtling with sustained R/W. </br>
+
 Slow-to->Fast: Flash, eMMC, mSATA, SSD, M.2 SATA, M.2 NVMe PCIe v3 v4 v5 </br>
 Server: SAS U.2 U.3 </br>
 Smartphone: UFS 1.0 -> 5.0 </br>
@@ -266,17 +289,19 @@ Smartphone: UFS 1.0 -> 5.0 </br>
 There are severa lists of [compatible Floppy drives for Amiga](https://jope.fi/drives/computolio/).[PDF](http://www.pitsch.de/stuff/amiga/Amiga%20Drive%20Compatibility.pdf).[web](https://gamesx.com/wiki/doku.php?id=amiga:amiga_floppy_drive_compatibility).[links](https://amigaalive.blogspot.com/p/hardware-using.html).[HxC](https://hxc2001.com/download/floppy_drive_emulator/support.htm) </br>
 and modification tutorials to convert standard PC 1.44MB drives to 880k drives, </br>
 most Amigas had SD 880k drives, but A4000 have HD 1.76MB. </br>
-with Gotek USB floppy emulators or similar HxC ¿is that necesary ? </br>
+with Gotek USB floppy emulators or similar HxC ¿is real floppy necesary ? </br>
 IF you have Original installer discs on floppy, probably yes. </br>
 
-In the PC era when floppy controllers were removed from the boards, </br>
+In the PC era, when floppy controllers were removed from boards, </br>
 XP_install.iso required an USB1.1 Floppy drive </br>
 Amigas are Pre-USB era, but today there are several USB cards for Amiga, some better than others. </br>
+
+[EasyADF](https://www.easyadf.com/index.php?currency=USD) is a popular software for converting ADF files. </br>
 
 ## PowerSupply
 
 4000D boards have a "custom Amiga power connector" </br>
-4000T boards have AT standard PSU connector "P8/P9 Black wires to the center" </br>
+4000T boards have an AT standard PSU connector "P8/P9 Black wires to center" </br>
 
 Many stores sell an ATX to AT converter cable + Switch for Tower </br>
 because Desktop case is smaller, replacing PSU is Not as common as Replacing Tower PSU. </br>
@@ -304,7 +329,7 @@ be quiet! [DARK POWER 14 850W](https://www.bequiet.com/en/powersupply/5790) has 
 26A at 5v is the Theoretic Limit / Requirement chosen by Amiga for the 4000T </br>
 some 4000 Amigas have a "Cost Reduced 200w PSU" </br>
 
-**¿does A4000T require all that power at 5v?** </br>
+**¿does A4000T requires all that power at 5v?** </br>
 
 to fully answer that question requires testing under heavy load, </br>
 with several DMM's that Send data to a PC with [UltraDMM](https://ultradmm.com/supported-meters) or similar. </br>
@@ -386,7 +411,6 @@ https://www.lemonamiga.com/ </br>
 http://amistore.net/ </br>
 https://www.amigaos.net/content/72/supported-hardware </br>
 
-
 https://www.retro-commodore.eu/ </br>
 https://wiki.amiga.org/index.php/Amiga_Stores </br>
 
@@ -408,8 +432,8 @@ Boot Directly to Diagnostic, there are Floppy versions, and ROM versions. </br>
 A4000T is "AT compatible" in many ways, but is Not 100% ATX compatible... </br>
 the Ports Module: Serial, Parallel, Mouse, Joystick daugter board, 
 An Original Amiga A4000T case, has holes / cut-outs on the case, </br>
-but the board does Not fit a modern ATX case back plate. </br>
-Sollution is the project [ATX Ports module](https://gitlab.com/amiga-projects/atx_ports_module).[amybay](https://www.amibay.com/threads/a4000t-bom-incl-parts-list.2447556/) </br>
+but the ports boards does Not fit a modern ATX case back plate. </br>
+Sollution is the project: [ATX Ports module](https://gitlab.com/amiga-projects/atx_ports_module).[amybay](https://www.amibay.com/threads/a4000t-bom-incl-parts-list.2447556/) </br>
 
 ## CPU Boards
 
