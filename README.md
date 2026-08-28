@@ -39,13 +39,16 @@ Vampire V4 SuperAGA is Unofficial / proposed Next Gen. </br>
 
 The Only mistake in the Amiga, in my opinion was removing the [SID 6581](https://en.wikipedia.org/wiki/MOS_Technology_6581) Analog Audio Synth from the C64 / C128/D / [C65](https://en.wikipedia.org/wiki/Commodore_65) </br>
 Around same era, PC's were having Yamaha 4-Op Synths "Adlib compatible", MIDI Roland MT-32, up to 32MB Waveform GM Sampler soundcards AWE64 based on E-mu / Ensoniq technology. </br>
+Some rare Sierra games also support Casio CZ-101 synth, instead of Roland MT-32 </br>
+there are several emulations available: FPGA MISTER, x86_64 for Mac & Win VirtualCZ "stand alone", & others from Arturia. </br> 
 
-Motorola also did changes to the CPU's 68k [020](https://en.wikipedia.org/wiki/Motorola_68020) [030](https://en.wikipedia.org/wiki/Motorola_68030) [040](https://en.wikipedia.org/wiki/Motorola_68040) [060](https://en.wikipedia.org/wiki/Motorola_68060) to increase speed, less common instructions were removed, </br>
+Motorola also did changes to the 68K 000 CPU: [020](https://en.wikipedia.org/wiki/Motorola_68020) [030](https://en.wikipedia.org/wiki/Motorola_68030) [040](https://en.wikipedia.org/wiki/Motorola_68040) [060](https://en.wikipedia.org/wiki/Motorola_68060) to increase speed, less common instructions were removed, </br>
 architectures were combined: 040 = 030 + [68882](https://en.wikipedia.org/wiki/Motorola_68881) FPU "80387" </br>
+others were splitted: LowCost versions with "No-FPU", No MMU. </br>
 060 was redesigned for [SuperScalar](https://en.wikipedia.org/wiki/Superscalar_processor) architecture, like SGI RISC CPUs </br>
 with dual pipelines "Pseudo-Parallelism / early pre-Dual Core era" </br>
 transistor technology was improved with every revision </br>
-many improvements were made But... 100% backward compatibility was lost. </br> 
+many improvements were made, but... 100% backward compatibility was lost. </br> 
 some SW designed for Kickstart ROM v1.3 & 68K 000 CPU's  </br>
 have weird issues, or don't work on newer A4000 / A1200 with AGA, 060, Kickstart ROM v3.1 </br> 
 in 1993 a software called ReloKick [v1.41](https://archive.org/details/ReloKick_v1.41_1994_Geesus) & [1.4a](https://archive.org/details/ReloKick_v1.4a_1994_DCS) </br>
