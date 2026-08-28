@@ -175,7 +175,7 @@ allows PCI cards like Voodoo, that have drivers from [elbox](https://www.elbox.c
 PCI-to->Zorro adapter boards are popular among people using PowerPC CPU accelerator boards for AmigaOS4.1 Classic </br>
 but... what is better? </br>
 a New Mirari PowerPC machine, faster vs. older PowerPC 604e accelerators & upgrade an Amiga 4000 ? </br>
-There is a popular 3D game called Descent, A-EON or Hyperion web sells the PowerPC version. </br>
+There is a popular 3D game called [Descent](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/182-descent-freespace-amigaos) for PowerPC & 68K. </br>
 there is a E-UAE PowerPC emulator that runs "native", to boot OSX 10.5.9 Sorbet & older OSx for PPC. </br>
 i've seen it working on X Amigas in some videos. </br>
 PowerPC emulated on PowerPC runs much faster than emulating PowerPC on x86_64 </br>
