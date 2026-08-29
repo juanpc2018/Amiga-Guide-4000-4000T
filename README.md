@@ -550,3 +550,6 @@ Some Chinese Balls that sound like "Triangles inside" could work, but size could
 weight does Not seem a Solid Metallic / Iron / Steinless Steel Ball Bearing. </br> 
 
 There were other Mouse Designs, but Tank Mouse was the most common. </br>
+
+### Install Guide
+https://lyonsden.net/installing-amiga-os-3-1-4-part-3-installing-workbench-3-1-4/ </br>
