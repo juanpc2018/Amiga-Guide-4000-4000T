@@ -555,6 +555,7 @@ Zorro-3 bus passive termination, others a PSU noise problem in 5v rail, </br>
 others bad capacitors, others too small capacitors </br>
 others lack of heatsinks on all the IC's / airflow </br>
 others the Zorro-3 video slot, cold solder joint </br>
+others signal pcb traces are too long, </br>
 others: all the above. </br>
 
 Vintage HW is Not a 100% problem free. </br>
@@ -563,16 +564,19 @@ because older boards were routed not following New techniques for High Speed sig
 Old boards were routed using the traditional method of Vetical traces Front pcb / Hortizontal traces Back pcb "Matrix". </br>
 people that recreated Amiga 4000 boards say boards are 6-layer. </br>
 
-Sollution: </br>
-Matze from Germany, the Developer of BFG9060 has created an "[Aktiv Bus Terminator](https://www.a1k.org/forum/index.php?threads/85342/)" in [a1k.org forum](https://www.a1k.org/forum/index.php?threads/85342/) </br>
-similar to SCSI-2 Active Terminator, but instead of 2.85vdc is 3.3vdc and instead of 330 ohms is 220ohms. </br>
-Can Only be installed on 6x Resistor Array Networks, 10x pins each, Not All. </br>
-RP752A/B/C/D/E/F </br>
-8x330/470 (8X10)</br>
+**Sollution:** </br>
+Matze the Developer of BFG9060 has created an "[Bus Terminator](h )" in [a1k.org forum](https://www.a1k.org/forum/index.php?threads/85342/) </br>
+similar to SCSI-2 Active Terminator, but instead of 2.85vdc is 3.3vdc, and instead of 330 ohms is 220ohms. </br>
+Because Amiga 4000T has 3.3v logic & 5v logic, SCSI-2 only has SCSI-2 signals. </br>
+Can Only be installed on 6x Resistor Array Networks, 10x pins each, **Not All**, Picture on [2nd page](https://www.a1k.org/forum/index.php?threads/85342/page-2) is Wrong. </br>
+RP752A/B/C/D/E/F = 8x330/470 (8X10) </br>
+the originla Resistor Networks are Not Isolated, are Voltage Dividers. </br>
+the other Resistor Networks are Pull-up resistors. </br>
 [reAmiga parts Locator](https://locator.reamiga.info/locator.php?project=A4000T) </br>
 [A4TK Locator](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
 [AmigaPCB](https://www.amigapcb.org/) </br>
 
 5. Zorro-3 Video cards like [X-Pert / Prodev Merlin](https://amiga.resource.cx/exp/merlin) based on Tseng4000 IC also increase problems, unless modified. </br>
-Were Not 100% Zorro-3 compliant. </br>
-but even Picasso IV Rev1.2 is 100% Zorro-3 compliant, also has problems, because Amiga 4000T Board was Not 100% High Speed PCB compliant. </br>
+Merlin video cards were Not 100% Zorro-3 compliant, </br>
+Picasso IV Rev1.2 is 100% Zorro-3 compliant, but also has problems, </br>
+because Amiga 4000T Board was Not 100% High-Speed PCB design / routing compliant. </br>
