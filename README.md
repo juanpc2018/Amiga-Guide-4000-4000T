@@ -557,14 +557,18 @@ others lack of heatsinks on all the IC's / airflow </br>
 others the Zorro-3 video slot, cold solder joint </br>
 others: all the above. </br>
 
-Vintage HW is Not a 100% problem free experience. </br>
+Vintage HW is Not a 100% problem free. </br>
 the problem is equal in New recreation boards & Old / Original boards in good condition. </br>
+because older boards were routed not following New techniques for High Speed signals discovered years/decades later. </br>
+Old boards were routed using the traditional method of Vetical traces Front pcb / Hortizontal traces Back pcb "Matrix". </br>
+people that recreated Amiga 4000 boards say boards are 6-layer. </br>
 
+Sollution: </br>
 Matze from Germany, the Developer of BFG9060 has created an "Aktiv Bus Terminator" in a1k.org forum </br>
 similar to SCSI-2 Active Terminator, but instead of 2.85vdc is 3.3vdc and instead of 330 ohms is 220ohms. </br>
-Can Only be installed on 6x Resistor Networks / Arrays, 10x pins each, Not All. </br>
+Can Only be installed on 6x Resistor Array Networks, 10x pins each, Not All. </br>
 RP752A/B/C/D/E/F </br>
-RPK Array 8x330/470 (8X10)</br>
+8x330/470 (8X10)</br>
 [reAmiga parts Locator](https://locator.reamiga.info/locator.php?project=A4000T) </br>
 [A4TK Locator](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
 [AmigaPCB](https://www.amigapcb.org/) </br>
