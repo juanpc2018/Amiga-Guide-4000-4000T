@@ -451,13 +451,14 @@ Replacing capacitors backwards in some cases, creating a short on the PCB. </br>
 Sollution always check with a DMM the Negative polarity to GND before installing. </br>
 
 Accelerators based on Software emulations like [Z3660](https://github.com/shanshe/Z3660) + FPGA board or PiStorm32 based on Pi4B, or Amibery, on Synthetic Benchmarks like: </br>
-[Amiga Sysinfo 4.x](https://sysinfo.d0.se/) & [xSysinfo](http://aminet.net/package/util/moni/xSysInfo) Benchmarks give very Large [Dhrystones](https://en.wikipedia.org/wiki/Dhrystone) "Integer Test" up to 1.5Million on Pi4B, but... </br>
+[Amiga Sysinfo 4.x](https://sysinfo.d0.se/) & [xSysinfo](http://aminet.net/package/util/moni/xSysInfo) give very Large [Dhrystones](https://en.wikipedia.org/wiki/Dhrystone) "Integer Test" up to 1.5Million on Pi4B, but... </br>
 Some SW use more Floating point math [Whetsones](https://en.wikipedia.org/wiki/Whetstone_(benchmark)) like 3D CPU Rendering, </br>
 those SW are faster on a Real 030 040 060 with 68882 FPU even Integer benchmark is much slower. </br>
 Vampire V4 FPGA Unknown how fast is on a 3D Render Test. </br>
 Dhrystones & Whetstone Not only measure Machine Integer & Floating performance, also compiler optimizations "cheating", </br>
 depends how was [compiled](https://github.com/Keith-S-Thompson/dhrystone/tree/master) from [source](https://github.com/varigit/arm_benchmarks/blob/master/whetstone/whetstone.c).[1](https://www.netlib.org/benchmark/index.html).[2](https://www.netlib.org/benchmark/dhry-c).[3](https://www.netlib.org/benchmark/whetstone.c).[4](https://www.netlib.org/benchmark/whetstonec).[5](http://www.roylongbottom.org.uk/whets.c).[6](https://git.ti.com/cgit/apps/arm_benchmarks/plain/whetstone/whetstone.c) results may vary. </br>
-[MIPS test](https://en.wikipedia.org/wiki/Whetstone_(benchmark)#The_first_1_MIPS_minicomputer:_VAX-11/780,_and_VAX_MIPS) was used by DEC to compare different Alpha machines PDP-11, VAX-11, 8800 </br>
+[MIPS test](https://en.wikipedia.org/wiki/Whetstone_(benchmark)#The_first_1_MIPS_minicomputer:_VAX-11/780,_and_VAX_MIPS) was used by DEC to compare different Alpha machines PDP-11, VAX-11, 8800 vs. IBM System Mainframes. VUP for testing Only DEC machines. </br>
+Mflops is closest to Wheastones on Sysinfo 4.x. "the most important test" but almost hidden. </br>
 
 ## BOM DIY
 
