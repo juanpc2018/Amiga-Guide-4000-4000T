@@ -263,8 +263,9 @@ P.D. Do Not use the 891U3 included PSU has +6vdc, some equipment will burn, </br
 older Blue version USB2.0-to->IDE had ~5.5vdc, 5.20 max. </br>
 Moderm Boards don't have IDE, but there are PCI/PCIe IDE cards available and </br>
 PCI to PCIe adapters, with different IC controllers. </br>
+[891U3](http://motbsid.com/upload/file/891U3_OTB_Download.zip) [Drivers](http://motbsid.com/) are Not needed on Linux / Ubuntu 20.04.x LTS, Required on Win8.1x64 </br>
 
-Fast SCSI-2 in theory can go up to 40 MB/s on 32-Bit [Zorro-3](https://en.wikipedia.org/wiki/Zorro_III) <= [USB2.0 Speeds](https://en.wikipedia.org/wiki/USB#USB_2.0) </br>
+Fast SCSI-2 in theory can go up to 40 MB/s FullDuples on 32-Bit [Zorro-3](https://en.wikipedia.org/wiki/Zorro_III) <= [USB2.0 Speeds](https://en.wikipedia.org/wiki/USB#USB_2.0) = 20MB/s One direction. </br>
 SCSI-2 "50-pin" to SATA adapter [AEC-7732U](http://www.acard.com/index.files/Page728.htm) is hard to find, </br>
 SCSI-3 "68-pin" to SATA adatper [AEC-7732](http://www.acard.com/index.files/Page861.htm) is very common in servers,</br> 
 for Amiga 4000T requires an additional adapter: </br>
