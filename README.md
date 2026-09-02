@@ -563,6 +563,7 @@ the problem is equal in New recreation boards & Old / Original boards in good co
 because older boards were routed not following New techniques for High Speed signals discovered years/decades later. </br>
 Old boards were routed using the traditional method of Vetical traces Front pcb / Hortizontal traces Back pcb "Matrix". </br>
 people that recreated Amiga 4000 boards say boards are 6-layer. </br>
+Recreation boards are an exact replica of the old boards, some spin-off's solve some issues, but Not all. </br>
 
 **Sollution:** </br>
 Matze the Developer of BFG9060 has created an "[Bus Terminator](h )" in [a1k.org forum](https://www.a1k.org/forum/index.php?threads/85342/) </br>
