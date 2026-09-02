@@ -572,3 +572,7 @@ RP752A/B/C/D/E/F </br>
 [reAmiga parts Locator](https://locator.reamiga.info/locator.php?project=A4000T) </br>
 [A4TK Locator](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
 [AmigaPCB](https://www.amigapcb.org/) </br>
+
+5. Zorro-3 Video cards like [X-Pert / Prodev Merlin](https://amiga.resource.cx/exp/merlin) based on Tseng4000 IC also increase problems, unless modified. </br>
+Were Not 100% Zorro-3 compliant. </br>
+but even Picasso IV Rev1.2 is 100% Zorro-3 compliant, also has problems, because Amiga 4000T Board was Not 100% High Speed PCB compliant. </br>
