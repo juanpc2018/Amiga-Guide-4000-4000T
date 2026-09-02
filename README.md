@@ -580,3 +580,8 @@ the other Resistor Networks are Pull-up resistors. </br>
 Merlin video cards were Not 100% Zorro-3 compliant, </br>
 Picasso IV Rev1.2 is 100% Zorro-3 compliant, but also has problems, </br>
 because Amiga 4000T Board was Not 100% High-Speed PCB design / routing compliant. </br>
+
+6. CPU Board A3640 Rev 3.1 has silkscreen printed wrong, capacitors with polarity wrong. </br>
+7. CPU board Rev 3.0 has an Outdated GAL chip. </br>
+8. Replacing Original Lattice GAL chips 22V10-6 & -7 with modern Atmel GAL chips ATF22V10C-10 & -15 has issues </br> 
+Atmel chips have pin-keeper circuits that influence the signal, particularly if there are a lot of inputs hanging off an output signal, like in the case of DOE and MTCR. There are also subtle differences in pin-to-pin propagation delay (possibly other differences) according to [ReA4091](https://github.com/A4091/a4091-logic). </br>
