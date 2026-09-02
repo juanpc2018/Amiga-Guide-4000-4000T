@@ -155,17 +155,6 @@ Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphic
 similar to IBM evolution: </br>
 [CGA (1981)](https://en.wikipedia.org/wiki/Color_Graphics_Adapter) -> [EGA (1984)](https://en.wikipedia.org/wiki/Enhanced_Graphics_Adapter) -> [VGA (1987)](https://en.wikipedia.org/wiki/Video_Graphics_Array) </br>
 
-Some Amiga 4000 have issues with PicasoIV Zorro-3 card "Scrolling artifacts at boot / when heats-up" </br>
-some claim the problem is: </br>
-Zorro-3 bus passive termination, others a PSU noise problem in 5v rail, </br>
-others bad capacitors, others too small capacitors </br>
-others lack of heatsinks on all the IC's / airflow </br>
-others the Zorro-3 video slot, cold solder joint </br>
-others: all the above. </br>
-
-Vintage HW is Not a 100% problem free experience. </br>
-the problem is equal in New recreation boards & Old / Original boards in good condition. </br>
-
 **There is 3 GPU roads/alternatives:** </br>
 1) on-board AGA + DB23 to DB15 VGA adapter + flicker fixer. </br>
 2) Zorro-3 RTG graphics "High-Res color modes." </br>
@@ -553,3 +542,29 @@ There were other Mouse Designs, but Tank Mouse was the most common. </br>
 
 ### Install Guide
 https://lyonsden.net/installing-amiga-os-3-1-4-part-3-installing-workbench-3-1-4/ </br>
+
+### Issues
+1. Backward Conmpatibility with older Games / Software designed for Kickstart 1.3 & 68K 000 CPU's </br>
+Solved by ReLoKick &/or WHDLoad </br>
+2. [Capacitor Plague ](https://en.wikipedia.org/wiki/Capacitor_plague) some Serials / Production Years. </br>
+3. Connecting Short & Long Cables wrong / backwards "look" exactly the same, same # of pins. </br>
+Kills several Chips on the Board = Expensive Repair. </br>
+4. Some Amiga 4000T have issues with PicasoIV Zorro-3 card "Scrolling artifacts at boot / when heats-up" </br>
+some claim the problem is: </br>
+Zorro-3 bus passive termination, others a PSU noise problem in 5v rail, </br>
+others bad capacitors, others too small capacitors </br>
+others lack of heatsinks on all the IC's / airflow </br>
+others the Zorro-3 video slot, cold solder joint </br>
+others: all the above. </br>
+
+Vintage HW is Not a 100% problem free experience. </br>
+the problem is equal in New recreation boards & Old / Original boards in good condition. </br>
+
+Matze from Germany, the Developer of BFG9060 has created an "Aktiv Bus Terminator" in a1k.org forum </br>
+similar to SCSI-2 Active Terminator, but instead of 2.85vdc is 3.3vdc and instead of 330 ohms is 220ohms. </br>
+Can Only be installed on 6x Resistor Networks / Arrays, 10x pins each, Not All. </br>
+RP752A/B/C/D/E/F </br>
+RPK Array 8x330/470 (8X10)</br>
+[reAmiga parts Locator](https://locator.reamiga.info/locator.php?project=A4000T) </br>
+[A4TK Locator](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
+[AmigaPCB](https://www.amigapcb.org/) </br>
