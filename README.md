@@ -2,7 +2,7 @@
 
 "from Zero to Hero" </br>
 
-**v0.00001000** </br>
+**v0.00001001** </br>
 
 This is a compilation / combined knowledge of many websites, </br>
 Condensed as much as possible "for Beginners". </br>
@@ -564,7 +564,7 @@ Old boards were routed using the traditional method of Vetical traces Front pcb 
 people that recreated Amiga 4000 boards say boards are 6-layer. </br>
 
 Sollution: </br>
-Matze from Germany, the Developer of BFG9060 has created an "Aktiv Bus Terminator" in a1k.org forum </br>
+Matze from Germany, the Developer of BFG9060 has created an "[Aktiv Bus Terminator](https://www.a1k.org/forum/index.php?threads/85342/)" in [a1k.org forum](https://www.a1k.org/forum/index.php?threads/85342/) </br>
 similar to SCSI-2 Active Terminator, but instead of 2.85vdc is 3.3vdc and instead of 330 ohms is 220ohms. </br>
 Can Only be installed on 6x Resistor Array Networks, 10x pins each, Not All. </br>
 RP752A/B/C/D/E/F </br>
