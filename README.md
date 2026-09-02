@@ -272,7 +272,7 @@ SCSI-3 68-pins Male-to-> 50-Pin SCSI-2 Male, IF using Amiga SCSI-2 ribbon cable 
 dont know if could fit directly to Amiga 4000T SCSI-2 board, </br>
 Zorro-3 SCSI adapters maybe can be connected directly, No Ribbon, using AEC termination pins, </br>
 or with a shorter ribbon with active termination. </br>
-Original Ribbon is loo large & big, affects airflow. </br>
+Original Ribbon is too large & big, affects airflow. </br>
 
 **Having both adapters:** </br>
 SATA-to->IDE & SATA-to->SCSI allows to change the same SSD from IDE to SCSI. </br>
