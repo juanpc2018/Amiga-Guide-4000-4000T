@@ -569,6 +569,8 @@ Recreation boards are an exact replica of the old boards, some spin-off's solve 
 Matze the Developer of BFG9060 has created an "[Bus Terminator](h )" in [a1k.org](https://www.a1k.org/forum/index.php?threads/85342/) forum </br>
 similar to SCSI-2 Active Terminator, but instead of 2.85vdc is 3.3vdc, and instead of 330 ohms is 220ohms. </br>
 Because Amiga 4000T has 3.3v logic & 5v logic, SCSI-2 only has SCSI-2 signals. </br>
+Active termination avoids signal reflections, crosstalk interference. </br>
+
 Can Only be installed on 6x Resistor Array Networks, 10x pins each, **Not All**, Picture on [2nd page](https://www.a1k.org/forum/index.php?threads/85342/page-2) is Wrong. </br>
 RP752A/B/C/D/E/F = 8x330/470 (8X10) </br>
 the originla Resistor Networks are Not Isolated, are Voltage Dividers. </br>
