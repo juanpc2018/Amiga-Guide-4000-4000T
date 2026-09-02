@@ -360,7 +360,7 @@ Bridgeboards, PPC CPU boards. </br>
 VideoToaster 4000 for people interested in Video Editing. </br> 
 
 Using Solar Panel / Battery powered: DC-ATX </br>
-[HDPLEX 800w](https://hdplex.com//hdplex-800w-dc-atx-with-12v-63vdc-input.html) has 25A at 5A "Enough", </br>
+[HDPLEX 800w](https://hdplex.com//hdplex-800w-dc-atx-with-12v-63vdc-input.html) has 25A at 5V "Enough", </br>
 but requires a Solar farm: </br>
 8x >400w panels, >4x-8x 80A-60A MPPT solar chargers, >500A 24v Lead batteries, cables, connectors, </br>
 Not a Plug'N Play sollution. </br>
