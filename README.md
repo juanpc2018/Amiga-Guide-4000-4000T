@@ -573,11 +573,11 @@ Active termination avoids signal reflections, crosstalk interference. </br>
 
 Can Only be installed on 6x Resistor Array Networks, 10x pins each, **Not All**, Picture on [2nd page](https://www.a1k.org/forum/index.php?threads/85342/page-2) is Wrong. </br>
 RP752A/B/C/D/E/F = 8x330/470 (8X10) </br>
-the originla Resistor Networks are Not Isolated, are Voltage Dividers. </br>
+the original Resistor Networks are Not Isolated, are Voltage Dividers. </br>
 the other Resistor Networks are Pull-up resistors. </br>
-[reAmiga parts Locator](https://locator.reamiga.info/locator.php?project=A4000T) </br>
+[ReAmiga parts Locator](https://locator.reamiga.info/locator.php?project=A4000T) </br>
 [A4TK Locator](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
-[AmigaPCB](https://www.amigapcb.org/) </br>
+[AmigaPCB.org](https://www.amigapcb.org/) </br>
 
 5. Zorro-3 Video cards like [X-Pert / Prodev Merlin](https://amiga.resource.cx/exp/merlin) based on Tseng4000 IC also increase problems, unless modified. </br>
 Merlin video cards were Not 100% Zorro-3 compliant, </br>
