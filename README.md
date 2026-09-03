@@ -563,7 +563,7 @@ others: all the above. </br>
 Vintage HW is Not a 100% problem free. </br>
 the problem is equal in New recreation boards & Old / Original boards in good condition. </br>
 because older boards were routed not following New techniques for High Speed signals discovered years/decades later. </br>
-Old boards were routed using the traditional method of Vetical traces Front pcb / Hortizontal traces Back pcb "Matrix". </br>
+Old boards were routed using the traditional method of Vertical traces Front pcb / Horizontal traces Back pcb "Matrix". </br>
 people that recreated Amiga 4000 boards say boards are 6-layer. </br>
 Recreation boards are an exact replica of the old boards, some spin-off's solve some issues, but Not all. </br>
 
