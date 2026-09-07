@@ -380,6 +380,8 @@ Power consumption varies with each case, </br>
 requires a community effort "All 4000 owners" to find the limits & Avg. values. </br>
 
 ## Stores List "Unverified"
+https://shop.icomp.de/index.php/en/shop.html#filter=* </br>
+https://amigawarp.eu/prod-category/warpedvision/ </br>
 https://amigastore.eu/en/6-amiga-4000 </br>
 https://www.amiga-shop.net/en/Amiga-Hardware/ </br>
 https://amiga68k.com/ </br>
