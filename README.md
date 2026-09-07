@@ -612,3 +612,4 @@ because Amiga 4000T Board was Not 100% High-Speed PCB design / routing compliant
 7. CPU board Rev 3.0 has an Outdated GAL chip. </br>
 8. Replacing Original Lattice GAL chips 22V10-6 & -7 with modern Atmel GAL chips ATF22V10C-10 & -15 has issues </br> 
 Atmel chips have pin-keeper circuits that influence the signal, particularly if there are a lot of inputs hanging off an output signal, like in the case of DOE and MTCR. There are also subtle differences in pin-to-pin propagation delay (possibly other differences) according to [ReA4091](https://github.com/A4091/a4091-logic). </br>
+Some recommend Atmel ATF750 & ATF2500C, but requires an [DataMan](https://uk.dataman.com/pages/eprom-programmer) programmer. </br>
