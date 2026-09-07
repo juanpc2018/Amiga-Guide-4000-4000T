@@ -482,6 +482,8 @@ Component Locator: </br>
 [Vector SCH](https://www.amigawiki.de/doku.php?id=en:service:schematics) </br>
 [Revisions](https://www.amiga-stuff.com/hardware/amigaboards.html) </br>
 
+[A4000T & A3640 GAL dumps](https://www.amigawiki.org/doku.php?id=en:parts:pld_download) </br>
+
 ## Programming 
 
 for AmigaOS & Workbench | Amiga "DOS" & "Windows" </br>
