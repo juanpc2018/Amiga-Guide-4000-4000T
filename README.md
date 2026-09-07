@@ -2,7 +2,7 @@
 
 "from Zero to Hero" </br>
 
-**v0.00001001** </br>
+**v0.00001011** </br>
 
 This is a compilation / combined knowledge of many websites, </br>
 Condensed as much as possible "for Beginners". </br>
@@ -185,7 +185,7 @@ Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom [64
 small stand alone complete FPGA emulator or A6000 "All-In-One keyboard" like A600/A1200, & CPU accelerator boards for Vintage Amigas. </br>
 
 ## SOFTWARE
-There are many ABANDONEARE software titles "TOSEC", websites like [Myabandonware](https://www.myabandonware.com/browse/platform/amiga/) </br>
+There are many ABANDONWARE software titles "TOSEC", websites like [Myabandonware](https://www.myabandonware.com/browse/platform/amiga/) </br>
 there is also New developers like [Geezer games](https://mcgeezer.itch.io/) & [Metro Siege](https://metrosiege.com/download/beta/) </br>
 if you search youtube "New Amiga Games in 2020 / 2021 / [2022](https://www.youtube.com/watch?v=KK9zg2Vh7AI)" there are several [youtube channels](https://www.youtube.com/@retrogamingdino) with links to the developers. </br>
 Some developers improve older games with AGA graphics, unlocked FPS, taking advantage of CPU accelerator boards, RTG, More FastRAM </br>
@@ -211,8 +211,8 @@ need to prepare the ROMs before Burning with a TL866-II+ or similar T48 Eprom Pr
 2x Compatilble 40-pin UV Eresable Eprom's like: Am27C400 "4Megabit = 512KiloByte 8-Bit or 256KB at 16-Bit" </br>
 & faster than <200ns access time. </br>
 
-Change from Little.Endian "x86_64 PC" to Big.Endian "68K" / "Swap Bytes Order" </br>
-Splt Single ROM images from the Digital Download to fit 2x EPROMS </br>
+Change from Little.Endian "x86_64" to Big.Endian "68K" / "Swap Bytes Order" </br>
+Split Single ROM images from the Digital Download to fit 2x EPROMS </br>
 because machine is 32-Bit but Roms are configured 16-Bit each. </br>
 Atari TT / Falcon is 32-Bit but 8-bit each "4x Eproms needed" </br>
 
@@ -268,15 +268,15 @@ PCI to PCIe adapters, with different IC controllers. </br>
 Fast SCSI-2 in theory can go up to 40 MB/s FullDuplex on 32-Bit [Zorro-3](https://en.wikipedia.org/wiki/Zorro_III) <= [USB2.0 Speeds](https://en.wikipedia.org/wiki/USB#USB_2.0) = 20MB/s One direction. </br>
 SCSI-2 "50-pin" to SATA adapter [AEC-7732U](http://www.acard.com/index.files/Page728.htm) is hard to find, </br>
 SCSI-3 "68-pin" to SATA adatper [AEC-7732](http://www.acard.com/index.files/Page861.htm) is very common in servers,</br> 
-for Amiga 4000T requires an additional adapter: </br>
+for Amiga 4000T internal SCSI-2 requires an additional adapter: </br>
 SCSI-3 68-pins Male-to-> 50-Pin SCSI-2 Male, IF using Amiga SCSI-2 ribbon cable </br>
-dont know if could fit directly to Amiga 4000T SCSI-2 board, </br>
-Zorro-3 SCSI adapters maybe can be connected directly, No Ribbon, using AEC termination pins, </br>
-or with a shorter ribbon with active termination. </br>
-Original Ribbon is too large & big, affects airflow. </br>
+dont know if could fit directly to Amiga 4000T SCSI-2, to avoid the Ribbon cable & the Disk Module SCSI terminator + External HD50-pin SCSI-2, </br>
 
-**Having both adapters:** </br>
-SATA-to->IDE & SATA-to->SCSI allows to change the same SSD from IDE to SCSI. </br>
+Zorro-3 SCSI adapters A4091 or similar maybe can be connected directly, No Ribbon, using AEC-7732 termination pins, </br>
+or with a shorter ribbon with active termination. </br>
+Original 4000T 50-pin Ribbon cable is too large & big, affects airflow. </br>
+
+**Having both adapters to change the same SSD from IDE to SCSI. </br>
 Only requires Double Mouse click at boot, to enter Kickstart ROM Boot Menu. </br>
 
 if want to experience how fast or slow is..., </br>
@@ -322,7 +322,7 @@ That means: </br>
 Original Amiga 4000T PSU is "250watts total" but has 26 Amps for 5v rail "130w Limit". </br>
 To replace with a Newer ATX PSU, requires a 850w, smaller PSU's don't have enough Watts at 5v rail. </br>
 
-Recommended: </br>
+**Recommended:** </br>
 Titanium, because efficiency lowers -4% to 90% when used at less or more than 50% load, </br>
 [Corsair AX850](https://www.corsair.com/us/en/p/psu/cp-9020151-na/ax-series-ax850-850-watt-80-plus-titanium-certified-fully-modular-atx-psu-cp-9020151-na) has 20A, -6A short, AX1000 has 25A, -1A short. </br>
 Silverstone [ST70F-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST70F-TI/) "700w" is 22A, -4A short on 5V rail. </br>
@@ -497,9 +497,9 @@ for AmigaOS & Workbench | Amiga "DOS" & "Windows" </br>
 there are different compilers for C, C++, Asembler & other languajes, </br>
 Amiga Assembler compiler, </br>
 Lattice C was advertized as a Cross-Compiler + Native Compiler </br>
-lattest Native version for Amiga was v5.x </br>
-some Developers used Faster machines like IBM System/xx mainframes "room size" MVS / Miniframes "refrigerator size" VMS, Unix, </br>
-maybe DEC PDP-11 & VAX-11, 8800 </br>
+latest Native version for Amiga was v5.x </br>
+some Developers used Faster machines like IBM System/xx mainframes "room size" MVS / Miniframes "refrigerator size" VMS, </br>
+DEC PDP-11 & VAX-11, VAX-8800 </br>
 to compile Amiga software, some machines were runing upto 300MHz while Amiga 1000 & 500 were 8MHz. </br>
 similar did Microsoft when designing DOS & Windows with Emulated / Virtualized x86 </br>
 using faster machines "Server" to compile software for Consumer / Home / Office machines, </br> 
@@ -588,15 +588,17 @@ similar to SCSI-2 Active Terminator, but instead of 2.85vdc is 3.3vdc, and inste
 Because Amiga 4000T has 3.3v logic & 5v logic, SCSI-2 only has SCSI-2 signals. </br>
 Active termination avoids signal reflections, crosstalk interference. </br>
 
-Can Only be installed on 6x Resistor Array Networks, 10x pins each, **Not All**, Picture on [2nd page](https://www.a1k.org/forum/index.php?threads/85342/page-2) is Wrong. </br>
+Can Only be installed on 6x Resistor Array Networks, 10x pins each, **Not All** </br> 
+Careful with Photo on [2nd page](https://www.a1k.org/forum/index.php?threads/85342/page-2) that angle looks like all ResNet were changed. </br>
+Change Only: </br>
 RP752A/B/C/D/E/F = 8x330/470 (8X10) </br>
-the original Resistor Networks are Not Isolated, are Voltage Dividers. </br>
-the other Resistor Networks are Pull-up resistors. </br>
+Original Resistor Networks are Not Isolated, are Voltage Dividers. </br>
+other Resistor Networks are Pull-up resistors. </br>
 [ReAmiga parts Locator](https://locator.reamiga.info/locator.php?project=A4000T) </br>
 [A4TK Locator](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
 [AmigaPCB.org](https://www.amigapcb.org/) </br>
 
-5. Zorro-3 Video cards like [X-Pert / Prodev Merlin](https://amiga.resource.cx/exp/merlin) based on Tseng4000 IC also increase problems, unless modified. </br>
+5. Zorro-3 Video cards like [X-Pert / ProDev Merlin](https://amiga.resource.cx/exp/merlin) based on Tseng4000 IC also increase problems, unless modified. </br>
 Merlin video cards were Not 100% Zorro-3 compliant, </br>
 Picasso IV Rev1.2 is 100% Zorro-3 compliant, but also has problems, </br>
 because Amiga 4000T Board was Not 100% High-Speed PCB design / routing compliant. </br>
