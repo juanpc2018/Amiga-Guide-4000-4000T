@@ -170,7 +170,7 @@ there is E-UAE PowerPC emulator that runs "native" on PowerPC Amigas, to boot OS
 i've seen it working on X Amigas in some videos. </br>
 PowerPC emulated on PowerPC runs much better vs. emulating PowerPC on x86_64 </br>
 Apple Rosetta for OSX 10.6.8 SnowLeopard "MacPro (2006-2010)" has Latency emulating PPC OSX 10.5 Leopard & 10.4 Tiger </br>
-Emulating a complete PowerPC on x86_64 has High Power consumption, because older CPU's dont hace C-state energy levels, always running at 100%. </br>
+Emulating a complete PowerPC on x86_64 has High Power consumption, because older CPU's dont have C-state energy levels, always running at 100%. </br>
 
 #### Links: </br>
 [CGX Dev Docs](https://github.com/FraBro1/CybergraphX-4-Dev/tree/main) from [old domain source](https://web.archive.org/web/20040609133957/http://home.earthlink.net/~mike.sherman/) </br>
