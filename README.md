@@ -453,7 +453,7 @@ Sollution always check with a DMM the Negative polarity to GND before installing
 Accelerators based on Software emulations like [Z3660](https://github.com/shanshe/Z3660) + FPGA board or [PiStorm32 based on Pi4B](https://github.com/michalsc/Emu68/releases/tag/nightly), or [Amibery](https://github.com/BlitterStudio/amiberry/releases) on Synthetic Benchmarks: </br>
 [Amiga Sysinfo 4.x](https://sysinfo.d0.se/) & [xSysinfo](http://aminet.net/package/util/moni/xSysInfo) give very Large [Dhrystones](https://en.wikipedia.org/wiki/Dhrystone) "Integer Test" up to [1.5Million](https://www.youtube.com/watch?v=NDuVh-zOwdc&t=308s) Mflops: 1680, Mips: 1630 on Pi4B, [other](https://www.youtube.com/watch?v=0f8NKcNGm20&t=1856s) </br>
 [Pi3A+](https://www.youtube.com/watch?v=wJ76kV0Pmzw&t=518s) </br>
-
+[Pi3B+](https://www.youtube.com/watch?v=QaEZYFVqzcc&t=1196s) </br>
 Some SW use more Floating point math [Whetsones](https://en.wikipedia.org/wiki/Whetstone_(benchmark)) like 3D CPU Rendering, </br>
 68882 FPU even Integer benchmark is much slower. </br>
 Mflops & Mips are equivalent to Wheatstones, Not Dhrystones. </br>
