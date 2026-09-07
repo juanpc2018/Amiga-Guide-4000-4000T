@@ -156,18 +156,21 @@ similar to IBM evolution: </br>
 [CGA (1981)](https://en.wikipedia.org/wiki/Color_Graphics_Adapter) -> [EGA (1984)](https://en.wikipedia.org/wiki/Enhanced_Graphics_Adapter) -> [VGA (1987)](https://en.wikipedia.org/wiki/Video_Graphics_Array) </br>
 
 **There is 3 GPU roads/alternatives:** </br>
-1) on-board AGA + DB23 to DB15 VGA adapter + flicker fixer. </br>
+1) on-board AGA + DB23 to DB15 VGA adapter + flicker fixer "interlaced-to-> progressive scanline converter". </br>
 2) Zorro-3 RTG graphics "High-Res color modes." </br>
 3) Mediator / Prometheus PCI to Zorro adapter board: </br>
 allows PCI cards like Voodoo, that have drivers from [elbox](https://www.elbox.com) &/or CGX. </br>
 
 PCI-to->Zorro adapter boards are popular among people using PowerPC CPU accelerator boards for AmigaOS4.1 Classic </br>
 but... what is better? </br>
-a New Mirari PowerPC machine, faster vs. older PowerPC 604e accelerators & upgrade an Amiga 4000 ? </br>
+a New Mirari PowerPC machine, faster vs. upgrade an Amiga 4000 with older/slower PowerPC 604e accelerators ? </br>
+
 There is a popular 3D game called [Descent](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/182-descent-freespace-amigaos) for PowerPC & 68K. </br>
-there is a E-UAE PowerPC emulator that runs "native", to boot OSX 10.5.9 Sorbet & older OSx for PPC. </br>
+there is E-UAE PowerPC emulator that runs "native" on PowerPC Amigas, to boot OSX 10.5.9 Sorbet & older OSX for PPC. </br>
 i've seen it working on X Amigas in some videos. </br>
-PowerPC emulated on PowerPC runs much faster than emulating PowerPC on x86_64 </br>
+PowerPC emulated on PowerPC runs much better vs. emulating PowerPC on x86_64 </br>
+Apple Rosetta for OSX 10.6.8 SnowLeopard "MacPro (2006-2010)" has Latency emulating PPC OSX 10.5 Leopard & 10.4 Tiger </br>
+Emulating a complete PowerPC on x86_64 has High Power consumption, because older CPU's dont hace C-state energy levels, always running at 100%. </br>
 
 #### Links: </br>
 [CGX Dev Docs](https://github.com/FraBro1/CybergraphX-4-Dev/tree/main) from [old domain source](https://web.archive.org/web/20040609133957/http://home.earthlink.net/~mike.sherman/) </br>
