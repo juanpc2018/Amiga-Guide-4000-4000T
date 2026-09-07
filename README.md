@@ -450,11 +450,13 @@ The A3640 Rev3.1 has a small Bug on the silkscreen print, </br>
 Replacing capacitors backwards in some cases, creating a short on the PCB. </br>
 Sollution always check with a DMM the Negative polarity to GND before installing. </br>
 
-Accelerators based on Software emulations like [Z3660](https://github.com/shanshe/Z3660) + FPGA board or PiStorm32 based on Pi4B, or Amibery, on Synthetic Benchmarks like: </br>
-[Amiga Sysinfo 4.x](https://sysinfo.d0.se/) & [xSysinfo](http://aminet.net/package/util/moni/xSysInfo) give very Large [Dhrystones](https://en.wikipedia.org/wiki/Dhrystone) "Integer Test" up to [1.5Million](https://www.youtube.com/watch?v=NDuVh-zOwdc&t=308s) Mflops: 1680, Mips: 1630 on Pi4B </br>
+Accelerators based on Software emulations like [Z3660](https://github.com/shanshe/Z3660) + FPGA board or [PiStorm32 based on Pi4B](https://github.com/michalsc/Emu68/releases/tag/nightly), or [Amibery](https://github.com/BlitterStudio/amiberry/releases) on Synthetic Benchmarks: </br>
+[Amiga Sysinfo 4.x](https://sysinfo.d0.se/) & [xSysinfo](http://aminet.net/package/util/moni/xSysInfo) give very Large [Dhrystones](https://en.wikipedia.org/wiki/Dhrystone) "Integer Test" up to [1.5Million](https://www.youtube.com/watch?v=NDuVh-zOwdc&t=308s) Mflops: 1680, Mips: 1630 on Pi4B, [other](https://www.youtube.com/watch?v=0f8NKcNGm20&t=1856s) </br>
+[Pi3A+](https://www.youtube.com/watch?v=wJ76kV0Pmzw&t=518s) </br>
 
 Some SW use more Floating point math [Whetsones](https://en.wikipedia.org/wiki/Whetstone_(benchmark)) like 3D CPU Rendering, </br>
-those SW are faster on a Real 030 040 060 with 68882 FPU even Integer benchmark is much slower. </br>
+68882 FPU even Integer benchmark is much slower. </br>
+Mflops & Mips are equivalent to Wheatstones, Not Dhrystones. </br>
 [3D Render Test](https://www.youtube.com/watch?v=yYZZ8_PfkGw&t=240s) </br>
 
 Vampire V4+ FPGA gives 150k Dhrystones, [80 Mflops & 159 Mips](https://www.youtube.com/watch?v=5KnrTEJQJ5A&t=147s), [Standalone](https://www.youtube.com/watch?v=86uamW4c-dY&t=21s)  </br>
@@ -468,6 +470,8 @@ Dhrystones & Whetstone Not only measure Machine Integer & Floating performance, 
 depends how was [compiled](https://github.com/Keith-S-Thompson/dhrystone/tree/master) from [source](https://github.com/varigit/arm_benchmarks/blob/master/whetstone/whetstone.c).[1](https://www.netlib.org/benchmark/index.html).[2](https://www.netlib.org/benchmark/dhry-c).[3](https://www.netlib.org/benchmark/whetstone.c).[4](https://www.netlib.org/benchmark/whetstonec).[5](http://www.roylongbottom.org.uk/whets.c).[6](https://git.ti.com/cgit/apps/arm_benchmarks/plain/whetstone/whetstone.c) results may vary. </br>
 [MIPS test](https://en.wikipedia.org/wiki/Whetstone_(benchmark)#The_first_1_MIPS_minicomputer:_VAX-11/780,_and_VAX_MIPS) was used by DEC to compare different Alpha machines PDP-11, VAX-11, 8800 vs. IBM System Mainframes. VUP for testing Only DEC machines. </br>
 Mflops is closest to Wheastones on Sysinfo 4.x. "the most important test" but almost hidden. </br>
+
+[3dob files](https://www.youtube.com/watch?v=2Hjm9l8Paxk&t=49s) </br>
 
 ## BOM DIY
 
