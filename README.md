@@ -451,9 +451,12 @@ Replacing capacitors backwards in some cases, creating a short on the PCB. </br>
 Sollution always check with a DMM the Negative polarity to GND before installing. </br>
 
 Accelerators based on Software emulations like [Z3660](https://github.com/shanshe/Z3660) + FPGA board or PiStorm32 based on Pi4B, or Amibery, on Synthetic Benchmarks like: </br>
-[Amiga Sysinfo 4.x](https://sysinfo.d0.se/) & [xSysinfo](http://aminet.net/package/util/moni/xSysInfo) give very Large [Dhrystones](https://en.wikipedia.org/wiki/Dhrystone) "Integer Test" up to 1.5Million on Pi4B, but... </br>
+[Amiga Sysinfo 4.x](https://sysinfo.d0.se/) & [xSysinfo](http://aminet.net/package/util/moni/xSysInfo) give very Large [Dhrystones](https://en.wikipedia.org/wiki/Dhrystone) "Integer Test" up to [1.5Million](https://www.youtube.com/watch?v=NDuVh-zOwdc&t=308s) Mflops: 1680, Mips: 1630 on Pi4B </br>
+
 Some SW use more Floating point math [Whetsones](https://en.wikipedia.org/wiki/Whetstone_(benchmark)) like 3D CPU Rendering, </br>
 those SW are faster on a Real 030 040 060 with 68882 FPU even Integer benchmark is much slower. </br>
+[3D Render Test](https://www.youtube.com/watch?v=yYZZ8_PfkGw&t=240s) </br>
+
 Vampire V4+ FPGA gives 150k Dhrystones, [80 Mflops & 159 Mips](https://www.youtube.com/watch?v=5KnrTEJQJ5A&t=147s), [Standalone](https://www.youtube.com/watch?v=86uamW4c-dY&t=21s)  </br>
 
 Real 68k 060 gives : 75K Dhrystones, [56 Mflops & 78 MIPS](https://www.youtube.com/watch?v=cgE1xg1xCZ0&t=2280s) at 100MHz BFG or [Z3660](https://www.youtube.com/watch?v=QFajUKxel1U&t=1068s), Cyberstorm at [80MHz](https://www.youtube.com/watch?v=nCpYvqkm4uQ&t=129s), TF at [62MHZ](https://www.youtube.com/watch?v=skU70bb-5ak&t=19s) Mflops: 50 MIPS: 92 Dhry: 88k, Cyber Mk2 at [50MHz](https://www.youtube.com/watch?v=njrPRXdweOE&t=510s) Dhry: 37K, Mflops: 28, Mips: 39 [Other same](https://www.youtube.com/watch?v=WYhhExBa1k0&t=222s) </br>
