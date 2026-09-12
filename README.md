@@ -618,4 +618,4 @@ Some recommend Atmel ATF750 & ATF2500C, but requires an [DataMan](https://uk.dat
 [YT Tutorial](https://www.youtube.com/watch?v=6VczEkiasno&t=285s) </br>
 [News](https://amigatronics.com/2026/08/29/lightwavertg-el-iconico-lightwave-nativo-rtg-gracias-a-tolkien-y-kikems-amigawave/) </br>
 [Forum Download for 68K & PPC](https://eab.abime.net/showthread.php?t=123609) </br>
-[Coming Soon Trailer](https://www.youtube.com/watch?v=_Sd1VX6as00) </br>
+[What's New Trailer](https://www.youtube.com/watch?v=_Sd1VX6as00) </br>
