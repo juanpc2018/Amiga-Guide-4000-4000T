@@ -163,7 +163,7 @@ allows PCI cards like Voodoo, that have drivers from [elbox](https://www.elbox.c
 
 PCI-to->Zorro adapter boards are popular among people using PowerPC CPU accelerator boards for AmigaOS4.1 Classic </br>
 but... what is better? </br>
-a New Mirari PowerPC machine, faster vs. upgrade an Amiga 4000 with older/slower PowerPC 604e accelerators ? </br>
+a New [Mirari PowerPC](https://www.youtube.com/watch?v=E4I0WHXPi2Q) machine, faster vs. upgrade Amiga 4000 with older/slower PowerPC 604e accelerators ? </br>
 
 There is a popular 3D game called [Descent](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/182-descent-freespace-amigaos) for PowerPC & 68K. </br>
 there is E-UAE PowerPC emulator that runs "native" on PowerPC Amigas, to boot OSX 10.5.9 Sorbet & older OSX for PPC. </br>
@@ -567,12 +567,12 @@ There were other Mouse Designs, but Tank Mouse was the most common. </br>
 ### Install Guide
 https://lyonsden.net/installing-amiga-os-3-1-4-part-3-installing-workbench-3-1-4/ </br>
 
-### Issues
+## Issues
 1. Backward Conmpatibility with older Games / Software designed for Kickstart 1.3 & 68K 000 CPU's </br>
 Solved by ReLoKick &/or WHDLoad </br>
 2. [Capacitor Plague ](https://en.wikipedia.org/wiki/Capacitor_plague) some Serials / Production Years. </br>
-3. Connecting Short & Long Cables wrong / backwards "look" exactly the same, same # of pins. </br>
-Kills several Chips on the Board = Expensive Repair. </br>
+3. Connecting Short & Long Cables wrong / backwards, "look" exactly the same, same # of pins. </br>
+Kills several Chips on the Board = Expensive Repair [Part1](https://www.youtube.com/watch?v=a5wP1dt8bI8) & [Part2](https://www.youtube.com/watch?v=mDoHrINc-LA). </br>
 4. Some Amiga 4000T have issues with PicasoIV Zorro-3 card "Scrolling artifacts at boot / when heats-up" </br>
 some claim the problem is: </br>
 Zorro-3 bus passive termination, others a PSU noise problem in 5v rail, </br>
