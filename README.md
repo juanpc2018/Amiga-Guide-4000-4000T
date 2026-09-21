@@ -186,6 +186,8 @@ TF, Apollo Vampire, etc... </br>
 MISTer complete FPGA emulator based on [Terasic DE-10 Nano](https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1046) dev board + custom hats "i/o boards" </br>
 Apollo [Vampire V4](https://www.apollo-computer.com/v4standalone.php) custom [64-bit](http://www.apollo-core.com/index.htm?page=family&tl=7) [080](https://wiki.apollo-computer.com/doku.php?id=apollo_core:start) FPGA CPU accelerator "060 compatible" + [Super-AGA](http://www.apollo-core.com/index.htm?page=chipset) "AGA" compatible </br>
 small stand alone complete FPGA emulator or A6000 "All-In-One keyboard" like A600/A1200, & CPU accelerator boards for Vintage Amigas. </br>
+[AmiCube v1.1](https://www.youtube.com/watch?v=hpB3OErhiJo) </br>
+[Amibery](https://github.com/BlitterStudio/amiberry/releases) </br>
 
 ## SOFTWARE
 There are many ABANDONWARE software titles "TOSEC", websites like [Myabandonware](https://www.myabandonware.com/browse/platform/amiga/) </br>
