@@ -420,6 +420,7 @@ https://www.hyperion-entertainment.com/index.php/where-to-buy/dealers </br>
 
 ### NEWS
 https://www.lemonamiga.com/ </br>
+https://amiga.kexperiments.com/ </br>
 
 ### OS4 "PPC" Real HW or AmigaForever Win-UAE QEMU emulation
 http://amistore.net/ </br>
@@ -534,6 +535,17 @@ Similar:
 [Power Drift (1988)](https://en.wikipedia.org/wiki/Power_Drift) </br>
 [Original ROM's](https://www.myabandonware.com/game/power-drift-ze#download) </br>
 
+[Sonic The Hedgehog](https://reassembler68k.itch.io/) "Sega Megadrive port" </br>
+[Getting Started: Amiga vs. Megadrive](https://www.youtube.com/watch?v=Xb94oUw7_K4&t=59s) </br>
+[Animated Tiles SSCAN2 Register](https://www.youtube.com/watch?v=k6ROHHcF2rU) </br>
+[Scrolling on the Megadrive vs. Amiga](https://www.youtube.com/watch?v=oqCsvRJgxVI) </br>
+[Music](https://www.youtube.com/watch?v=E4dZzJFroAY) </br>
+[Megadrive Sprites vs. The Blitter](https://www.youtube.com/watch?v=JGKqkJwv2P8) </br>
+[Core Components Partially Playable](https://www.youtube.com/watch?v=nWqK44j0Zps) </br>
+[New Demo](https://www.youtube.com/watch?v=Ug0m9HqsMWI&t=15s) </br>
+[Amiga Optimizations](https://www.youtube.com/watch?v=h6PmkcNxu2U) </br>
+[Physics & Collisions on 7MHz No FPU](https://www.youtube.com/watch?v=6H3XGKVsizs) </br>
+
 ## Mouse & Joystick DB9
 The Original Amiga "Tank Mouse", had different revisions 1351, 1352 & No name. </br>
 Made in Japan and Malaysia, </br>
@@ -621,3 +633,36 @@ Some recommend Atmel ATF750 & ATF2500C, but requires an [DataMan](https://uk.dat
 [News](https://amigatronics.com/2026/08/29/lightwavertg-el-iconico-lightwave-nativo-rtg-gracias-a-tolkien-y-kikems-amigawave/) </br>
 [Forum Download for 68K & PPC](https://eab.abime.net/showthread.php?t=123609) </br>
 [What's New Trailer](https://www.youtube.com/watch?v=_Sd1VX6as00) </br>
+
+### ROMs Ported
+
+[Sonic The Hedgehog | Sega Megadrive port](https://reassembler68k.itch.io/aonic) - [Install Tutorial](https://www.youtube.com/watch?v=B3htbBw-zlg) </br>
+[Amiga Game Selector](https://ko-fi.com/amigagameselector) </br>
+[Amiga Vault](https://amigachristmastree.ultimateamiga.com/Halloween.html) </br>
+
+[COMMANDO](https://jotd666.itch.io/commando) </br>
+There is a series of videos on YT about: </br>
+Mixing C64 Music + Arcade Graphics </br>
+C64 SID synth, to replace the sound of the Real Arcade Machine. </br>
+[C64](https://www.myabandonware.com/game/commando-5l#download) music was better vs. Arcade. </br>
+[part1](https://www.youtube.com/watch?v=ewyzM-H286U&t=98s) - [part2](https://www.youtube.com/watch?v=1YWe811rehU&t=72s) </br>
+[Arcade SCH & SM](https://archive.org/search?tab=all&query=data+east+instruction+manual+commando) </br>
+
+Amiga Port sounds interesting. </br>
+
+[Double Dragon](https://jotd666.itch.io/double-dragon) </br>
+[Bad Dudes vs Dragonninja](https://jotd666.itch.io/bad-dudes-vs-dragonninja) </br>
+[Gyruss](https://jotd666.itch.io/gyruss) </br>
+Gyrus is also an interesting case, bacause Original Arcade had 5 Yamaha Synths hard panned: </br>
+2x Left 1x Center & 2x Right </br>
+Emulating the Music is complicated. </br>
+
+Amiga port needs much more work in the Music. </br>
+
+[Donkey Kong 500](https://jotd666.itch.io/donkey-kong-500)
+[Tetris 1200 "AGA"](https://jotd666.itch.io/tetris1200)
+[Bagman 500](https://jotd666.itch.io/bagman500)
+[SuperBagman 500](https://jotd666.itch.io/superbagman500)
+[SuperCars II "AGA"](https://jotd666.itch.io/supercars-2-aga)
+
+https://robsmith-dev.itch.io/
