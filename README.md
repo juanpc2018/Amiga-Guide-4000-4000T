@@ -14,7 +14,7 @@ were the last & best Amiga made around Motorola 68K 030 040 CPU's, </br>
 has optional 3rd party accelerator boards that allow different kinds of CPU upgrades: </br>
 ARM "68K 040 SW Emulation", FPGA, Real Motorola [68060](https://en.wikipedia.org/wiki/Motorola_68060) & 604e PowerPC CPU's </br> 
 [Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500) / [1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) / [2000 (87-91)](https://en.wikipedia.org/wiki/Amiga_2000) / [600 (92-93)](https://en.wikipedia.org/wiki/Amiga_600) / [1200 (92-96)](https://en.wikipedia.org/wiki/Amiga_1200) were more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
-Units made is Uknown, official production dates are between 1992 & 1996, but i've seen Amiga 4000T made in [1997.](https://www.youtube.com/watch?v=bNhu-3rPZCg&t=141s) </br>
+Units made is Uknown, official production dates are between 1992 & 1996, but i've seen Amiga 4000T made in [1997.](https://www.youtube.com/watch?v=bNhu-3rPZCg&t=146s) </br>
 
 There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture), Arcade inspired custom chips. </br>
 
