@@ -16,7 +16,7 @@ ARM "68K 040 SW Emulation", FPGA, Real Motorola [68060](https://en.wikipedia.org
 [Amiga 500 (1987-1992)](https://en.wikipedia.org/wiki/Amiga_500) / [1000 (1985-1987)](https://en.wikipedia.org/wiki/Amiga_1000) / [2000 (87-91)](https://en.wikipedia.org/wiki/Amiga_2000) / [600 (92-93)](https://en.wikipedia.org/wiki/Amiga_600) / [1200 (92-96)](https://en.wikipedia.org/wiki/Amiga_1200) were more common = most games were designed for Kickstart 1.3 ROM & 68000 CPU. </br>
 Units made is Uknown, official production dates are between 1992 & 1996, but i've seen Amiga 4000T made in [1997.](https://www.youtube.com/watch?v=bNhu-3rPZCg&t=146s) </br>
 
-There were changes over the years to accomodate New technologies "better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture), Arcade inspired custom chips. </br>
+There were changes over the years to accomodate New technologies: better graphics like [AGA](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture), Arcade inspired custom chips. </br>
 
 Arcade machines were $10k usd. in late 1980's/early 1990's = ~$27k in [2026](https://www.usinflationcalculator.com/) </br>
 Dual CPU's, Dedicated Sprite / Graphics accelerator, 3 boards, some had 5 sound engines, but 1 trick pony. </br>
@@ -57,7 +57,7 @@ Emulate Kickstart 1.3 ROM in RAM on Newer [Kickstart](https://en.wikipedia.org/w
 SW came with [CU Amiga Magazine issue 037 - March 1993](https://archive.org/details/cuamiga-magazine-037/page/n11/mode/2up) </br>
 Requires minimum 1MB of FastRAM, Today thats Not a problem, most CPU accelerator boards have plenty of FastRAM. </br>
 there are modifications for the A4000 to breakthrough the 16MB FastRAM Limit w/o CPU Accelerator to 64MB & [112MB](https://drive.usercontent.google.com/download?id=15nFvyg4oYhQpE3a8nD3mrfQDS_BrZPch&export=download) </br>
-ReloKick is Not available on [aminet website](https://aminet.net/) "Amiga AppStore" Pre-PPA Repository, Nor A-EON OS4 appstore. </br>
+ReloKick is Not available on [aminet website](https://aminet.net/) "AmigaOS AppStore" Pre-PPA Repository, Nor A-EON OS4 appstore. </br>
 
 A4000 is pre-TCP/IP, pre-SSL </br>
 there are several Ethernet 100Mbps cards available for Zorro slots, </br>
@@ -107,7 +107,7 @@ schematics were reverse eng. and [recreation boards were made](https://scsi.me/#
 
 Amiga 4000 / 3000 series have Zorro-3 Slots "faster" vs. A2000 Zorro-2 </br>
 AGA video chipset like A1200 </br>
-All Amigas come with a "basic" GPU, that requires special 15KHz monitor, &/or scan converter + </br>
+All Amigas come with a basic GPU, requires special 15KHz monitor, &/or scan converter + </br>
 Rare DB23 adapter to DB15 VGA </br>
 The A4000/T has standard AT Power supply "Efficiency 68%"  </br>
 The "D" has a different PSU, different connectors. </br>
@@ -133,7 +133,7 @@ There are Modern PPC Cpus for embedded systems that contain Altivec. </br>
 
 ## GPU's
 Older GPU's like [PicassoIV v1.2](https://amiga.resource.cx/exp/picasso4).[wiki](https://www.amigawiki.org/doku.php?id=en:expansion:av:picasso_iv).[bbah](https://bigbookofamigahardware.com/bboah/product.aspx?id=468).[sd](https://www.sophisticated-development.de/software/index.php/P-IV).[sch](http://amiga.serveftp.net/Schematics/VillageTronic/) & [Piccolo SD64](https://www.youtube.com/watch?v=bqqmQgWlQX0).[cx](https://amiga.resource.cx/exp/piccolosd64) </br>
-based on Cirrus Logic GD5446BV-HC-A/B & GD5434-HC-A/B + custom FPGA, </br> 
+based on Cirrus Logic [GD5446](https://theretroweb.com/chips/3888)BV-HC-A/B & [GD5434](https://theretroweb.com/chips/3858)-HC-A/B + custom FPGA, </br> 
 were very desired because didnt had the 15KHz limitation, 4MB VRAM allows Hi-Res SVGA/XVGA Monitors. </br>
 called [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) graphics card "Re-Traceable Graphics" </br>
 New [RTG](https://en.wikipedia.org/wiki/Retargetable_graphics) GPU's like MNT [ZZ9000](https://www.youtube.com/watch?v=NTnixC5ym-o) latest Rev. take Amiga to the Next level. </br>
@@ -148,7 +148,7 @@ but some AGA games can be "forced" to run in Native RTG "[CGX](https://en.wikipe
 
 Colonization, MegaBall 4, [SimAnt](https://web.archive.org/web/20010419000629/http://www.mcs.net/~kanep/www/simant.html), SimEarth.
 
-Basically Commodore Amiga Chipset: </br>
+Commodore Amiga Chipset: </br>
 [VIC-II (1982)](https://en.wikipedia.org/wiki/MOS_Technology_VIC-II) "C64" -> [OCS (1985)](https://en.wikipedia.org/wiki/Amiga_Original_Chip_Set) -> [ECS (1990)](https://en.wikipedia.org/wiki/Amiga_Enhanced_Chip_Set) "A3000" -> [AGA (1992)](https://en.wikipedia.org/wiki/Amiga_Advanced_Graphics_Architecture) "A1200/A4000T/CD32" -> RTG Zorro-2/3 -> "CGX" </br>
 Original Chipset -> Enhanced Chipset -> Advanced Chipset -> [Retraceable Graphics](https://everything.explained.today/Retargetable_graphics/) -> CyberGraphX </br>
 3rd Party: Apollo Vampire V4 68k 080 -> SuperAGA </br>
@@ -157,9 +157,9 @@ similar to IBM evolution: </br>
 
 **There is 3 GPU roads/alternatives:** </br>
 1) on-board AGA + DB23 to DB15 VGA adapter + flicker fixer "interlaced-to-> progressive scanline converter". </br>
-2) Zorro-3 RTG graphics "High-Res color modes." </br>
+2) Zorro-3 RTG graphics "High-Res color modes" </br>
 3) Mediator / Prometheus PCI to Zorro adapter board: </br>
-allows PCI cards like Voodoo, that have drivers from [elbox](https://www.elbox.com) &/or CGX. </br>
+allows PCI cards like Voodoo, & drivers from [elbox](https://www.elbox.com) &/or CGX. </br>
 
 PCI-to->Zorro adapter boards are popular among people using PowerPC CPU accelerator boards for AmigaOS4.1 Classic </br>
 but... what is better? </br>
@@ -199,7 +199,7 @@ others create Open Source OS like CaffeineOS, [AROS](http://www.aros.org/), [Vis
 
 ## DIY
 If you buy a Replica board from one of the many Amiga sellers / stores, </br>
-to replace the old damaged board "transplant components", to create a New machine or to Repair. </br>
+to replace the old damaged board "transplant components", create a New machine or to Repair. </br>
 
 [Parts List](https://docs.google.com/spreadsheets/d/1czsNg6O3RXiB12KduvjW-nOGRPwfiWtYTnK7Xi-feMI/edit?gid=0#gid=0) </br>
 
@@ -211,15 +211,15 @@ Later Hyperion created ROM's: 3.1.4 in (2018) </br>
 Roms 3.2 in 2020 as Physical Purchase & <br>
 ROMs 3.2.x as [Digital Download](https://www.hyperion-entertainment.com/index.php/where-to-buy/direct-downloads/327-amigaos-32) in (2026) </br>
 
-IF buy Digital Downloads, and are making a New machine: </br>
+IF buy Digital Downloads, and making a New machine: </br>
 need to prepare the ROMs before Burning with a TL866-II+ or similar T48 Eprom Programmer </br>
 2x Compatilble 40-pin UV Eresable Eprom's like: Am27C400 "4Megabit = 512KiloByte 8-Bit or 256KB at 16-Bit" </br>
 & faster than <200ns access time. </br>
 
 Change from Little.Endian "x86_64" to Big.Endian "68K" / "Swap Bytes Order" </br>
-Split Single ROM images from the Digital Download to fit 2x EPROMS </br>
+Split Single ROM images from Digital Download to fit 2x EPROMS </br>
 because machine is 32-Bit but Roms are configured 16-Bit each. </br>
-Atari TT / Falcon is 32-Bit but 8-bit each "4x Eproms needed" </br>
+Atari TT / Falcon is 32-Bit but Roms are 8-bit each "4x smaller Eproms required" </br>
 
 Optional a Zif-Socket adapter board, when using Eproms bigger than 40-pins, </br>
 because TL866-II plus & T48 programmers only have 40-pins, </br>
@@ -257,7 +257,7 @@ Placing a Black piece of Tape over the [Quartz UV Window](https://en.wikipedia.o
 Mechanical IDE & SCSI HDD's are most gone / damaged, but.. </br>
 there are CompactFlash CF or SD to IDE & SCSI-2 adapters: </br>
 RaSCSI, PiSCSI, ZuluSCSI, XT-IDE "8-bit", AT-IDE "16-bit" </br>
-there is also SSD-SATA-to->IDE & [SATA-to->SCSI](http://www.acard.com/index.files/Page728.htm) [adapter.](http://www.acard.com/index.files/Page861.htm) </br>
+there is SSD SATA-to->IDE & [SATA-to->SCSI](http://www.acard.com/index.files/Page728.htm) [adapter.](http://www.acard.com/index.files/Page861.htm) </br>
 
 i have an "Acme" SATA-SSD-to->IDE adapter, Generic IC, </br>
 Startech sell [similar](https://www.startech.com/en-us/hdd/ide2sat2) with Marvell 88SA8052 IC </br>
@@ -281,10 +281,10 @@ Zorro-3 SCSI adapters A4091 or similar maybe can be connected directly, No Ribbo
 or with a shorter ribbon with active termination. </br>
 Original 4000T 50-pin Ribbon cable is too large & big, affects airflow. </br>
 
-**Having both adapters to change the same SSD from IDE to SCSI. </br>
+**Having both adapters to change the SSD from IDE to SCSI. </br>
 Only requires Double Mouse click at boot, to enter Kickstart ROM Boot Menu. </br>
 
-if want to experience how fast or slow is..., </br>
+if want to experience how fast or slow..., </br>
 install a modern Linux Ubuntu / Kubuntu 20.04 or 22.04 on a external USB3 SSD, </br>
 connected to a USB2.0 port, on any PC, hit F11 at Boot. </br>
 
@@ -341,7 +341,7 @@ be quiet! [DARK POWER 14 850W](https://www.bequiet.com/en/powersupply/5790) has 
 26A at 5v is the Theoretic Limit Requirement chosen by Amiga for the 4000T </br>
 some 4000 Amigas have a "Cost Reduced 200w PSU" </br>
 
-**¿does A4000T requires all that power at 5v?** </br>
+**¿does A4000T require all that power at 5v?** </br>
 
 to fully answer that question requires testing under heavy load, </br>
 with several DMM's that Send data to a PC with [UltraDMM](https://ultradmm.com/supported-meters) or similar. </br>
@@ -352,7 +352,7 @@ Emulating a CD32 & play all games from CD + joypads </br>
 using different GPUs like ZZ9000 fully upgraded, Picaso IV, Picollo SD64 </br>
 different sound cards like: AmiGUS, Toccata & others. </br>
 using different SCSI Zorro boards, </br>
-iBrowser with SSL & TCP-IP CPU emulation, several tabs open to consume all 16MB FastRAM. </br>
+iBrowser with SSL & TCP-IP CPU emulation, several tabs open to consume all FastRAM. </br>
 using RAM mods to 112MB, Zorro-3 Ram cards, etc.. </br> 
 
 Using Real SCSI & IDE mechanical HDD's is pointless. </br>
@@ -450,9 +450,10 @@ Boot Directly to Diagnostic, there are Floppy versions, and ROM versions. </br>
 
 ## CASE
 A4000T is "AT compatible" in many ways, but is Not 100% ATX compatible... </br>
-the Ports Module: Serial, Parallel, Mouse, Joystick daugter board, 
 An Original Amiga A4000T case, has holes / cut-outs on the case, </br>
-but the ports boards does Not fit a modern ATX case back plate. </br>
+for the Ports Module: Serial, Parallel, Mouse, Joystick daugter board. </br>
+
+but ports board does Not fit a modern ATX case back plate. </br>
 Sollution is the project: [ATX Ports module](https://gitlab.com/amiga-projects/atx_ports_module).[amybay](https://www.amibay.com/threads/a4000t-bom-incl-parts-list.2447556/) </br>
 
 ## CPU Boards
@@ -589,7 +590,7 @@ https://lyonsden.net/installing-amiga-os-3-1-4-part-3-installing-workbench-3-1-4
 ## Issues
 1. Backward Conmpatibility with older Games / Software designed for Kickstart 1.3 & 68K 000 CPU's </br>
 Solved by ReLoKick &/or WHDLoad </br>
-2. [Capacitor Plague ](https://en.wikipedia.org/wiki/Capacitor_plague) some Serials / Production Years. </br>
+2. [Capacitor Plague](https://en.wikipedia.org/wiki/Capacitor_plague) some Serials / Production Years. </br>
 3. Connecting Short & Long Cables wrong / backwards, "look" exactly the same, same # of pins. </br>
 Kills several Chips on the Board = Expensive Repair [Part1](https://www.youtube.com/watch?v=a5wP1dt8bI8) & [Part2](https://www.youtube.com/watch?v=mDoHrINc-LA). </br>
 4. Some Amiga 4000T have issues with PicasoIV Zorro-3 card "Scrolling artifacts at boot / when heats-up" </br>
@@ -624,10 +625,10 @@ other Resistor Networks are Pull-up resistors. </br>
 [A4TK Locator](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
 [AmigaPCB.org](https://www.amigapcb.org/) </br>
 
-5. Zorro-3 Video cards like [X-Pert / ProDev Merlin](https://amiga.resource.cx/exp/merlin) based on Tseng4000 IC also has problems, unless modified. </br>
-Merlin video cards were Not 100% Zorro-3 compliant, </br>
+5. Zorro-3 Video cards like [X-Pert / ProDev Merlin](https://amiga.resource.cx/exp/merlin) based on [Tseng ET4000](https://theretroweb.com/?query=Tseng+Labs+ET4000) IC also has problems, unless modified. </br>
+Merlin video cards were Not 100% Zorro-3 compliant, requires mods. </br>
 Picasso IV Rev1.2 are 100% Zorro-3 compliant, but also has problems, </br>
-because Amiga 4000T Board was Not 100% High-Speed PCB design / routing compliant. </br>
+because Amiga 4000T Board was Not 100% High-Speed PCB design compliant. </br>
 Thats why also requires the Zorro-3 Active Bus Termination Mod. </br>
 6. CPU Board A3640 Rev 3.1 has silkscreen printed wrong, capacitors with polarity wrong. </br>
 7. CPU board Rev 3.0 has an Outdated GAL chip. </br>
