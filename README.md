@@ -324,21 +324,21 @@ BUT... Older Machines were designed to require more Amps/Watts at 5v rail, and l
 Newer machines are the opposite: require more Amps/Watts at 12v rail, and less at 5v. </br>
 
 That means: </br>
-Original Amiga 4000T PSU is "250watts total" but has 26 Amps for 5v rail "130w Limit". </br>
+Original Amiga 4000T PSU is "250watts total" but has 26 Amps for 5v rail "130w Limit" 52%. </br>
 To replace with a Newer ATX PSU, requires a 850w, smaller PSU's don't have enough Watts at 5v rail. </br>
 
 **Recommended:** </br>
 Titanium, because efficiency lowers -4% to 90% when used at less or more than 50% load, </br>
-[Corsair AX850](https://www.corsair.com/us/en/p/psu/cp-9020151-na/ax-series-ax850-850-watt-80-plus-titanium-certified-fully-modular-atx-psu-cp-9020151-na) has 20A, -6A short, AX1000 has 25A, -1A short. </br>
-Silverstone [ST70F-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST70F-TI/) "700w" is 22A, -4A short on 5V rail. </br>
-Silverstone [SX800-LTI](https://www.silverstonetek.com/en/product/info/power-supplies/SX800-LTI/) "800" SFF-L "Not-ATX size, smaller" is 15A, -11A shorter at 5v. </br>
-Silverstone [NJ700](https://www.silverstonetek.com/en/product/info/power-supplies/NJ700/) "700w fanless" is 20A, -6A short. </br>
-Silverstone [ST1100-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1100-TI/) & [ST1300-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1300-TI/) "1100w & 1300w" has same 22A at 5v, -4A short. </br>
-Seasonic [PRIME Titanium](https://seasonic.com/prime-titanium/) 650w 750w 850w has 20A each, 1000w has 25A. </br>
-EVGA [850 T2](https://www.evga.com/products/product.aspx.pn=220-T2-0850-X1.html) has 20A, -6A short. </br>
-be quiet! [DARK POWER 14 850W](https://www.bequiet.com/en/powersupply/5790) has 24A, -2A short. </br>
+[Corsair AX850](https://www.corsair.com/us/en/p/psu/cp-9020151-na/ax-series-ax850-850-watt-80-plus-titanium-certified-fully-modular-atx-psu-cp-9020151-na) has 20A, -6A short 11.8%, AX1000 has 25A, -1A short 12.5%. </br>
+Silverstone [ST70F-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST70F-TI/) "700w" is 22A, -4A short on 5V rail. 15.7%  </br>
+Silverstone [SX800-LTI](https://www.silverstonetek.com/en/product/info/power-supplies/SX800-LTI/) "800" SFF-L "Not-ATX size, smaller" is 15A, -11A shorter at 5v. 9.4% </br>
+Silverstone [NJ700](https://www.silverstonetek.com/en/product/info/power-supplies/NJ700/) "700w fanless" is 20A, -6A short. 14.3% </br>
+Silverstone [ST1100-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1100-TI/) & [ST1300-TI](https://www.silverstonetek.com/en/product/info/power-supplies/ST1300-TI/) "1100w & 1300w" has same 22A at 5v, -4A short. 10% & 8.5% </br>
+Seasonic [PRIME Titanium](https://seasonic.com/prime-titanium/) 650w 750w 850w has 20A each (15.4%, 13.3%, 11.7%) 1000w has 25A. 12.5% </br>
+EVGA [850 T2](https://www.evga.com/products/product.aspx.pn=220-T2-0850-X1.html) has 20A, -6A short. 11.7% </br>
+be quiet! [DARK POWER 14 850W](https://www.bequiet.com/en/powersupply/5790) has 24A, -2A short. 14.1% </br>
 
-26A at 5v is the Theoretic Limit / Requirement chosen by Amiga for the 4000T </br>
+26A at 5v is the Theoretic Limit Requirement chosen by Amiga for the 4000T </br>
 some 4000 Amigas have a "Cost Reduced 200w PSU" </br>
 
 **¿does A4000T requires all that power at 5v?** </br>
@@ -371,10 +371,11 @@ but requires a Solar farm: </br>
 8x >400w panels, >4x-8x 80A-60A MPPT solar chargers, >500A 24v Lead batteries, cables, connectors, </br>
 Not a Plug'N Play sollution. </br>
 
-800w model Works from 12v to 68v DC systems, but 24v has peak eficiency curve. </br>
-DC-ATX PSU skip DC-to-AC inverters, most have -10% loss, & ATX-to-DC PSU 80 Plus, that also has loss. </br>
-Total loss is aprox -20% using traditional method. </br>
-Also DC-to-AC inverters fail often because Fan does Not spin at low loads, and bugs like heat. </br>
+800w model Works from 12v to 68v DC systems, but at 24v has peak eficiency. </br>
+DC-ATX PSU skip DC-to-AC inverters, most have -10% loss, ATX-to-DC PSU 80 Plus, also has loss. </br>
+Total loss is -20% with 80 Plus Titanium PSU's "Traditional method." </br>
+
+DC-to-AC inverters fail often because Fan does Not spin at low loads, and bugs like heat. </br>
 is recommended to use several small inverters in parallel vs. 1 large unit, </br>
 & avoid AC-to-DC conversion when possible. </br>
 
