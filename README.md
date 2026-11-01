@@ -545,6 +545,8 @@ Similar:
 [New Demo](https://www.youtube.com/watch?v=Ug0m9HqsMWI&t=15s) </br>
 [Amiga Optimizations](https://www.youtube.com/watch?v=h6PmkcNxu2U) </br>
 [Physics & Collisions on 7MHz No FPU](https://www.youtube.com/watch?v=6H3XGKVsizs) </br>
+[Sonic Hidden Recoding mode for Demo Scenes](https://www.youtube.com/watch?v=0O-Z4B6vCNc) </br>
+[Music + Sound FX on 4cg vs. Megadrive 9 audio ch](https://www.youtube.com/watch?v=i6cRy8RoZsk) </br>
 
 ## Mouse & Joystick DB9
 The Original Amiga "Tank Mouse", had different revisions 1351, 1352 & No name. </br>
@@ -602,14 +604,14 @@ people that recreated Amiga 4000 boards say boards are 6-layer. </br>
 Recreation boards are an exact replica of the old boards, some spin-off's solve some issues, but Not all. </br>
 
 **Sollution:** </br>
-Matze the Developer of BFG9060 has created an "[Bus Terminator](h )" in [a1k.org](https://www.a1k.org/forum/index.php?threads/85342/) forum </br>
-similar to SCSI-2 Active Terminator, but instead of 2.85vdc is 3.3vdc, and instead of 330 ohms is 220ohms. </br>
-Because Amiga 4000T has 3.3v logic & 5v logic, SCSI-2 only has SCSI-2 signals. </br>
+Matze the Developer of [BFG9060](https://gitlab.com/MHeinrichs/a4000-tk) & [other](https://gitlab.com/tkurbad/amiga-hardware-info) projects for Amiga, has created a "Bus Terminator" in [a1k.org](https://www.a1k.org/forum/index.php?threads/85342/) forum </br>
+similar to SCSI-2 Active Terminator, but instead of 2.85vdc is 3.3vdc, and 220 ohms instead of 330 ohms. </br>
+Amiga 4000T has 3.3v logic & 5v logic, SCSI-2 only has SCSI-2 signals. </br>
 Active termination avoids signal reflections, crosstalk interference. </br>
 
-Can Only be installed on 6x Resistor Array Networks, 10x pins each, **Not All** </br> 
+Can Only be installed on 6x Resistor Array Networks: 10x pins each, **Not All** </br> 
 Careful with Photo on [2nd page](https://www.a1k.org/forum/index.php?threads/85342/page-2) that angle looks like all ResNet were changed. </br>
-Change Only: </br>
+**Change Only:** </br>
 RP752A/B/C/D/E/F = 8x330/470 (8X10) </br>
 Original Resistor Networks are Not Isolated, are Voltage Dividers. </br>
 other Resistor Networks are Pull-up resistors. </br>
@@ -617,10 +619,11 @@ other Resistor Networks are Pull-up resistors. </br>
 [A4TK Locator](https://www.amiga4000tower.de/smf/pms/a4tlocator5.php) </br>
 [AmigaPCB.org](https://www.amigapcb.org/) </br>
 
-5. Zorro-3 Video cards like [X-Pert / ProDev Merlin](https://amiga.resource.cx/exp/merlin) based on Tseng4000 IC also increase problems, unless modified. </br>
+5. Zorro-3 Video cards like [X-Pert / ProDev Merlin](https://amiga.resource.cx/exp/merlin) based on Tseng4000 IC also has problems, unless modified. </br>
 Merlin video cards were Not 100% Zorro-3 compliant, </br>
-Picasso IV Rev1.2 is 100% Zorro-3 compliant, but also has problems, </br>
+Picasso IV Rev1.2 are 100% Zorro-3 compliant, but also has problems, </br>
 because Amiga 4000T Board was Not 100% High-Speed PCB design / routing compliant. </br>
+Thats why also requires the Zorro-3 Active Bus Termination Mod. </br>
 6. CPU Board A3640 Rev 3.1 has silkscreen printed wrong, capacitors with polarity wrong. </br>
 7. CPU board Rev 3.0 has an Outdated GAL chip. </br>
 8. Replacing Original Lattice GAL chips 22V10-6 & -7 with modern Atmel GAL chips ATF22V10C-10 & -15 has issues </br> 
@@ -636,7 +639,7 @@ Some recommend Atmel ATF750 & ATF2500C, but requires an [DataMan](https://uk.dat
 
 ### ROMs Ported
 
-[Sonic The Hedgehog | Sega Megadrive port](https://reassembler68k.itch.io/aonic) - [Install Tutorial](https://www.youtube.com/watch?v=B3htbBw-zlg) </br>
+[Sonic The Hedgehog | Sega Megadrive](https://reassembler68k.itch.io/aonic) - [Install Tutorial](https://www.youtube.com/watch?v=B3htbBw-zlg) </br>
 [Amiga Game Selector](https://ko-fi.com/amigagameselector) </br>
 [Amiga Vault](https://amigachristmastree.ultimateamiga.com/Halloween.html) </br>
 
@@ -659,10 +662,10 @@ Emulating the Music is complicated. </br>
 
 Amiga port needs much more work in the Music. </br>
 
-[Donkey Kong 500](https://jotd666.itch.io/donkey-kong-500)
-[Tetris 1200 "AGA"](https://jotd666.itch.io/tetris1200)
-[Bagman 500](https://jotd666.itch.io/bagman500)
-[SuperBagman 500](https://jotd666.itch.io/superbagman500)
-[SuperCars II "AGA"](https://jotd666.itch.io/supercars-2-aga)
+[Donkey Kong 500](https://jotd666.itch.io/donkey-kong-500) </br>
+[Tetris 1200 "AGA"](https://jotd666.itch.io/tetris1200) </br>
+[Bagman 500](https://jotd666.itch.io/bagman500) </br>
+[SuperBagman 500](https://jotd666.itch.io/superbagman500) </br>
+[SuperCars II "AGA"](https://jotd666.itch.io/supercars-2-aga) </br>
 
-https://robsmith-dev.itch.io/
+https://robsmith-dev.itch.io/ </br>
