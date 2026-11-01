@@ -365,18 +365,22 @@ Other Rare cards: </br>
 Bridgeboards, PPC CPU boards. </br>
 VideoToaster 4000 for people interested in Video Editing. </br> 
 
-Using Solar Panel / Battery powered: DC-ATX </br>
+Using Solar Panel / Battery powered / Car-Atlernator: DC-ATX </br>
 [HDPLEX 800w](https://hdplex.com//hdplex-800w-dc-atx-with-12v-63vdc-input.html) has 25A at 5V "Enough", </br>
 but requires a Solar farm: </br>
 8x >400w panels, >4x-8x 80A-60A MPPT solar chargers, >500A 24v Lead batteries, cables, connectors, </br>
 Not a Plug'N Play sollution. </br>
 
-If connecting to Car/Vehicle Alternator: needs 24v to have better eficiency. </br>
-DC-ATX PSU skip DC-to-AC inverters, most have -10% loss, </br>
-and fail often because Fan does Not spin at low loads, and bugs like heat. </br>
+800w model Works from 12v to 68v DC systems, but 24v has peak eficiency curve. </br>
+DC-ATX PSU skip DC-to-AC inverters, most have -10% loss, & ATX-to-DC PSU 80 Plus, that also has loss. </br>
+Total loss is aprox -20% using traditional method. </br>
+Also DC-to-AC inverters fail often because Fan does Not spin at low loads, and bugs like heat. </br>
+is recommended to use several small inverters in parallel vs. 1 large unit, </br>
+& avoid AC-to-DC conversion when possible. </br>
 
 Replacing the PSU is Not as easy. </br>
-Optional there is a DIY ATX2AT converter / Analyzer / Power Protection circuit. </br>
+Optional there is a DIY [ATX2AT Smart Adapter](https://odysee.com/@root42:1/the-atx2at-retro-pc-saver-and-a-look:9) / Converter / Analyzer / Power Protection circuit. </br>
+[1](https://www.youtube.com/watch?v=3eRXQ0c1YZg) - [2](https://www.youtube.com/watch?v=fPdMvPuDx2o) - [3](https://www.youtube.com/watch?v=dsv_vRrqlOI) </br>
 
 Power consumption varies with each case, </br>
 requires a community effort "All 4000 owners" to find the limits & Avg. values. </br>
